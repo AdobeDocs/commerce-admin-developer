@@ -1,10 +1,10 @@
 {
-  "name": "commerce-testing",
+  "name": "commerce-admin-developer",
   "version": "1.0.0",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdobeDocs/commerce-testing"
+    "url": "https://github.com/AdobeDocs/commerce-admin-developer"
   },
   "dependencies": {
     "@adobe/gatsby-theme-aio": "^4.3.0",
