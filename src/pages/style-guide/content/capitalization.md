@@ -1,6 +1,6 @@
 ---
 title: Capitalization | Commerce Admin Development
-description:
+description: Learn how to properly use capitalization for custom content displayed in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Capitalization

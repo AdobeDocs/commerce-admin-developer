@@ -1,6 +1,6 @@
 ---
 title: Voice and tone | Commerce Admin Development
-description:
+description: Leanr how to write custom content using the proper voice and tone for the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Voice and tone

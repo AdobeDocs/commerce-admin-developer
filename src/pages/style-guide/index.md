@@ -1,6 +1,6 @@
 ---
 title: Admin Style Guide | Commerce Admin Development
-description: 
+description: Review style guide resources for designing UI elements and writing content for the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Admin Style Guide

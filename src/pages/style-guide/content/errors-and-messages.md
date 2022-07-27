@@ -1,6 +1,6 @@
 ---
 title: Errors and messages | Commerce Admin Development
-description:
+description: Learn how to write custom errors messages and UI text that users see in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Errors and messages

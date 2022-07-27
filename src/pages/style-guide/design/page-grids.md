@@ -1,6 +1,6 @@
 ---
 title: Page grids | Commerce Admin Development
-description:
+description: Learn how to work with page layouts and templates in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Page grids

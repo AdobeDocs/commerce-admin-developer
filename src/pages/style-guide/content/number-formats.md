@@ -1,6 +1,6 @@
 ---
 title: Number formats | Commerce Admin Development
-description:
+description: Learn how to use the proper number format for addresses, percentages, money, dates, and time in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Number formats

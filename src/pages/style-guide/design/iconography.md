@@ -1,6 +1,6 @@
 ---
 title: Iconography | Commerce Admin Development
-description:
+description: Learn about how icons are used in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Iconography

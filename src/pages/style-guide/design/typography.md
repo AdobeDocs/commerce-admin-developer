@@ -1,6 +1,6 @@
 ---
 title: Typography | Commerce Admin Development
-description:
+description: Learn how typography is used in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Typography
