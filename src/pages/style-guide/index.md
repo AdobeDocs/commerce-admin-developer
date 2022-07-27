@@ -23,7 +23,7 @@ The Admin guide sets our foundational design, writing, and content standards for
 
 ## Writing and Content
 
-*  **[Voice and Tone](content/voice-tone.md)** — Outlines a set of ground rules to engage and empower users as they navigate the Admin and perform tasks with confidence and ease.
+*  **[Voice and Tone](content/voice-and-tone.md)** — Outlines a set of ground rules to engage and empower users as they navigate the Admin and perform tasks with confidence and ease.
 
 *  **[Errors and Messages Writing](content/errors-and-messages.md)** — Establishes how to communicate with users when errors occur or important information needs to be communicated.
 
