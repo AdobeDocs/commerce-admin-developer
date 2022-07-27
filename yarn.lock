@@ -7495,9 +7495,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"commerce-testing@workspace:.":
+"commerce-admin-developer@workspace:.":
   version: 0.0.0-use.local
-  resolution: "commerce-testing@workspace:."
+  resolution: "commerce-admin-developer@workspace:."
   dependencies:
     "@adobe/gatsby-theme-aio": ^4.3.0
     gatsby: ^4.19.1
