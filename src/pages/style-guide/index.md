@@ -1,6 +1,6 @@
 ---
 title: Admin Style Guide | Commerce Admin Development
-description:
+description: 
 ---
 
 # Admin Style Guide
