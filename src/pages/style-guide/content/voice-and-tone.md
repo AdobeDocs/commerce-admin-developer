@@ -1,17 +1,13 @@
 ---
-group: admin-style-guide
-subgroup: Writing and Content
-title: Admin Voice and Tone
-menu_title: Voice and Tone
-menu_order: 1
-menu_node:
-functional_areas:
-  - Content
+title: Voice and tone | Commerce Admin Development
+description:
 ---
+
+# Voice and tone
 
 Our priority is to help users perform administrative tasks with ease and manage their stores effectively.
 
-Magento’s voice is:
+The application's voice is:
 
 *  Instructional and clear. The content is concise but informational, guiding the user to successfully perform tasks.
 
@@ -23,7 +19,7 @@ Magento’s voice is:
 
 **Write casual, but professional, content in gender-neutral terms.**
 
-Create a consistent tone of communication that sounds like dialogue, as you would hear it. Here’s a useful tip when creating copy:  Imagine describing the product or task face-to-face with a new marketing employee tasked with using Admin.
+Create a consistent tone of communication that sounds like dialogue, as you would hear it. Here’s a useful tip when creating copy: Imagine describing the product or task face-to-face with a new marketing employee tasked with using Admin.
 
 Write sentences with plain, concise language. Use contractions for verbs. Never use a long word when a shorter word can take its place, and omit unnecessary words.
 
@@ -39,7 +35,7 @@ Content should be gender neutral. To avoid “his” or “her” pronouns, chan
 
 **Follow accessibility and readability standards.**
 
-To ensure that users with special needs – including the use of screen readers – can easily access your content, follow the content and design standards in the Admin Design Pattern Library's [Accessibility Guidelines]({{ page.baseurl }}/pattern-library/general/accessibilityguideline/accessibilityGuideline.html).
+To ensure that users with special needs – including the use of screen readers – can easily access your content, follow the content and design standards in the Admin Design Pattern Library's [Accessibility Guidelines](https://devdocs.magento.com/guides/v2.4/pattern-library/general/accessibilityguideline/accessibilityGuideline.html).
 
 For more guidance, see this summary of [Web Content Accessibility Guidelines (WCAG) 2.0 standards](https://www.w3.org/WAI/WCAG20/glance/).
 
@@ -51,9 +47,9 @@ In all contexts, strive for accuracy and consistency to inspire and build confid
 
 When uncertain about using a correct term or style, consult the following documents:
 
-*  The [Magento Glossary](https://glossary.magento.com/)
+*  The [Glossary](https://glossary.magento.com/)
 
-*  [Admin Design Pattern Library]({{ page.baseurl }}/pattern-library/bk-pattern.html)
+*  [Admin Design Pattern Library](https://devdocs.magento.com/guides/v2.4/pattern-library/bk-pattern.html)
 
 For standards not included in those documents, we use the following stylebooks:
 
@@ -71,20 +67,20 @@ Words like "optimize", "flexible", and "scalable" might be big, but they’re no
 
 Avoid terms that may not translate internationally, like metaphors, other figurative language, and humor.
 
-When introducing a term that may be unfamiliar to merchants, apply a glossary term from the [Magento Glossary](https://glossary.magento.com/), provide further explanation, or add contextual help. To see what acronyms can be used on first reference check the AP Stylebook. When in doubt, use the full spelling and add the acronym in parenthesis afterword.
+When introducing a term that may be unfamiliar to merchants, apply a glossary term from the [Glossary](https://glossary.magento.com/), provide further explanation, or add contextual help. To see what acronyms can be used on first reference check the AP Stylebook. When in doubt, use the full spelling and add the acronym in parenthesis afterword.
 
 *Example:*
 
 <ul style="list-style-type:none">
-  <li><strong>No</strong> – “Magento is the flexible commerce solution.”</li>
-  <li>Yes – “With Magento, almost everything can be customized, from the storefront user interface theme to the site's backend processes.”</li>
+  <li><strong>No</strong> – “Adobe Commerce is the flexible commerce solution.”</li>
+  <li>Yes – “With Adobe Commerce, almost everything can be customized, from the storefront user interface theme to the site's backend processes.”</li>
 </ul>
 
 *Example:*
 
 <ul style="list-style-type:none">
-  <li><strong>No</strong> – “This SaaS feature is only available in {{site.data.var.ee}}.”</li>
-  <li>Yes – “This [software as a service](https://glossary.magento.com/software-as-a-service) (SaaS) feature is only available in {{site.data.var.ee}}.”</li>
+  <li><strong>No</strong> – “This SaaS feature is only available in Adobe Commerce.”</li>
+  <li>Yes – “This [software as a service](https://glossary.magento.com/software-as-a-service) (SaaS) feature is only available in Adobe Commerce.”</li>
 </ul>
 <br>
 
@@ -106,7 +102,7 @@ Active voice uses the subject-verb-object construction. When describing an actio
 
 Passive voice identifies the action's recipient, not the source, as the subject of the verb. Passive voice is more complicated and less engaging.
 
-Use the "zombie test" – if you can put the words “by zombies” after a subject and verb, you’re using passive voice. *Passive-voice example:* “Magento is used (by zombies)”
+Use the "zombie test" – if you can put the words “by zombies” after a subject and verb, you’re using passive voice. *Passive-voice example:* “Magento Oopen Source is used (by zombies)”
 
 *Example:*
 
@@ -134,7 +130,7 @@ Use future tense only to emphasize that something, from the user’s perspective
 
 **Avoid personal pronouns.**
 
-Most websites have eliminated personal pronouns because using pronouns like “you” and “I” or “your” and “my” is confusing. Personal pronouns often leave room for doubt or misinterpretation – does a pronoun refer to Magento or to the merchant? Avoid using “my”, “we”, “they”, or “I” when your content refers to either Magento representatives or merchants.
+Most websites have eliminated personal pronouns because using pronouns like “you” and “I” or “your” and “my” is confusing. Personal pronouns often leave room for doubt or misinterpretation – does a pronoun refer to the application or to the merchant? Avoid using “my”, “we”, “they”, or “I” when your content refers to either Adobe representatives or merchants.
 
 *Exception:* “You” or “your” neutral pronouns may be used in some cases to directly engage merchants in familiar, conversational language.
 
@@ -157,7 +153,7 @@ Most websites have eliminated personal pronouns because using pronouns like “y
 
 The tone in UI content – including navigation, tables, forms, and calls to action – is usually more focused on accuracy and conciseness, but the same standards apply: Use clear, plain language and consult global conventions to ensure content is understood by all.
 
-Consistency is critical. For example, wherever content is displayed in [Data Tables]({{ page.baseurl }}/pattern-library/displaying-data/datatable/datatable.html) or [Form Elements]({{ page.baseurl }}/pattern-library/getting-user-input/form_elements/form_elements.html), it should use Magento standard or global conventions.
+Consistency is critical. For example, wherever content is displayed in [Data Tables](https://devdocs.magento.com/guides/v2.4/pattern-library/displaying-data/datatable/datatable.html) or [Form Elements](https://devdocs.magento.com/guides/v2.4/pattern-library/getting-user-input/form_elements/form_elements.html), it should use standard or global conventions.
 <br>
 
 *Correct example of button-label consistency, in a task flow:*
@@ -174,8 +170,7 @@ Consistency is critical. For example, wherever content is displayed in [Data Tab
   <li>Yes – “Continue” button in “Reports” pages</li>
 </ul>
 
-*For more details,* see [Button and Links Usage standards]({{ page.baseurl }}/design-styleguide/buttons-and-links-usage/buttons-and-links-usage.html).
-<br><br>
+*For more details,* see [Button and Links Usage standards](buttons-and-links.md).
 
 **Write empowering errors and messages that lead to appropriate next steps.**
 
@@ -191,4 +186,4 @@ Take a neutral tone – don’t blame a merchant or in any way indicate that the
   <li>Yes – “An email address is required. Enter the email address and click “Continue”.”</li>
 </ul>
 
-*For more details,* see [Errors and Messages Writing standards]({{ page.baseurl }}/design-styleguide/errors-and-messages/errors-and-messages.html).
+*For more details,* see [Errors and Messages Writing standards](errors-and-messages.md).

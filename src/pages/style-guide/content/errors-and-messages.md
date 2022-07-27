@@ -1,9 +1,11 @@
 ---
-group: admin-style-guide
-subgroup: Writing and Content
-title: Admin Errors and Messages Writing
+title: Errors and messages | Commerce Admin Development
+description:
 ---
-Magento uses different types of dynamic messaging to alert users when:
+
+# Errors and messages
+
+The application uses different types of dynamic messaging to alert users when:
 
 *  An error has occurred and blocks them from completing a task.
 

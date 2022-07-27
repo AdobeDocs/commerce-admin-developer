@@ -1,15 +1,13 @@
 ---
-group: admin-style-guide
-subgroup: Design
-title: Admin Typography
-menu_title: Typography
-menu_order: 4
-menu_node:
+title: Typography | Commerce Admin Development
+description:
 ---
+
+# Typography
 
 Typography is used to establish page hierarchy.
 
-## Heading Types
+## Heading types
 
 ### H1 - Page title
 
@@ -25,13 +23,13 @@ Subsection headings use Open Sans font, semibold weight, 17px font size, and 22p
 
 ---
 
-## Body Text
+## Body text
 
 *  Body text uses Open Sans font, regular weight, 14px font size, and 20px line height.
 
 *  Spacing between paragraphs uses a 15px margin.
 
-## Legal and Link Text
+## Legal and link text
 
 *  Legal text, or small text, uses Open Sans, regular weight, 12px font size, and 15px line height. Spacing between paragraphs uses a 12px margin.
 

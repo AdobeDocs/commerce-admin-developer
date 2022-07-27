@@ -1,24 +1,23 @@
 ---
-group: admin-style-guide
-subgroup: Writing and Content
-title: Admin Capitalization
-menu_title: Capitalization
-menu_order: 4
-menu_node:
+title: Capitalization | Commerce Admin Development
+description:
 ---
-Magento uses three different cases for content – sentence case, title case, and all-caps.
+
+# Capitalization
+
+The application uses three different cases for content – sentence case, title case, and all-caps.
 
 Use the following standards for usage and keep in mind a few key terms' capitalization rules.
 
-## Sentence Case
+## Sentence case
 
 Use as default content style, where a grammatically correct sentence starts with an initially capitalized word and ends with a punctuation mark. For exceptions, see Title-Case and All-Caps standards that follow.
 
-Pay attention to common Magento terms – some may be mistaken for proper nouns.
+Pay attention to common terms – some may be mistaken for proper nouns.
 
 However, many terms use lowercase including: merchant, developer, home page, static blocks, invoice, order, and panel.
 
-## Title Case
+## Title case
 
 ### Use For ...
 
@@ -50,7 +49,7 @@ However, many terms use lowercase including: merchant, developer, home page, sta
   <li><strong>All parts of verbs.</strong> Includes prepositions, if they are part of phrasal verb ... <em>Correct example:</em> "Turn On"
     <ul>
       <li><em>Tip:</em> if you emphasize the word when reading it aloud, then capitalize it."</li>
-      <li><em>Infinitives are not verbs:</em> See infinitives guidance, jump to the <span markdown="1">["Do Not capitalize ..."]({{ page.baseurl }}/design-styleguide/capitalization/capitalization.html#do-not-capitalize-)</span> section.</li>
+      <li><em>Infinitives are not verbs:</em> See infinitives guidance, jump to the <span markdown="1">["Do Not capitalize ..."](capitalization.md#do-not-capitalize-)</span> section.</li>
     </ul>
   <em>Examples:</em><br><br>
     <ul style="list-style-type:none">
@@ -62,10 +61,10 @@ However, many terms use lowercase including: merchant, developer, home page, sta
     </li>
 </ul>
 
-### Do Not Capitalize ...
+### Do not capitalize ...
 
 <ul>
-  <li><strong>Words following prefixes.</strong> For guidance, jump to the <span markdown="1">["Capitalize ... "]({{ page.baseurl }}/design-styleguide/capitalization/capitalization.html#capitalize-)</span>section and find the prefixes and compound, hyphenated words guidance.</li>
+  <li><strong>Words following prefixes.</strong> For guidance, jump to the <span markdown="1">["Capitalize ... "](capitalization.md#capitalize-)</span>section and find the prefixes and compound, hyphenated words guidance.</li>
   <li><strong>Articles.</strong> ... <em>Correct examples:</em> a, an, the</li>
   <li><strong>Conjunctions.</strong> ... <em>Correct examples:</em> and, but, for, or, nor</li>
   <li><strong>Prepositions of fewer than four letters.</strong> Includes the "to" in infinitives. <em>See example:</em>
@@ -82,17 +81,17 @@ However, many terms use lowercase including: merchant, developer, home page, sta
   </li>
 </ul>
 
-## All Caps
+## All caps
 
 Use only in and acronyms and address formats. For more details, see:
 
-*  The [Acronyms]({{ page.baseurl }}/design-styleguide/content-formats/content-formats.html#acronyms) section in Content Formats.
+*  The [Acronyms](content-formats.md#acronyms) section in Content Formats.
 
-*  The [Address]({{ page.baseurl }}/design-styleguide/content-formats/content-formats.html#addresses) section in Number Formats.
+*  The [Address](content-formats.md#addresses) section in Number Formats.
 
-## Terms to Remember
+## Terms to remember
 
-Use capitalization standards, as specified in the Magento Glossary and Word Usage Bank, and focus on the following rules.
+Use capitalization standards, as specified in the Glossary and Word Usage Bank, and focus on the following rules.
 
 ### Capitalize ...
 
@@ -100,11 +99,11 @@ Use capitalization standards, as specified in the Magento Glossary and Word U
 
 *  **Admin panel.** Capitalize the word "Admin" in the term “Admin panel” — but panel remains lowercase.
 
-*  **UI names.** Use initial caps, where the Magento Glossary and Word Usage Bank specify.
+*  **UI names.** Use initial caps, where the Glossary and Word Usage Bank specify.
 
 *  **Lists' first word, initial capped.** See more “Lists” for guidance in Content Formats.
 
-### Do Not Capitalize ...
+### Do not capitalize ...
 
 *  **Steps.** Lowercase “page” or “step” when referring to pages in a document or steps in a procedure.
 

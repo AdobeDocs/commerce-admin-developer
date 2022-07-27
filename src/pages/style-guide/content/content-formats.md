@@ -1,20 +1,17 @@
 ---
-group: admin-style-guide
-subgroup: Writing and Content
-title: Admin Content Formats
-menu_title: Content Formats
-menu_order: 7
-menu_node:
-functional_areas:
-  - Content
+title: Content formats | Commerce Admin Development
+description:
 ---
-For more specifics, use the [Magento Glossary](https://glossary.magento.com/). If an item is not found, refer to the Associated Press (AP) Stylebook on first reference, and the Microsoft Manual of Style on second reference.
+
+# Content formats
+
+For more specifics, use the [Glossary](https://glossary.magento.com/). If an item is not found, refer to the Associated Press (AP) Stylebook on first reference, and the Microsoft Manual of Style on second reference.
 
 ## Abbreviations
 
 Avoid the following:
 
-*  **Abbreviations for months and URLs.**  For details, see the [Dates]({{ page.baseurl }}/design-styleguide/number-formats/number-formats.html#dates-and-times) section in Number Formats.
+*  **Abbreviations for months and URLs.**  For details, see the [Dates](number-formats.md#dates-and-times) section in Number Formats.
 
 *  **Non-English words and abbreviations.** These are difficult to translate, and some users might be unfamiliar with them.
 
@@ -43,7 +40,7 @@ When in doubt, spell it out. If there’s a chance a reader doesn't know an abbr
   <li>Yes – “PDF, TIFF, HTML, JPG, CSS, XML”</li>
 </ul>
 </li>
-<li>Link format: Append the file type in parenthesis after the file name. For more details, see the [Labels Best Practices]({{ page.baseurl }}/design-styleguide/buttons-and-links-usage/buttons-and-links-usage.html#labels-best-practices) section in Buttons and Links Usage.</li>
+<li>Link format: Append the file type in parenthesis after the file name. For more details, see the [Labels Best Practices](buttons-and-links.md#labels-best-practices) section in Buttons and Links Usage.</li>
 </ul>
 
 ## Addresses
@@ -84,7 +81,7 @@ Enid, TX 73701</td>
 
 Use a bulleted list when a sentence includes a series or especially when it includes a series of complex phrases or clauses.
 
-Breaking up items in a series into lists will enhance readability for Magento users and enable them to better scan and find information.
+Breaking up items in a series into lists will enhance readability for users and enable them to better scan and find information.
 
 Use these rules for lists:
 

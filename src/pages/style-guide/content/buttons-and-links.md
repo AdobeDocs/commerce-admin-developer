@@ -1,16 +1,15 @@
 ---
-group: admin-style-guide
-subgroup: Writing and Content
-title: Admin Buttons and Links Usage
-menu_title: Buttons and Links Usage
-menu_order: 3
-menu_node:
+title: Buttons and links | Commerce Admin Development
+description:
 ---
+
+# Buttons and links
+
 Buttons are primarily used for task-based navigation, and links are primarily used for site navigation.
 
 However, both buttons and links can function as calls to action (CTAs). Whether button or link, a CTA is used to encourage a user to take an action. CTA labels use title case and active verbs, should be short, and should use labels consistently across the Admin panel.
 
-For more details, see [Title Case standards]({{ page.baseurl }}/design-styleguide/capitalization/capitalization.html#title-case) in Capitalization.
+For more details, see [Title Case standards](capitalization.md#title-case) in Capitalization.
 
 *Examples:*
 
@@ -36,7 +35,7 @@ Buttons can be used for:
 
 Button types are primary, secondary, and tertiary. Each page should have a maximum limit of one primary button. Split buttons include multiple actions. Button counts in a Button Bar or any array of buttons should be limited to four buttons, maximum.
 
-**For design specs,** see [Buttons]({{ page.baseurl }}/pattern-library/controls/buttons/buttons.html) and [Button Bar]({{ page.baseurl }}/pattern-library/controls/button-bar/button-bar.html) patterns.
+**For design specs,** see [Buttons](https://devdocs.magento.com/guides/v2.4/pattern-library/controls/buttons/buttons.html) and [Button Bar](https://devdocs.magento.com/guides/v2.4/pattern-library/controls/button-bar/button-bar.html) patterns.
 
 ## Links
 
@@ -46,11 +45,11 @@ Other links guidance includes:
 
 *  **Avoid spawning new windows / tabs.** As a general rule, new tabs and windows can confuse users and cause them to close their browser windows. However, exceptions for usage do exist.
 
-*  **External-link icon.** Only use when linking to a non-Magento page. ... *Correct example:* Go to [Wikipedia](https://www.wikipedia.org/)
+*  **External-link icon.** Only use when linking to a non-Adobe Commerce or Magento Open Source page. ... *Correct example:* Go to [Wikipedia](https://www.wikipedia.org/)
 
 Links can be used as content links (for site navigation) and non-primary CTAs. When used as CTAs, link labels should be long enough to be understood, but as short as possible. However, a link CTA's label may sometimes stretch a few words longer than a button label.
 
-**For link typography specs,** see [Legal and Link Text]({{ page.baseurl }}/design-styleguide/typography/typography.html#legal-and-link-text) in Typography standards.
+**For link typography specs,** see [Legal and Link Text](../design/typography.md#legal-and-link-text) in Typography standards.
 
 ## Accessibility
 
@@ -62,16 +61,16 @@ Links can be used as content links (for site navigation) and non-primary CTAs. W
 
 *  **For anchor links, use "Jump to" before the link.** This identifies the link as an anchor and that it won't navigate users to another page.
 
-*  **Use linked icons with care.** Users may not know what the icon means, so for icons that aren't globally recognized, pair a linked label with a linked icon. See [Iconography standards]({{ page.baseurl }}/design-styleguide/iconography/iconography.html).
+*  **Use linked icons with care.** Users may not know what the icon means, so for icons that aren't globally recognized, pair a linked label with a linked icon. See [Iconography standards](../design/iconography.md).
 
-## Labels Best Practices
+## Labels best practices
 
 <ul>
   <li><strong>Parallelism.</strong> When linking to a page with a direct reference, match the exact wording of the page title or, for anchor tags, the section heading title.</li>
   <li><strong>PDFs and other file formats.</strong>
     <ul>
       <li>Append the document-type acronym after the link label and link only the document title.</li>
-      <li>Use all caps case and do not add a period to the acronym. See <span markdown="1">[All Caps case standards]({{ page.baseurl }}/design-styleguide/capitalization/capitalization.html#all-caps)</span> in Capitalization.</li>
+      <li>Use all caps case and do not add a period to the acronym. See <span markdown="1">[All Caps case standards](capitalization.md#all-caps)</span> in Capitalization.</li>
       <li>Do not use the file name or URL in the content &#8212; use the title of the document.</li>
     </ul>
     <em>Example:</em>
@@ -84,13 +83,13 @@ Links can be used as content links (for site navigation) and non-primary CTAs. W
   </li>
 </ul>
 
-## When to Verify a Call to Action
+## When to verify a call to action
 
 For actions like “Delete” and “Cancel”, always consider the possibility that the user took the action by mistake.
 
 If the user will lose a lot of work — or if the user's task is not easily recoverable — after taking the action, create an interstitial verify step that happens first when the action is selected.
 
-### Label and Content Format
+### Label and content format
 
 Use the following template to create content for a verify step:
 
@@ -102,7 +101,7 @@ Use the following template to create content for a verify step:
 
 *  **Calls to action:** [ Task Label ], Cancel ... *Note:* The "Task Label" is the primary call to action and matches the Title's Task Label.
 
-## Button Labels Used in Admin
+## Button labels used in Admin
 
 **Specify actions in buttons:** Appending a specific label to a call to action’s verb clarifies the action that the user is taking. ... *Example:* "Add Row" is more contextual and understandable than "Add".
 

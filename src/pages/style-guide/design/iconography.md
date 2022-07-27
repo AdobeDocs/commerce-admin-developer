@@ -1,17 +1,15 @@
 ---
-group: admin-style-guide
-subgroup: Design
-title: Admin Iconography
-menu_title: Iconography
-menu_order: 2
-menu_node:
+title: Iconography | Commerce Admin Development
+description:
 ---
+
+# Iconography
 
 Icons are used throughout the [Admin](https://glossary.magento.com/magento-admin) interface, often as controls to initiate a function (such as a "Filter") or to direct a user to a section (such as "Account").
 
 Icons are meant to provide a visual representation of functionality or content and should therefore bear some conceptual resemblance to them. Icons should be able to communicate their "use" to the user without the assistance of a text label, though labels should be used in the UI whenever possible to minimize ambiguity.
 
-## How Icons Are Used
+## How icons are used
 
 Icons may appear in a variety of sizes within the interface as controls for tools and functions and to assist in "wayfinding" within the application.
 
@@ -25,17 +23,17 @@ However, an icon or a design element in an icon can sometimes serve different fu
 
 *Example:* The "X" error icon and its the supporting elements of copy, position, and styling give an identity and meaning for the icon. However, when an "X" icon is used as a "Remove" or "Close" control, its supporting elements give it a different identity and meaning.
 
-## Icon Library
+## Icon library
 
 In the Admin, icons have a simple, flat, single-color, and two-dimensional style. This style prevents loss of detail at smaller sizes and makes the shapes easier to recognize.
 
-![](img/Magento-icon-contact-sheet.png)
+![](../../_images/style-guide/Magento-icon-contact-sheet.png)
 
-## Creating Icons
+## Creating icons
 
 ### Instructions
 
-*  Start by selecting an icon library file - download either the [Sketch (SKETCH)]({{ site.downloads }}/magento_icon_library.sketch) or [Illustrator (AI)]({{ site.downloads }}/Magento-icon-library.ai) files.
+*  Start by selecting an icon library file - download either the [Sketch (SKETCH)](https://devdocs.magento.com/download/magento_icon_library.sketch) or [Illustrator (AI)](https://devdocs.magento.com/download/Magento-icon-library.ai) files.
 
 *  Use our standard 300 x 300 pixel icon grid - see the guidance that follows in the "Create With the Icon Grid" section.
 
@@ -51,21 +49,21 @@ In the Admin, icons have a simple, flat, single-color, and two-dimensional style
 
 *  Keep a limited perspective — all icons should appear from the same perspective.
 
-For any icon to be used in Admin, ask the Magento Product Team to review the icon and add it to the "icon font".
+For any icon to be used in Admin, ask the Adobe Commerce Product Team to review the icon and add it to the "icon font".
 
-### Create with the Icon Grid
+### Create with the icon grid
 
 Here's one method to get started:
 
-![](img/icon-construction-guide.png)
+![](../../_images/style-guide/icon-construction-guide.png)
 
 Learn how to use the icon grid:
 
-![](img/using-icon-grid.png)
+![](../../_images/style-guide/using-icon-grid.png)
 
-## Icon Fonts
+## Icon fonts
 
-We recommend using icon fonts to get the best quality for your icons. The Magento icon fonts can be found in [in GitHub]({{ site.mage2bloburl }}/{{ page.guide_version }}/app/design/adminhtml/Magento/backend/web/fonts/admin-icons).
+We recommend using icon fonts to get the best quality for your icons. The application icon fonts can be found in [in GitHub](https://github.com/magento/magento2/blob/2.4/app/design/adminhtml/Magento/backend/web/fonts/admin-icons).
 
 If you want to add your own icons, each icon will need to be in its own SVG files. There are multiple ways to create icon fonts, here is one to get started:
 
@@ -75,14 +73,13 @@ If you want to add your own icons, each icon will need to be in its own SVG file
 
 1. Specify the desired font names and the Unicode characters to map the icons.
 
-   {:.bs-callout-tip}
    Setting the icons to [Private Use Area](https://en.wikipedia.org/wiki/Private_Use_Areas#Private_Use_Areas) (PUA) will disable screen-readers and other accessibility tools. Disabling prevents the devices from mistakenly translating your icon's characters as words that users won't understand.
 
 1. From the app, click "Download" to generate the icon font and [CSS](https://glossary.magento.com/css) style sheet.
 
 ## Accessibility
 
-### How to Use "aria-hidden" Attribute
+### Use "aria-hidden" attribute
 
 Icons are required to be optimized — and their font characters kept hidden — for users with assistive technology like screen-readers.
 
@@ -105,7 +102,7 @@ Modern versions of assistive technologies will announce CSS generated content, a
 
 *Source:* [filament group's "Bulletproof Accessible Icon Fonts"](http://www.filamentgroup.com/lab/bulletproof_icon_fonts.html)
 
-### How to Easily Make An Icon Font Accessible
+### Make icon fonts accessible
 
 Icons should be very descriptive, especially if they stand on their own. Add descriptive text to clarify their meaning to users.
 

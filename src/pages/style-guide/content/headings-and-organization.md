@@ -1,11 +1,10 @@
 ---
-group: admin-style-guide
-subgroup: Writing and Content
-title: Admin Headings and Organization
-menu_title: Headings and Organization
-menu_order: 6
-menu_node:
+title: Headings and organization | Commerce Admin Development
+description:
 ---
+
+# Headings and organization
+
 Use consistent heading structure and content prioritization to create a hierarchy for users to easily navigate Admin.
 
 ## Headings
@@ -22,9 +21,9 @@ Headings, or page titles, should concisely represent their content or purpose. M
 
 *  Use no punctuation at the end of a heading except for a question mark, quotation mark, ellipsis, and closed parenthesis.
 
-## UI Content Organization
+## UI content organization
 
-Consistency in content across UI elements helps users engage with Magento software. Uniformity sets expectations without forcing them to think about how why the same UI pattern is dissimilar in one place vs. another.
+Consistency in content across UI elements helps engage users. Uniformity sets expectations without forcing them to think about how why the same UI pattern is dissimilar in one place vs. another.
 
 Areas to focus on consistency include:
 

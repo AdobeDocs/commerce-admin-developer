@@ -1,14 +1,13 @@
 ---
-group: admin-style-guide
-subgroup: Writing and Content
-title: Admin Number Formats
-menu_title: Number Formats
-menu_order: 8
-menu_node:
+title: Number formats | Commerce Admin Development
+description:
 ---
+
+# Number formats
+
 For more number formats, use the Associated Press (AP) Stylebook on first reference, and the Microsoft Manual of Style on second reference.
 
-## Basic Standards
+## Basic standards
 
 <ul>
   <li>For numbers 10 and higher, use numerals. For numbers lower than 10, spell out numbers. <em>See correct examples:</em>
@@ -39,7 +38,7 @@ For more number formats, use the Associated Press (AP) Stylebook on first refere
 
 ## Addresses
 
-See [Addresses]({{ page.baseurl }}/design-styleguide/content-formats/content-formats.html#addresses) section in Content Formats.
+See [Addresses](content-formats.md#addresses) section in Content Formats.
 
 ## Percentages
 
@@ -82,7 +81,7 @@ This is how we write about money:
   </tbody>
 </table>
 
-## Dates and Times
+## Dates and times
 
 ### Dates
 
