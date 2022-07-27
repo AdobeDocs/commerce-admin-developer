@@ -10,9 +10,7 @@ Our priority is to help users perform administrative tasks with ease and manage 
 The application's voice is:
 
 *  Instructional and clear. The content is concise but informational, guiding the user to successfully perform tasks.
-
 *  Casual but professional and direct.
-
 *  Empowering.
 
 ## Guidelines
@@ -27,11 +25,8 @@ Content should be gender neutral. To avoid “his” or “her” pronouns, chan
 
 *Example:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – "A merchant can update his extensions."</li>
-  <li>Yes – "Merchants can update their extensions."</li>
-</ul>
-<br>
+*  **No** – "A merchant can update his extensions."
+*  Yes – "Merchants can update their extensions."
 
 **Follow accessibility and readability standards.**
 
@@ -71,18 +66,13 @@ When introducing a term that may be unfamiliar to merchants, apply a glossary te
 
 *Example:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – “Adobe Commerce is the flexible commerce solution.”</li>
-  <li>Yes – “With Adobe Commerce, almost everything can be customized, from the storefront user interface theme to the site's backend processes.”</li>
-</ul>
+*  **No** – “Adobe Commerce is the flexible commerce solution.”
+*  Yes – “With Adobe Commerce, almost everything can be customized, from the storefront user interface theme to the site's backend processes.”
 
 *Example:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – “This SaaS feature is only available in Adobe Commerce.”</li>
-  <li>Yes – “This [software as a service](https://glossary.magento.com/software-as-a-service) (SaaS) feature is only available in Adobe Commerce.”</li>
-</ul>
-<br>
+*  **No** – “This SaaS feature is only available in Adobe Commerce.”
+*  Yes – “This [software as a service](https://glossary.magento.com/software-as-a-service) (SaaS) feature is only available in Adobe Commerce.”
 
 **Empower the merchant with positive tone and sentence structure.**
 
@@ -90,11 +80,8 @@ Avoid negative sentence constructions using words like "no", "never", "don't" to
 
 *Example:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – Don’t use negative sentence construction.</li>
-  <li>Yes – Use positive, instead of negative, sentence construction.</li>
-</ul>
-<br>
+* **No** – Don’t use negative sentence construction.
+*  Yes – Use positive, instead of negative, sentence construction.
 
 **Use active voice.**
 
@@ -106,11 +93,8 @@ Use the "zombie test" – if you can put the words “by zombies” after a subj
 
 *Example:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – “The store address is used to calculate ...”</li>
-  <li>Yes – “The system uses the store address to calculate ...”</li>
-</ul>
-<br>
+*  **No**  – “The store address is used to calculate ...”
+*  Yes – “The system uses the store address to calculate ...”
 
 **Write in present tense.**
 
@@ -122,11 +106,8 @@ Use future tense only to emphasize that something, from the user’s perspective
 
 *Example:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – A customer will receive an email confirmation after purchase.</li>
-  <li>Yes – A customer receives an email confirmation after purchase.</li>
-</ul>
-<br>
+*  **No** – A customer will receive an email confirmation after purchase.
+*  Yes – A customer receives an email confirmation after purchase.
 
 **Avoid personal pronouns.**
 
@@ -136,39 +117,29 @@ Most websites have eliminated personal pronouns because using pronouns like “y
 
 *Example:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – Change your My Account preferences.</li>
-  <li>Yes – Change your Account preferences.</li>
-</ul>
+*  **No** – Change your My Account preferences.
+*  Yes – Change your Account preferences.
 
 *Example:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – We will send a confirmation, and you will receive it in 2-3 days.</li>
-  <li>Yes – You will receive a confirmation in 2-3 days.</li>
-</ul>
-<br>
+* **No** – We will send a confirmation, and you will receive it in 2-3 days.
+*  Yes – You will receive a confirmation in 2-3 days.
 
 **Use consistent labels in user-interface (UI) content.**
 
 The tone in UI content – including navigation, tables, forms, and calls to action – is usually more focused on accuracy and conciseness, but the same standards apply: Use clear, plain language and consult global conventions to ensure content is understood by all.
 
 Consistency is critical. For example, wherever content is displayed in [Data Tables](https://devdocs.magento.com/guides/v2.4/pattern-library/displaying-data/datatable/datatable.html) or [Form Elements](https://devdocs.magento.com/guides/v2.4/pattern-library/getting-user-input/form_elements/form_elements.html), it should use standard or global conventions.
-<br>
 
 *Correct example of button-label consistency, in a task flow:*
 
-<ul style="list-style-type:none">
-  <li>Yes – “Continue” button in “Catalog” pages</li>
-  <li>Yes – “Continue” button in “Reports” pages</li>
-</ul>
+*  Yes – “Continue” button in “Catalog” pages
+*  Yes – “Continue” button in “Reports” pages
 
 *Incorrect example of button-label consistency, in a task flow:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – “Next” button in “Catalog” pages</li>
-  <li>Yes – “Continue” button in “Reports” pages</li>
-</ul>
+* **No** – “Next” button in “Catalog” pages
+*  Yes – “Continue” button in “Reports” pages
 
 *For more details,* see [Button and Links Usage standards](buttons-and-links.md).
 
@@ -181,9 +152,7 @@ Take a neutral tone – don’t blame a merchant or in any way indicate that the
 
 *Example:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – “You didn’t enter your email address.”</li>
-  <li>Yes – “An email address is required. Enter the email address and click “Continue”.”</li>
-</ul>
+* **No** – “You didn’t enter your email address.”
+*  Yes – “An email address is required. Enter the email address and click “Continue”.”
 
 *For more details,* see [Errors and Messages Writing standards](errors-and-messages.md).

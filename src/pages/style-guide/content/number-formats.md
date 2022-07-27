@@ -133,14 +133,14 @@ This is how we write about money:
 
 <ul>
   <li>Use a hyphen between times to indicate a time period. <em>Example:</em> 7am-10:30pm.</li>
-  <li>Exclude the "am" and "pm" when times are both either in the morning or after noon.<br>
+  <li>Exclude the "am" and "pm" when times are both either in the morning or after noon.<br />
   <em>Example:</em>
     <ul style="list-style-type:none">
       <li><strong>No</strong> – “6am-9am"</li>
       <li>Yes – “6-9am”</li>
     </ul>
   </li>
-  <li>Simplify range language:<br>
+  <li>Simplify range language:<br />
   <em>Example:</em>
     <ul style="list-style-type:none">
       <li><strong>No</strong> – “Holiday store hours go from 8am-10pm."</li>

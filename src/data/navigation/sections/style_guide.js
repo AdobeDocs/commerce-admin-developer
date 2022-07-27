@@ -2,17 +2,10 @@ module.exports = [
     {
       title: "Introduction",
       path: "/style-guide/",
-      header: true,
-      pages: [
-        {
-          title: "Introduction",
-          path: "/style-guide/",
-        },
-      ],
     },
     {
       title: "Design",
-      path: "/style-guide/design/",
+      path: "/style-guide/design/color/",
       header: true,
       pages: [
         {
@@ -35,12 +28,12 @@ module.exports = [
     },
     {
       title: "Writing and content",
-      path: "/style-guide/content/",
+      path: "/style-guide/content/buttons-and-links/",
       header: true,
       pages: [
         {
           title: "Buttons and links",
-          path: "/style-guide/content/buttons-and-links-usage/",
+          path: "/style-guide/content/buttons-and-links/",
         },
         {
           title: "Capitalization",

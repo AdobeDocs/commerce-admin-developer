@@ -29,8 +29,8 @@ However, many terms use lowercase including: merchant, developer, home page, sta
 
 <ul>
   <li><strong>The first letter of the first and last words.</strong></li>
-  <li><strong>The second word of a compound, hyphenated word.</strong> Exception: When the first word in the hyphenation is not a prefix ... <em>Prefix examples:</em> anti-, pre-, post-<br>
-  <em>Examples:</em><br><br>
+  <li><strong>The second word of a compound, hyphenated word.</strong> Exception: When the first word in the hyphenation is not a prefix ... <em>Prefix examples:</em> anti-, pre-, post-<br />
+  <em>Examples:</em><br /><br />
     <ul style="list-style-type:none">
       <li><strong>No</strong> – "Best-rated Platform Software"</li>
       <li>Yes – "Best-Rated Platform Software"</li>
@@ -51,7 +51,7 @@ However, many terms use lowercase including: merchant, developer, home page, sta
       <li><em>Tip:</em> if you emphasize the word when reading it aloud, then capitalize it."</li>
       <li><em>Infinitives are not verbs:</em> See infinitives guidance, jump to the <span markdown="1">["Do Not capitalize ..."](capitalization.md#do-not-capitalize-)</span> section.</li>
     </ul>
-  <em>Examples:</em><br><br>
+  <em>Examples:</em><br /><br />
     <ul style="list-style-type:none">
       <li><strong>No</strong> – “Turning Blocks on and off"</li>
       <li>Yes – “Turning Blocks On and Off”</li>
