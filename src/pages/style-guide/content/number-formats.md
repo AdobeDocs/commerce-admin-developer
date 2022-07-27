@@ -46,10 +46,8 @@ In regular text, write out “percent”. However, the ”%” sign can be used 
 
 *Example:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – “Merchants have reported increased sales of up to 130%”</li>
-  <li>Yes – “Merchants have reported increased sales of up to 130 percent.”</li>
-</ul>
+*  **No** – “Merchants have reported increased sales of up to 130%”
+*  Yes – “Merchants have reported increased sales of up to 130 percent.”
 
 ## Money
 
@@ -86,35 +84,22 @@ This is how we write about money:
 ### Dates
 
 *  Do not abbreviate months of the year when they appear by themselves or with a year. ... *Correct example:* "September 2015"."
-
 *  Months:
-
    *  March, April, May, June, and July are never abbreviated in text.
-
    *  The remaining months are only abbreviated when followed by a date (Jan. 27).
-
    *  *Abbreviations to use:* Jan., Feb., Aug., Sept., Oct., Nov., Dec.
-
 *  Never abbreviate ...
-
    *  Days of the week ... *Correct example:* Use "Wednesday", not "Weds.".
-
    *  Years ... *Correct example:* Use "2017", not "'17".
 
 **Correct Examples:**
 
 *  The conference begins ...
-
    *  In September
-
    *  In September 2017
-
    *  Sept. 8
-
    *  Friday, Sept. 8
-
    *  Friday, Sept. 8, 2017
-
 *  *Date-range format, in a sentence:* The conference runs Sept. 8-12, 2017.
 
 ### Times
@@ -122,37 +107,23 @@ This is how we write about money:
 **General Usage:**
 
 *  Formatting. Use numerals and "am" or "pm" without a space. Example: 10am.
-
 *  Omit ":00". Don’t use minutes for on-the-hour time.
-
 *  Example: Exclude minutes for "7am"; include minutes for "10:30pm".
-
 *  Use "noon" and "midnight". Do not use 12pm and 12am.
 
 **Time Ranges:**
 
-<ul>
-  <li>Use a hyphen between times to indicate a time period. <em>Example:</em> 7am-10:30pm.</li>
-  <li>Exclude the "am" and "pm" when times are both either in the morning or after noon.<br />
-  <em>Example:</em>
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – “6am-9am"</li>
-      <li>Yes – “6-9am”</li>
-    </ul>
-  </li>
-  <li>Simplify range language:<br />
-  <em>Example:</em>
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – “Holiday store hours go from 8am-10pm."</li>
-      <li>Yes – “Holiday store hours are 8am-10pm.”</li>
-    </ul>
-  </li>
-</ul>
+*  Use a hyphen between times to indicate a time period. For example:
+   *  7am-10:30pm
+*  Exclude the "am" and "pm" when times are both either in the morning or after noon. For example:
+   *  **No** – “6am-9am"
+   *  Yes – “6-9am”
+*  Simplify range language. For example:
+   *  **No** – “Holiday store hours go from 8am-10pm."
+   *  Yes – “Holiday store hours are 8am-10pm.”
 
 **Time Zones:**
 
 *  Formatting. When a time is not adjusted by the system to reflect the current time zone, append the time zone after the time. ... *Correct examples:* "7:30am CT", "7-10:30am CT"
-
 *  Do not indicate standard or daylight time. ... *Correct example:* Central Time is written as "CT", not "CST" or "CDT".
-
 *  Do not use military time. ... *Incorrect example:* Using 19:40, instead of 7:40pm.

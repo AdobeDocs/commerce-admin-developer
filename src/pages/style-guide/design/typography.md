@@ -21,8 +21,6 @@ Section headings use Open Sans font, regular weight, 20px font size, and 25px li
 
 Subsection headings use Open Sans font, semibold weight, 17px font size, and 22px line height.
 
----
-
 ## Body text
 
 *  Body text uses Open Sans font, regular weight, 14px font size, and 20px line height.

@@ -13,15 +13,10 @@ For more details, see [Title Case standards](capitalization.md#title-case) in Ca
 
 *Examples:*
 
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – “Free Demo”</li>
-  <li>Yes – “Sign Up for Free Demo”</li>
-</ul>
-
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – “New Rule”</li>
-  <li>Yes – “Add Rule”</li>
-</ul>
+*  **No** – “Free Demo”
+*  Yes – “Sign Up for Free Demo”
+*  **No** – “New Rule”
+*  Yes – “Add Rule”
 
 ## Buttons
 
@@ -65,23 +60,18 @@ Links can be used as content links (for site navigation) and non-primary CTAs. W
 
 ## Labels best practices
 
-<ul>
-  <li><strong>Parallelism.</strong> When linking to a page with a direct reference, match the exact wording of the page title or, for anchor tags, the section heading title.</li>
-  <li><strong>PDFs and other file formats.</strong>
-    <ul>
-      <li>Append the document-type acronym after the link label and link only the document title.</li>
-      <li>Use all caps case and do not add a period to the acronym. See <span markdown="1">[All Caps case standards](capitalization.md#all-caps)</span> in Capitalization.</li>
-      <li>Do not use the file name or URL in the content &#8212; use the title of the document.</li>
-    </ul>
-    <em>Example:</em>
-      <ul style="list-style-type:none">
-        <li><strong>No</strong> – “<a href="javascript:void(0);">Download FAQs (.PDF)</a>”</li>
-        <li><strong>No</strong> – “<a href="javascript:void(0);">Download FAQs (.pdf)</a>”</li>
-        <li><strong>No</strong> – “<a href="javascript:void(0);">Download faqs-bh-v1.pdf</a>”</li>
-        <li>Yes – “<a href="javascript:void(0);">Download FAQs (PDF)</a>”</li>
-      </ul>
-  </li>
-</ul>
+*  **Parallelism.** When linking to a page with a direct reference, match the exact wording of the page title or, for anchor tags, the section heading title.
+* **PDFs and other file formats.**
+   *  Append the document-type acronym after the link label and link only the document title.
+   *  Use all caps case and do not add a period to the acronym. See <span markdown="1">[All Caps case standards](capitalization.md#all-caps)</span> in Capitalization.
+   *  Do not use the file name or URL in the content &#8212; use the title of the document.
+
+   *Example:*
+
+   *  **No** —  “<a href="javascript:void(0);">Download FAQs (.PDF)</a>”
+   *  **No** — “<a href="javascript:void(0);">Download FAQs (.pdf)</a>”</li>
+   *  **No** — “<a href="javascript:void(0);">Download faqs-bh-v1.pdf</a>”
+   *  Yes — <a href="javascript:void(0);">Download FAQs (PDF)</a>”
 
 ## When to verify a call to action
 
@@ -106,16 +96,15 @@ Use the following template to create content for a verify step:
 **Specify actions in buttons:** Appending a specific label to a call to action’s verb clarifies the action that the user is taking. ... *Example:* "Add Row" is more contextual and understandable than "Add".
 
 The following labels are the standards for Admin labels. Refer to these footnotes for call-to-action hierarchy:
-<ul style="list-style-type:none">
-  <li><strong>*</strong> — A primary call to action.</li>
-  <li><strong>**</strong> — In specific contexts, can be used as a primary call to action.</li>
-</ul>
+
+*  `*` — A primary call to action.
+*  `**`  — In specific contexts, can be used as a primary call to action.
 
 <table>
   <tbody>
     <tr>
-      <th style="width:30%">Label</th>
-      <th style="width:70%">Usage Guideline</th>
+      <th>Label</th>
+      <th>Usage Guideline</th>
     </tr>
     <tr>
       <td>Add<strong>*</strong><br />Add [ + Label ]<strong>*</strong></td>

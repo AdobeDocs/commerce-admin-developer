@@ -22,7 +22,6 @@ However, many terms use lowercase including: merchant, developer, home page, sta
 ### Use For ...
 
 *  **Headings.** See more Headings guidance.
-
 *  **Button labels and links.** ONLY use title case when a link are used as a call to action. See more Buttons and Links Usage guidance.
 
 ### Capitalize ...
@@ -86,7 +85,6 @@ However, many terms use lowercase including: merchant, developer, home page, sta
 Use only in and acronyms and address formats. For more details, see:
 
 *  The [Acronyms](content-formats.md#acronyms) section in Content Formats.
-
 *  The [Address](content-formats.md#addresses) section in Number Formats.
 
 ## Terms to remember
@@ -96,15 +94,11 @@ Use capitalization standards, as specified in the Glossary and Word Usage Bank
 ### Capitalize ...
 
 *  **Numbered items.** Capitalize when referring to a numbered object. ... *Correct examples:* Slide 5, Exercise 3, Table 4.2, Figure 9
-
 *  **Admin panel.** Capitalize the word "Admin" in the term “Admin panel” — but panel remains lowercase.
-
 *  **UI names.** Use initial caps, where the Glossary and Word Usage Bank specify.
-
 *  **Lists' first word, initial capped.** See more “Lists” for guidance in Content Formats.
 
 ### Do not capitalize ...
 
 *  **Steps.** Lowercase “page” or “step” when referring to pages in a document or steps in a procedure.
-
 *  **Global internet terms.** ... *Correct examples:* website, internet, online, email
