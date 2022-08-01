@@ -1,7 +1,10 @@
 ---
-group: admin-pattern-library
-title: Tabs
+title: Tabs | Commerce Admin Development
+description: 
 ---
+
+# Tabs
+
 Tabs should be used when the user needs to alternate between views within the same context.
 
 For solutions not described in this article or for further information, please contact the Commerce UX Design Team.
@@ -54,6 +57,6 @@ Follow the rule "Make all functionality available from a keyboard".
 
 ## Assets
 
-[Download Tabs PSD source]({{ site.downloads }}/magento-tabs.psd)
+[Download Tabs PSD source](https://devdocs.magento.com/download/magento-tabs.psd)
 
 Please reach out to the Commerce UX Design team if you need anything else.

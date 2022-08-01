@@ -1,7 +1,9 @@
 ---
-group: admin-pattern-library
-title: Links
+title: Links | Commerce Admin Development
+description: 
 ---
+
+# Links
 
 Users often need to navigate through information inside or outside of the application by using links. These links should follow this guideline.
 
@@ -69,6 +71,6 @@ Full Guideline Reference: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#links](http:/
 
 ## Assets
 
-[Download Links PSD source]({{ site.downloads }}/magento-links.psd).
+[Download Links PSD source](https://devdocs.magento.com/download/magento-links.psd).
 
 Please reach out to the Commerce UX Design team if you need anything else.

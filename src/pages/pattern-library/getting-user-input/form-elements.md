@@ -1,7 +1,9 @@
 ---
-group: admin-pattern-library
-title: Form Elements
+title: Form Elements | Commerce Admin Development
+description: 
 ---
+
+# Form elements
 
 Form elements are central to the Commerce framework, particularly in the ‘Admin’ interface. This article contains examples of the various types of form elements encountered throughout the application to collect data input from its users.
 
@@ -40,7 +42,7 @@ otherwise selecting outside the form element that has focus.
 
 ## Form Elements and the Page Grid
 
-For *label-left* form elements the amount of horizontal real estate allowed for the labels should only span a maximum of 3 columns of the page grid. While the element itself should typically span no more than 4 columns. For *label-top* form elements, the label and the form element overall should typically not exceed 5 columns of the page grid, however page layout and/or the amount of information to be collected will influence this.
+For _label-left_ form elements the amount of horizontal real estate allowed for the labels should only span a maximum of 3 columns of the page grid. While the element itself should typically span no more than 4 columns. For _label-top_ form elements, the label and the form element overall should typically not exceed 5 columns of the page grid, however page layout and/or the amount of information to be collected will influence this.
 
 **Grid and label-left form:**
 
@@ -194,6 +196,6 @@ Follow this guideline: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms](http://ww
 
 ## Assets
 
-[Download Forms Patterns source (PSD) and PNGs]({{ site.downloads }}/forms_pattern.zip).
+[Download Forms Patterns source (PSD) and PNGs](https://devdocs.magento.com/download/forms_pattern.zip).
 
 For any other resources, please contact the Commerce UX Design Team.

@@ -1,7 +1,10 @@
 ---
-group: admin-pattern-library
-title: Data Table
+title: Data Table | Commerce Admin Development
+description: 
 ---
+
+# Data table
+
 The data-table organizes [complex data](https://glossary.magento.com/complex-data) into a tabular view. Each data record has its own row with data elements presented in columns with meaningful column headings. This allows users to quickly scan and understand complex data and perform actions against the data.
 
 Data-table requirements include:
@@ -459,4 +462,4 @@ This new version of the data-table will fully support the existing data-table fu
 
 ## Assets
 
-Download [ZIP]({{ site.downloads }}/datatable-pattern-styles.zip) of PhotoShop source files.
+Download [ZIP](https://devdocs.magento.com/download/datatable-pattern-styles.zip) of PhotoShop source files.

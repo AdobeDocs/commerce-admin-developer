@@ -1,7 +1,10 @@
 ---
-group: admin-pattern-library
-title: Iconography in Admin Pattern Library
+title: Iconography | Commerce Admin Development
+description: 
 ---
+
+# Iconography
+
 Icons are used throughout the [Admin](https://glossary.magento.com/magento-admin) interface, often as a controls to initiate a function (such as "Filter"), or to direct the user to section (such as "Account").
 
 Icons are meant to provide a visual representation of functionality or content and should therefore bear some conceptual resemblance to them. Icons should be able to communicate their "use" to the user without the assistance of a text label, though labels should be used in the UI whenever possible to minimize ambiguity.
@@ -18,8 +21,8 @@ Typically icons should represent a single, unique concept and be used consistent
 
 In the [Admin](https://glossary.magento.com/admin) UI icons have a simple, flat, single-color, 2D, style. This style prevents the loss of detail at smaller sizes and makes the shapes easier to comprehend.
 
-[Download Icon Library .ai file]({{ site.downloads }}/Magento-icon-library.ai)
-[Download Icon Library Sketch file]({{ site.downloads }}/magento_icon_library.sketch)
+[Download Icon Library .ai file](https://devdocs.magento.com/download/Magento-icon-library.ai)
+[Download Icon Library Sketch file](https://devdocs.magento.com/download/magento_icon_library.sketch)
 
 ![](../../_images/pattern-library/Magento-icon-contact-sheet.png)
 
@@ -27,7 +30,7 @@ In the [Admin](https://glossary.magento.com/admin) UI icons have a simple, flat,
 
 ### Rules
 
-*  Icons should be designed on the 300px by 300px icon grid. [Download Icon Grid .ai file]({{ site.downloads }}/Magento_icon_grid_300x300.ai)
+*  Icons should be designed on the 300px by 300px icon grid. [Download Icon Grid .ai file](https://devdocs.magento.com/download/Magento_icon_grid_300x300.ai)
 *  Icons should be monochromatic.
 *  Icons should look like they are part of the "family" of icons.
 *  Line weights should be consistent with other icons in the [library](https://glossary.magento.com/library).
@@ -45,7 +48,7 @@ Here is a guide to help you get started creating your own icon:
 
 How to use the icon grid:
 
-[Download Icon Grid .ai file]({{ site.downloads }}/Magento_icon_grid_300x300.ai)
+[Download Icon Grid .ai file](https://devdocs.magento.com/download/Magento_icon_grid_300x300.ai)
 
 ![](../../_images/pattern-library/using-icon-grid.png)
 

@@ -1,7 +1,9 @@
 ---
-group: admin-pattern-library
-title: Button Bar
+title: Button Bar | Commerce Admin Development
+description: 
 ---
+
+# Button bar
 
 It is often necessary to provide users with page level actions. These actions should be contain in a button bar as described in this guideline.
 
@@ -95,6 +97,6 @@ Buttons should make use of [CSS](https://glossary.magento.com/css) and [HTML](ht
 
 ## Assets
 
-[Download Button Bar PSD source]({{ site.downloads }}/magento-button-bar.psd).
+[Download Button Bar PSD source](https://devdocs.magento.com/download/magento-button-bar.psd).
 
 Please reach out to the Commerce UX Design team if you need anything else.

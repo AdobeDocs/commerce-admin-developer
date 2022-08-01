@@ -1,7 +1,9 @@
 ---
-group: admin-pattern-library
-title: Buttons
+title: Buttons | Commerce Admin Development
+description: 
 ---
+
+# Buttons
 
 Buttons bring attention to actions on the screen. This article will cover the use of general buttons.
 
@@ -327,6 +329,6 @@ Left/Right margin spacing should not be less than 10px
 
 ## Assets
 
-[Download Button PSD source]({{ site.downloads }}/magento-buttons.psd).
+[Download Button PSD source](https://devdocs.magento.com/download/magento-buttons.psd).
 
 Please reach out to the Commerce UX Design team if you need anything else.

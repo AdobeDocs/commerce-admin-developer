@@ -1,7 +1,9 @@
 ---
-group: admin-pattern-library
-title: Progress Indicator
+title: Progress Indicator | Commerce Admin Development
+description: 
 ---
+
+# Progress indicator
 
 Users sometimes need to wait for a process to be completed by the system. In such case, it is best to communicate that to the user that the system is working the process that the user requested. There are two types of progress indicator: 1.) a progress bar and 2.) a spinner.
 
@@ -86,6 +88,6 @@ Refer to Messaging Pattern for final styling on error message.
 
 ## Assets
 
-[Download Progress Indicator PSD and GIF source]({{ site.downloads }}/magento-progressbar.zip).
+[Download Progress Indicator PSD and GIF source](https://devdocs.magento.com/download/magento-progressbar.zip).
 
 For any other resources, please contact the Commerce UX Design Team.

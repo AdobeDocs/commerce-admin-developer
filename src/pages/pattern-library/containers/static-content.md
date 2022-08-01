@@ -1,9 +1,9 @@
 ---
-group: admin-pattern-library
-title: Static Content Container
-functional_areas:
-  - Content
+title: Static Content Container | Commerce Admin Development
+description: 
 ---
+
+# Static content container
 
 It is often necessary to display static information to the users. These [static content](https://glossary.magento.com/static-content) are considered Content Container and should follow the guideline in this article. For solutions not described in this article or for further information, please contact the Commerce UX Design Team.
 
@@ -65,6 +65,6 @@ This is used to clearly separate information for users to easily digest.
 
 ## Assets
 
-[Download Static Content Container PSD source]({{ site.downloads }}/magento-static-content-container.psd)
+[Download Static Content Container PSD source](https://devdocs.magento.com/download/magento-static-content-container.psd)
 
 Please reach out to the Commerce UX Design team if you need anything else.

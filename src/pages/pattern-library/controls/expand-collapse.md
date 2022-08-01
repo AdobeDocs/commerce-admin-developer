@@ -1,7 +1,9 @@
 ---
-group: admin-pattern-library
-title: Expandable sections
+title: Expandable sections | Commerce Admin Development
+description: 
 ---
+
+# Expandable sections
 
 (AKA Expand-Collapse, Collapsible panels)
 
@@ -66,6 +68,6 @@ Required fields should not be located within a collapsed section, as this increa
 
 ## Assets
 
-[Download Expandable Section ZIP file]({{ site.downloads }}/Magento_expandable_section.zip)
+[Download Expandable Section ZIP file](https://devdocs.magento.com/download/Magento_expandable_section.zip)
 
 Please reach out to the Commerce UX Design team if you need anything else.

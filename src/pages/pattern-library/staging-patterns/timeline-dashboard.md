@@ -1,8 +1,11 @@
 ---
-group: admin-pattern-library
-title: Timeline Dashboard
+title: Timeline Dashboard | Commerce Admin Development
+description: 
 ee_only: true
 ---
+
+# Timeline dashboard
+
 This dashboard provides a page where events and processes can be viewed and managed in one place.
 
 Staging usage: Users need to see which stage-able entities are published or scheduled to be published. Since most of the application's entities can be staged – the display of all this information is important to show users the full scope of updates at a glance.
@@ -88,6 +91,6 @@ This is an alternative view to the timeline in data table format. The functional
 
 ## Assets
 
-[Download Timeline Dashboard source]({{ site.downloads }}/timeline-dashboard.psd)
+[Download Timeline Dashboard source](https://devdocs.magento.com/download/timeline-dashboard.psd)
 
 If you have questions about the Timeline Dashboard, please [contact us](https://magento.com/company/contact-us).

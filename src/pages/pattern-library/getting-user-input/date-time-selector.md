@@ -1,7 +1,9 @@
 ---
-group: admin-pattern-library
-title: Date and Time Selector
+title: Date and Time Selector | Commerce Admin Development
+description: 
 ---
+
+# Date and time selector
 
 This topic discusses design standards and rules for date and time selection. This article is related to the Form Elements pattern. See [Form Elements](form-elements.md) for general rules on form usage and placement.
 
@@ -197,8 +199,8 @@ When the datepicker is active a calendar day of the week should always have focu
 
 ## Assets
 
-[Download Date&Time PSD source]({{ site.downloads }}/date&timepicker.psd).
+[Download Date&Time PSD source](https://devdocs.magento.com/download/date&timepicker.psd).
 
 ## Implementation
 
-Date and time selectors are implemented using the standard [jQuery UI datepicker widget](https://jqueryui.com/datepicker/) and [addon]({{ site.mage2bloburl }}/{{ page.guide_version }}/lib/web/jquery/jquery-ui-timepicker-addon.js).
+Date and time selectors are implemented using the standard [jQuery UI datepicker widget](https://jqueryui.com/datepicker/) and [addon](https://github.com/magento/magento2/blob/2.4/lib/web/jquery/jquery-ui-timepicker-addon.js).

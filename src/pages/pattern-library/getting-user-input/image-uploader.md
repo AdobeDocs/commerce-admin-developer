@@ -1,7 +1,10 @@
 ---
-group: admin-pattern-library
-title: Image Uploader
+title: Image Uploader | Commerce Admin Development
+description: 
 ---
+
+# Image uploader
+
 The Image uploader provides the ability for users to upload a single image, or group of images, to the application, most commonly images associated with Products (during the Product Creation process). These images may serve as thumbnail images, detailed Product images, images to within a product gallery, etc.
 
 ## When to Use
@@ -81,4 +84,4 @@ In the browser upload window, standard behavior should be kept.
 
 ## Assets
 
-[Download Image Uploader PSD source]({{ site.downloads }}/Image_Video_Uploader.psd).
+[Download Image Uploader PSD source](https://devdocs.magento.com/download/Image_Video_Uploader.psd).

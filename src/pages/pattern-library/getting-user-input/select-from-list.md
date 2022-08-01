@@ -1,7 +1,10 @@
 ---
-group: admin-pattern-library
-title: Select From List
+title: Select From List | Commerce Admin Development
+description: 
 ---
+
+# Select from list
+
 In the Admin, user will often times need to select item(s) from a list of items. This pattern address the variations of list pattern.
 
 ## When to Use
@@ -42,4 +45,4 @@ Follow this form control accessibility guideline: [http://www.w3.org/TR/WCAG10-H
 
 ## Assets
 
-[Download Variations of Select-From-List ZIP File]({{ site.downloads }}/Magento_select_from_list_srce.zip).
+[Download Variations of Select-From-List ZIP File](https://devdocs.magento.com/download/Magento_select_from_list_srce.zip).

@@ -1,7 +1,10 @@
 ---
-group: admin-pattern-library
-title: Filters
+title: Filters | Commerce Admin Development
+description: 
 ---
+
+# Filters
+
 Filters allow users to customize the display of information in an associated data-table. By entering desired parameters (for example, a date range) in the available filter input sections table returns a modified view, making visible only the records meeting the user-determined criteria.
 
 ## Filter by Search
@@ -56,4 +59,4 @@ In some unique instances a table may have "Quick Filters" associated with it. Th
 
 ## Assets
 
-Download [ZIP]({{ site.downloads }}/filter-data-table.zip) of PhotoShop source files.
+Download [ZIP](https://devdocs.magento.com/download/filter-data-table.zip) of PhotoShop source files.

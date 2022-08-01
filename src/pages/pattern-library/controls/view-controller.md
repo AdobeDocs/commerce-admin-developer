@@ -1,7 +1,9 @@
 ---
-group: admin-pattern-library
-title: View Controller
+title: View Controller | Commerce Admin Development
+description: 
 ---
+
+# View controller
 
 Users may need to view a set of data in more than one way. The view controller is used to switch between the views of data set.
 
@@ -50,6 +52,6 @@ The controller should be accessible by keyboard and have a voice over for screen
 
 ## Assets
 
-[Download View Controller PSD source]({{ site.downloads }}/magento-viewcontrol.psd)
+[Download View Controller PSD source](https://devdocs.magento.com/download/magento-viewcontrol.psd)
 
 Please reach out to the Commerce UX Design team if you need anything else.

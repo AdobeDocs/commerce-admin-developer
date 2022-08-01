@@ -1,7 +1,10 @@
 ---
-group: admin-pattern-library
-title: Sign-in form
+title: Sign-in form | Commerce Admin Development
+description: 
 ---
+
+# Sign-in form
+
 "Sign in" is used to log into the system, or to recover a lost password.
 
 ## When to Use
@@ -117,6 +120,6 @@ The module container should be centered in the browser and should be some percen
 
 ## Assets
 
-[Download Sign-In form source]({{ site.downloads }}/magento-sign-in.psd).
+[Download Sign-In form source](https://devdocs.magento.com/download/magento-sign-in.psd).
 
 For any questions or additional information about the sign-in module please contact the Commerce User Experience and Product Design team.

@@ -1,7 +1,9 @@
 ---
-group: admin-pattern-library
-title: Wizard
+title: Wizard | Commerce Admin Development
+description: 
 ---
+
+# Wizard
 
 It is often necessary to guide a user step-by-step through completing a process. By using a wizard, user can complete a task easier because the user can just follow a preplanned, step-by-step path to accomplish his/her goal. It also increases the chances that the task gets completed successfully.
 
@@ -128,10 +130,10 @@ It is not recommended to have too many steps for a wizard. But if a use case ari
 
 ## Assets
 
-*  [Download Wizard Style - PSD source]({{ site.downloads }}/wizard-pattern-styles.psd)
-*  [Download Variation 1 - PSD source]({{ site.downloads }}/Variation1.psd)
-*  [Download Variation 2 - PSD source]({{ site.downloads }}/Variation2.psd)
-*  [Download Variation 3 - PSD source]({{ site.downloads }}/Variation3.psd)
-*  [Download Variation 4 - PSD source]({{ site.downloads }}/Variation4.psd)
+*  [Download Wizard Style - PSD source](https://devdocs.magento.com/download/wizard-pattern-styles.psd)
+*  [Download Variation 1 - PSD source](https://devdocs.magento.com/download/Variation1.psd)
+*  [Download Variation 2 - PSD source](https://devdocs.magento.com/download/Variation2.psd)
+*  [Download Variation 3 - PSD source](https://devdocs.magento.com/download/Variation3.psd)
+*  [Download Variation 4 - PSD source](https://devdocs.magento.com/download/Variation4.psd)
 
 Please reach out to the Commerce UX Design team if you need anything else.

@@ -1,7 +1,10 @@
 ---
-group: admin-pattern-library
-title: Tree Pattern
+title: Tree Pattern | Commerce Admin Development
+description: 
 ---
+
+# Tree pattern
+
 This topic contains various types of Tree structures used in [Admin](https://glossary.magento.com/admin) with functions for navigating, multi-selecting, adding nodes, editing inline, and dragging items.
 
 For solutions not described in this article, please refer to other related patterns or contact the Commerce UX Design team.
@@ -104,13 +107,13 @@ _Note:_ The "Expand All/Collapse All" control can appear simultaneously with the
 
 ![](../../_images/pattern-library/states.jpg)
 
-*3. Checking a checkbox for a child item should automatically change its parent state to:*
+_3. Checking a checkbox for a child item should automatically change its parent state to:_
 
 *  Partially selected – if parent also contains unchecked children
 *  Checked – if all checkboxes for all children are in "checked" state
 *  Unchecked – if all children are in "unchecked" state.
 
-*4. Checking a checkbox for a Parent item should automatically change its child state to:*
+_4. Checking a checkbox for a Parent item should automatically change its child state to:_
 
 *  Checked – if the parent state is changed from "unchecked" to "checked" state
 *  Unchecked – if the parent state is changed from "checked" to "unchecked" state
@@ -147,21 +150,21 @@ Action icon is used for any action that will be perform to the items in the tree
 
 The action icon is not required for the tree. It only appear as needed.
 
-*Step 1:* User click on the action icon.
+_Step 1:_ User click on the action icon.
 
 ![](../../_images/pattern-library/action.jpg)
 
-*Step 2:* The list of available actions against this item is shown.
+_Step 2:_ The list of available actions against this item is shown.
 
 ![](../../_images/pattern-library/action2.jpg)
 
-*Move Up* Once clicked, the item should be moved up within the parent. If the item is the first child, it cannot be moved up and the option will be disabled.
+_Move Up_ Once clicked, the item should be moved up within the parent. If the item is the first child, it cannot be moved up and the option will be disabled.
 
-*Move Down* Once clicked, the item should be moved down within the parent. If the item is the last child, it cannot be moved down and the option will be disabled.
+_Move Down_ Once clicked, the item should be moved down within the parent. If the item is the last child, it cannot be moved down and the option will be disabled.
 
-*Edit* Once clicked, this opens up a [slide-out panel](../containers/slideouts-modals-overalys.md).
+_Edit_ Once clicked, this opens up a [slide-out panel](../containers/slideouts-modals-overalys.md).
 
-*Remove* Once clicked, the item should be removed.
+_Remove_ Once clicked, the item should be removed.
 
 ## Add to Tree
 
@@ -171,8 +174,8 @@ The 'Add' triggers should be placed above the tree container area. (Note: the ou
 
 There are two types of items that can be added:
 
-1. *A Group item* This is the parent item, which means there can be children. Example: a folder for the media [library](https://glossary.magento.com/library) or a new [category](https://glossary.magento.com/category). The group item can also be added to another parent group. This allows for n-level tree.
-1. *An item* This is the child. Example: a media item or a sub-category. The child item will be added to whichever parent is selected or to the same parent as sibling.
+1. _A Group item_ This is the parent item, which means there can be children. Example: a folder for the media [library](https://glossary.magento.com/library) or a new [category](https://glossary.magento.com/category). The group item can also be added to another parent group. This allows for n-level tree.
+1. _An item_ This is the child. Example: a media item or a sub-category. The child item will be added to whichever parent is selected or to the same parent as sibling.
 
 The "add child" button should always have more importance than the "add parent" button.
 
@@ -180,13 +183,13 @@ The "add child" button should always have more importance than the "add parent" 
 
 ## Interaction
 
-*Step 1:* User click on the add button.
+_Step 1:_ User click on the add button.
 
 ![](../../_images/pattern-library/add1.jpg)
 
-*Step 2:* A [slide-out panel](../containers/slideouts-modals-overalys.md) should opens up to get the details of what to be added.
+_Step 2:_ A [slide-out panel](../containers/slideouts-modals-overalys.md) should opens up to get the details of what to be added.
 
-*Step 3:* The item is added. The placement of the items will be determined as stated above.
+_Step 3:_ The item is added. The placement of the items will be determined as stated above.
 
 ![](../../_images/pattern-library/add3.jpg)
 
@@ -196,4 +199,4 @@ The "add child" button should always have more importance than the "add parent" 
 
 ## Assets
 
-Download [PhotoShop source file]({{ site.downloads }}/magento-tree-pattern.zip).
+Download [PhotoShop source file](https://devdocs.magento.com/download/magento-tree-pattern.zip).

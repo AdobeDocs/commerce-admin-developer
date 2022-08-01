@@ -1,7 +1,9 @@
 ---
-group: admin-pattern-library
-title: Slide-out Panels, Modal Windows, and Overlays
+title: Slide-out Panels, Modal Windows, and Overlays | Commerce Admin Development
+description: 
 ---
+
+# Slide-out panesl, modal windows, and overlays
 
 It is often necessary to focus the user’s attention on some particular bit of content or isolated action, process or sub-process. A "Slide-out Panel", "Modal Window" or "Overlay" is an effective way to achieve this. These are triggered by a particular user action causing their current task to be interrupted. The user must then take some required action to be returned to their primary task and continue (in most cases). The active state of any of overlays should occupy the topmost level of the z-index.
 
@@ -223,8 +225,8 @@ Data-table with Confirmation Message
 
 ## Assets
 
-*  [Download Slide-out Panels PSD source]({{ site.downloads }}/Slide-out-Panels.psd)
-*  [Download Modal PSD source]({{ site.downloads }}/Modal.psd)
+*  [Download Slide-out Panels PSD source](https://devdocs.magento.com/download/Slide-out-Panels.psd)
+*  [Download Modal PSD source](https://devdocs.magento.com/download/Modal.psd)
 
 ## Technical Implementation
 

@@ -1,7 +1,10 @@
 ---
-group: admin-pattern-library
-title: Tile Pattern
+title: Tile Pattern | Commerce Admin Development
+description: 
 ---
+
+# Tile pattern
+
 This topic contains examples of the Tile pattern used in the [Admin](https://glossary.magento.com/admin) with functions for single selection, multi selection, drag and drop, and editing inline position. For solutions not described in this article, please refer to other related patterns or contact the Commerce UX Design team.
 
 ## Functional Behavior
@@ -66,4 +69,4 @@ For specific details concerning styling including fonts, colors and effects and 
 
 ## Assets
 
-Download [PhotoShop source file]({{ site.downloads }}/tile-pattern-styles.psd).
+Download [PhotoShop source file](https://devdocs.magento.com/download/tile-pattern-styles.psd).
