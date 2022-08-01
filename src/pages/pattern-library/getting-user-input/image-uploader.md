@@ -51,7 +51,7 @@ Once the video information is saved, the video settings panel closes and the use
 
 ![](../../_images/pattern-library/image-uploader-video-panel.jpg)
 
-<InLineAlert variant="info">
+<InlineAlert variant="info" />
 
 Currently the application does not allow Drag and Drop for Video Content.
 

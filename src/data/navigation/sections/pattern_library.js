@@ -13,7 +13,7 @@ module.exports = [
         },
         {
           title: "Slide-outs, modals, and overlays",
-          path: "/pattern-library/containers/static-content/slideouts-modals-overlays/",
+          path: "/pattern-library/containers/slideouts-modals-overlays/",
         },
         {
           title: "Tabs",
@@ -45,23 +45,23 @@ module.exports = [
     },
     {
       title: "Display and handle data",
-      path: "/pattern-library/diplaying-data/",
+      path: "/pattern-library/displaying-data/",
       pages: [
         {
           title: "Filters",
-          path: "/pattern-library/diplaying-data/filters/",
+          path: "/pattern-library/displaying-data/filters/",
         },
         {
           title: "Tile",
-          path: "/pattern-library/diplaying-data/tile/",
+          path: "/pattern-library/displaying-data/tile/",
         },
         {
           title: "Data table",
-          path: "/pattern-library/diplaying-data/datatable/",
+          path: "/pattern-library/displaying-data/datatable/",
         },
         {
           title: "Tree",
-          path: "/pattern-library/diplaying-data/tree/",
+          path: "/pattern-library/displaying-data/tree/",
         },
       ],
     },

@@ -254,7 +254,7 @@ Left/Right margin spacing should not be less than 10px
 
 ### Toggle Buttons
 
-The toggle button acts like a checkbox. When you touch/click on it, the state toggles between "yes" and "no" and/or "on" and "off".<br>
+The toggle button acts like a checkbox. When you touch/click on it, the state toggles between "yes" and "no" and/or "on" and "off".
 
 #### When to Use/When Not to Use
 

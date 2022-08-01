@@ -11,7 +11,7 @@ Expandable sections are expandable content areas which are useful in cases where
 
 ![General example](../../_images/pattern-library/example_general.png)
 
-<InlineAlert variant="info">
+<InlineAlert variant="info" />
 
 Expandable sections should not be confused with the 'Progressive Disclosure checkbox' control.
 

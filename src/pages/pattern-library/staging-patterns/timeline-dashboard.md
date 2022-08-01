@@ -1,7 +1,7 @@
 ---
 title: Timeline Dashboard | Commerce Admin Development
 description: 
-ee_only: true
+edition: ee
 ---
 
 # Timeline dashboard
