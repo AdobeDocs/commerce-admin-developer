@@ -7,8 +7,8 @@ module.exports = [
       title: "Style Guide",
       path: "/style-guide/",
     },
-    // {
-    //   title: "Design Pattern Library",
-    //   path: "/pattern-library/",
-    // },
+    {
+      title: "Design Pattern Library",
+      path: "/pattern-library/",
+    },
   ];
