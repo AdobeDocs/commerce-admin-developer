@@ -35,14 +35,14 @@ Use these sections to learn about customizing the Admin application.
 
 Explore foundational design, writing, and content standards for the Admin.
 
-<!-- <DiscoverBlock slots="link, text"/>
+<DiscoverBlock slots="link, text"/>
 
 [Design Pattern Library](pattern-library/)
 
 Use these patterns to customize Admin user interfaces.
 
-<DiscoverBlock width="100%" slots="heading, text"/> -->
+<DiscoverBlock width="100%" slots="heading, text"/>
 
 ## Contributing to this documentation
 
-We encourage you to participate in our open documentation initiative. If you have suggestions, corrections, additions, or deletions for this documentation, check out the source on [GitHub](https://github.com/adobedocs/commerce-admin-developer), and open a pull request
+We encourage you to participate in our open documentation initiative. If you have suggestions, corrections, additions, or deletions for this documentation, check out the source on [GitHub](https://github.com/adobedocs/commerce-admin-developer), and open a pull request.
