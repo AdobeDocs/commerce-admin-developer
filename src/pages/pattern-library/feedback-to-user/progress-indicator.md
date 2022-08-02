@@ -3,6 +3,8 @@ title: Progress Indicator | Commerce Admin Development
 description: Learn about methods for showing users the progress of system processes in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
+import CustomImage from '../../../components/CustomImage.js'
+
 # Progress indicator
 
 Users sometimes need to wait for a process to be completed by the system. In such case, it is best to communicate that to the user that the system is working the process that the user requested. There are two types of progress indicator: 1.) a progress bar and 2.) a spinner.
@@ -32,7 +34,7 @@ Progress indicator is read-only, not interactive.
 
 Spinner is a gif image.
 
-![](../../_images/pattern-library/Spinner-lg.gif)
+<CustomImage src="/Spinner-lg.gif" alt="Progress indicator example" />
 
 1. Process is triggered
 1. Show spinner - To avoid flickering, if a process generally takes 2 seconds to complete, but can be completed under 500ms. Delay 500ms before showing the spinner.
