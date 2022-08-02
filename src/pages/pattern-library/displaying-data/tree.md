@@ -179,7 +179,7 @@ There are two types of items that can be added:
 
 The "add child" button should always have more importance than the "add parent" button.
 
-![](../../_images/pattern-library/placement.jpg)
+![](../../_images/pattern-library/Placement.jpg)
 
 ## Interaction
 
