@@ -1,6 +1,6 @@
 ---
 title: Data Table | Commerce Admin Development
-description: 
+description: Organize complex data into a tabular view for users in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Data table

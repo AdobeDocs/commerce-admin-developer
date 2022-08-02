@@ -1,6 +1,6 @@
 ---
 title: Use Default Configuration | Commerce Admin Development
-description: 
+description: Learn how to provide users with the ability to revert text fields to original values in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Use default configuration

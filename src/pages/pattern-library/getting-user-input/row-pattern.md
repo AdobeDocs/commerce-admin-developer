@@ -1,6 +1,6 @@
 ---
 title: Row Pattern (Table) | Commerce Admin Development
-description: 
+description: Learn about design standards for providing users in the Adobe Commerce and Magento Open Source Admin application with the ability to add tabular data.
 ---
 
 # Row pattern (table)

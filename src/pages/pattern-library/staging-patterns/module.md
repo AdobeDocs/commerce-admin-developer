@@ -1,6 +1,6 @@
 ---
 title: Scheduled Changes Module | Commerce Admin Development
-description: 
+description: Learn about design standards for the scheduled changes module in the Adobe Commerce Admin application.
 edition: ee
 ---
 

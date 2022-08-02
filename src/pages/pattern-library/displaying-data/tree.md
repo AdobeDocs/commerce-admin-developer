@@ -1,6 +1,6 @@
 ---
 title: Tree Pattern | Commerce Admin Development
-description: 
+description: Learn about design patterns for showing users information hierarchy in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Tree pattern

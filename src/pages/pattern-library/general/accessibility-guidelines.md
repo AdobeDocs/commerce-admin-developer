@@ -1,6 +1,6 @@
 ---
 title: Accessibility Guidelines | Commerce Admin Development
-description: 
+description: Review guidelines for ensuring that the Adobe Commerce and Magento Open Source Admin application is accessible to people with disabilities.
 ---
 
 # Accessibility guidelines

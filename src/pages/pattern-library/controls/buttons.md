@@ -1,6 +1,6 @@
 ---
 title: Buttons | Commerce Admin Development
-description: 
+description: Learn how to design buttons for actions users must take in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Buttons

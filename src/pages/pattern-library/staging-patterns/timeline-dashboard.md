@@ -1,6 +1,6 @@
 ---
 title: Timeline Dashboard | Commerce Admin Development
-description: 
+description: Learn about design standards for the timeline dashboard in the Adobe Commerce Admin application.
 edition: ee
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Form Elements | Commerce Admin Development
-description: 
+description: Learn about design standards for forms in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Form elements

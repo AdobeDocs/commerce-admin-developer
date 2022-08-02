@@ -5,7 +5,7 @@ module.exports = [
     },
     {
       title: "Container",
-      path: "/pattern-library/containers",
+      path: "/pattern-library/containers/",
       pages: [
         {
           title: "Static content",

@@ -1,6 +1,6 @@
 ---
 title: Select From List | Commerce Admin Development
-description: 
+description: Learn about design standards for list patterns in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Select from list

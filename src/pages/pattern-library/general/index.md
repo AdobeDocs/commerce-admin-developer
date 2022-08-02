@@ -1,4 +1,8 @@
 ---
 title: General | Commerce Admin Development
-description:
+description: Review an introduction to general design standards for the Adobe Commerce and Magento Open Source Admin application.
 ---
+
+# General
+
+This section contains general design pattterns for the Adobe Commerce and Magento Open Source Admin application, including accessibility guidelines.

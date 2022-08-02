@@ -1,6 +1,6 @@
 ---
 title: Filters | Commerce Admin Development
-description: 
+description: Allow users to customize how data is displayed in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Filters

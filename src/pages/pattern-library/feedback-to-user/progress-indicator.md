@@ -1,6 +1,6 @@
 ---
 title: Progress Indicator | Commerce Admin Development
-description: 
+description: Learn about methods for showing users the progress of system processes in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Progress indicator

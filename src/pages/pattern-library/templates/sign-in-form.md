@@ -1,6 +1,6 @@
 ---
 title: Sign-in form | Commerce Admin Development
-description: 
+description: Learn about design standards for sign-in forms in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Sign-in form

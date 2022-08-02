@@ -1,6 +1,6 @@
 ---
 title: Tabs | Commerce Admin Development
-description: 
+description: Provide a way for users to switch between views in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Tabs

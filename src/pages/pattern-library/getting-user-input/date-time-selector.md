@@ -1,6 +1,6 @@
 ---
 title: Date and Time Selector | Commerce Admin Development
-description: 
+description: Learn about design standards for date/time selectors in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Date and time selector

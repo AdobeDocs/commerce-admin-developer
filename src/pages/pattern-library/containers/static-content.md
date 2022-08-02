@@ -1,6 +1,6 @@
 ---
 title: Static Content Container | Commerce Admin Development
-description: 
+description: Learn how to display user-generated content in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Static content container

@@ -1,6 +1,6 @@
 ---
 title: Links | Commerce Admin Development
-description: 
+description: Learn about design standards for link navigation in the Adobe Commerce and Magento Open Source Admin application.
 ---
 
 # Links
