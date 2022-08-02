@@ -20,7 +20,7 @@ Find more details about the [Admin](https://glossary.magento.com/admin) [Design 
 ### Container
 
 *  [Static Content Container](containers/static-content.md)
-*  [Slide-out Panels, Modal Windows, and Overlays](containers/slideouts-modals-overalys.md)
+*  [Slide-out Panels, Modal Windows, and Overlays](containers/slideouts-modals-overlays.md)
 *  [Tabs](containers/tabs.md)
 
 ### Controls

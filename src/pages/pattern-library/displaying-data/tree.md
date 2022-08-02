@@ -162,7 +162,7 @@ _Move Up_ Once clicked, the item should be moved up within the parent. If the it
 
 _Move Down_ Once clicked, the item should be moved down within the parent. If the item is the last child, it cannot be moved down and the option will be disabled.
 
-_Edit_ Once clicked, this opens up a [slide-out panel](../containers/slideouts-modals-overalys.md).
+_Edit_ Once clicked, this opens up a [slide-out panel](../containers/slideouts-modals-overlays.md).
 
 _Remove_ Once clicked, the item should be removed.
 
@@ -187,7 +187,7 @@ _Step 1:_ User click on the add button.
 
 ![](../../_images/pattern-library/add1.jpg)
 
-_Step 2:_ A [slide-out panel](../containers/slideouts-modals-overalys.md) should opens up to get the details of what to be added.
+_Step 2:_ A [slide-out panel](../containers/slideouts-modals-overlays.md) should opens up to get the details of what to be added.
 
 _Step 3:_ The item is added. The placement of the items will be determined as stated above.
 
