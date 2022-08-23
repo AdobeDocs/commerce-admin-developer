@@ -5,7 +5,7 @@ description: Review style guide resources for designing UI elements and writing 
 
 # Admin Style Guide
 
-The Admin guide sets our foundational design, writing, and content standards for the [Admin](https://glossary.magento.com/magento-admin) software. For more specific user-interface standards, see the [Admin Design Pattern Library](https://devdocs.magento.com/guides/v2.4/pattern-library/bk-pattern.html).
+The Admin guide sets our foundational design, writing, and content standards for the [Admin](https://glossary.magento.com/magento-admin) software. For more specific user-interface standards, see the [Admin Design Pattern Library](https://developer.adobe.com/commerce/admin-developer/pattern-library/).
 
 **Why follow the style guide?** A style guide is the best tool for designers and writers to establish and maintain consistency, which improves communication throughout the application. A seamless look-and-feel and a steady, encouraging writing style make the application usable and engaging.
 
