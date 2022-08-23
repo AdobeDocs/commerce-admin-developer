@@ -29,7 +29,7 @@ Buttons can be used for:
 
 Button types are primary, secondary, and tertiary. Each page should have a maximum limit of one primary button. Split buttons include multiple actions. Button counts in a Button Bar or any array of buttons should be limited to four buttons, maximum.
 
-**For design specs,** see [Buttons](https://devdocs.magento.com/guides/v2.4/pattern-library/controls/buttons/buttons.html) and [Button Bar](https://devdocs.magento.com/guides/v2.4/pattern-library/controls/button-bar/button-bar.html) patterns.
+**For design specs,** see [Buttons](https://developer.adobe.com/commerce/admin-developer/pattern-library/controls/buttons/) and [Button Bar](https://developer.adobe.com/commerce/admin-developer/pattern-library/controls/button-bar/) patterns.
 
 ## Links
 

@@ -30,7 +30,7 @@ Content should be gender neutral. To avoid “his” or “her” pronouns, chan
 
 **Follow accessibility and readability standards.**
 
-To ensure that users with special needs – including the use of screen readers – can easily access your content, follow the content and design standards in the Admin Design Pattern Library's [Accessibility Guidelines](https://devdocs.magento.com/guides/v2.4/pattern-library/general/accessibilityguideline/accessibilityGuideline.html).
+To ensure that users with special needs – including the use of screen readers – can easily access your content, follow the content and design standards in the Admin Design Pattern Library's [Accessibility Guidelines](https://developer.adobe.com/commerce/admin-developer/pattern-library/general/accessibility-guidelines/).
 
 For more guidance, see this summary of [Web Content Accessibility Guidelines (WCAG) 2.0 standards](https://www.w3.org/WAI/WCAG20/glance/).
 
@@ -44,7 +44,7 @@ When uncertain about using a correct term or style, consult the following docume
 
 *  The [Glossary](https://glossary.magento.com/)
 
-*  [Admin Design Pattern Library](https://devdocs.magento.com/guides/v2.4/pattern-library/bk-pattern.html)
+*  [Admin Design Pattern Library](https://developer.adobe.com/commerce/admin-developer/pattern-library/)
 
 For standards not included in those documents, we use the following stylebooks:
 
@@ -129,7 +129,7 @@ Most websites have eliminated personal pronouns because using pronouns like “y
 
 The tone in UI content – including navigation, tables, forms, and calls to action – is usually more focused on accuracy and conciseness, but the same standards apply: Use clear, plain language and consult global conventions to ensure content is understood by all.
 
-Consistency is critical. For example, wherever content is displayed in [Data Tables](https://devdocs.magento.com/guides/v2.4/pattern-library/displaying-data/datatable/datatable.html) or [Form Elements](https://devdocs.magento.com/guides/v2.4/pattern-library/getting-user-input/form_elements/form_elements.html), it should use standard or global conventions.
+Consistency is critical. For example, wherever content is displayed in [Data Tables](https://developer.adobe.com/commerce/admin-developer/pattern-library/displaying-data/datatable/) or [Form Elements](https://devdocs.magento.com/guidehttps://developer.adobe.com/commerce/admin-developer/pattern-library/getting-user-input/form-elements/), it should use standard or global conventions.
 
 *Correct example of button-label consistency, in a task flow:*
 
