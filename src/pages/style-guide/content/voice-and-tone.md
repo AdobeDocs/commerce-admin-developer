@@ -129,7 +129,7 @@ Most websites have eliminated personal pronouns because using pronouns like “y
 
 The tone in UI content – including navigation, tables, forms, and calls to action – is usually more focused on accuracy and conciseness, but the same standards apply: Use clear, plain language and consult global conventions to ensure content is understood by all.
 
-Consistency is critical. For example, wherever content is displayed in [Data Tables](https://developer.adobe.com/commerce/admin-developer/pattern-library/displaying-data/datatable/) or [Form Elements](https://devdocs.magento.com/guidehttps://developer.adobe.com/commerce/admin-developer/pattern-library/getting-user-input/form-elements/), it should use standard or global conventions.
+Consistency is critical. For example, wherever content is displayed in [Data Tables](https://developer.adobe.com/commerce/admin-developer/pattern-library/displaying-data/datatable/) or [Form Elements](https://developer.adobe.com/commerce/admin-developer/pattern-library/getting-user-input/form-elements/), it should use standard or global conventions.
 
 *Correct example of button-label consistency, in a task flow:*
 
