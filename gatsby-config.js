@@ -13,7 +13,6 @@
 const { pages, subPages } = require("./src/data/navigation");
 
 module.exports = {
-  pathPrefix: process.env.PATH_PREFIX || `/commerce/frontend-core/`,
   siteMetadata: {
     "home": {
       "title": "Commerce",
@@ -23,4 +22,5 @@ module.exports = {
     subPages: subPages,
   },
   plugins: [`@adobe/gatsby-theme-aio`],
+  pathPrefix: process.env.PATH_PREFIX || `/commerce/frontend-core/`,
 };
