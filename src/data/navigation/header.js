@@ -1,6 +1,6 @@
-module.exports = [
+xports = [
     {
-      title: "Commerce Admin Development",
+      title: "Admin Development",
       path: "/",
     },
     {
