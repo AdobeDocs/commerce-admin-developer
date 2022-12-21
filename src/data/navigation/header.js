@@ -1,4 +1,4 @@
-xports = [
+module.exports = [
     {
       title: "Admin Development",
       path: "/",
