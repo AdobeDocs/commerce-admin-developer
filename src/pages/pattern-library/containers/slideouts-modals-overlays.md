@@ -19,7 +19,7 @@ Use Modal windows to focus attention either on some particular content (such as 
 
 ## Use of Modal Overlay
 
-Overlays, for the purposes of this document, generally refer to any content that appears over the primary page when triggered. Overlays also refer more specifically to those containers used to present actions, navigation, filtering options, tooltips and contextual help, messages, and so on.  See examples below.
+Overlays, for the purposes of this document, generally refer to any content that appears over the primary page when triggered. Overlays also refer more specifically to those containers used to present actions, navigation, filtering options, tooltips and contextual help, messages, and more.  See examples below.
 
 ## Slide-out
 
