@@ -5,27 +5,27 @@ description: Learn how to focus user attention in the Adobe Commerce and Magento
 
 # Slide-out panesl, modal windows, and overlays
 
-It is often necessary to focus the user’s attention on some particular bit of content or isolated action, process or sub-process. A "Slide-out Panel", "Modal Window" or "Overlay" is an effective way to achieve this. These are triggered by a particular user action causing their current task to be interrupted. The user must then take some required action to be returned to their primary task and continue (in most cases). The active state of any of overlays should occupy the topmost level of the z-index.
+You can focus user attention on a specific bit of content, isolated action, process or sub-process by using a "Slide-out Panel", "Modal Window" or "Overlay" component in the interface. Display of these components is triggered by a particular user action that interrupts their current task. The user must then take some required action to return to their primary task and continue (in most cases). The active state of any of overlays should occupy the topmost level of the z-index.
 
 For solutions not described in this article or for further information, please contact the Commerce UX Design team.
 
 ## Use of Slide-out Panels (aka "Slideouts")
 
-Slide-out panels should be used for tertiary actions or sub-processes related to the user’s primary path. These panels allow for greater content and/or more complex interactions thus behaving much like an additional webpage while maintaining a contextual connection to the primary task.
+Use slide-out panels for tertiary actions or sub-processes related to the user’s primary path. These panels allow for greater content and/or more complex interactions thus behaving much like an additional webpage while maintaining a contextual connection to the primary task.
 
 ## Use of Modal Windows (aka "Modals")
 
-Modal windows are best used to focus attention either on some particular content (such as a video), or to confirm an action or decision (such as "Do you wish to delete the selected files"). Typically modals should be used when the information presented is more concise and the interactions are less complex (than that used in slideouts).
+Use Modal windows to focus attention either on some particular content (such as a video), or to confirm an action or decision (such as "Do you wish to delete the selected files"). Typically modals should be used when the information presented is more concise and the interactions are less complex (than that used in slideouts).
 
 ## Use of Modal Overlay
 
-Overlays, for the purposes of this document, generally refer to any content that appears over the primary page when triggered. Overlays also refer more specifically to those containers used to present actions, navigation, filtering options, tooltips and contextual help, messages, etc.  See examples below.
+Overlays, for the purposes of this document, generally refer to any content that appears over the primary page when triggered. Overlays also refer more specifically to those containers used to present actions, navigation, filtering options, tooltips and contextual help, messages, and more.  See examples below.
 
 ## Slide-out
 
 ### Behavior and Animation
 
-When the slideout is triggered (by an action taken on the "parent page"), the panel will appear to slide into position in the viewport from right-to-left. The panel should be attached to the top of the browser and match the length of the parent page. In its final position, the panel should not fully obscure the parent page, leaving a portion of the lower parent page in view. The lower parent page is disabled when the slideout is active. This is achieved by covering the parent page with a transparent shade. The page-over-page appearance will help focus the user’s attention on the active sub-task while providing context of this "interruption" to the primary task.
+When the slideout is triggered (by an action taken on the "parent page"), the panel appears to slide into position in the viewport from right-to-left. The panel should be attached to the top of the browser and match the length of the parent page. In its final position, the panel should not fully obscure the parent page, leaving a portion of the lower parent page in view. The lower parent page is disabled when the slideout is active. This is achieved by covering the parent page with a transparent shade. The page-over-page appearance helps focus the user’s attention on the active sub-task while providing context of this "interruption" to the primary task.
 
 ![Example of panel animation](../../_images/pattern-library/slideout-panel1.png)
 
