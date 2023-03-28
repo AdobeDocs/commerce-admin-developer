@@ -37,7 +37,7 @@ See the following resources to learn more about using the theme:
 - [Configuring global navigation](https://github.com/adobe/aio-theme#global-navigation)
 - [Configuring side navigation](https://github.com/adobe/aio-theme#side-navigation)
 - [Using content blocks](https://github.com/adobe/aio-theme#jsx-blocks)
-- [Writing enhancemed Markdown](https://github.com/adobe/aio-theme#writing-enhanced-markdown)
+- [Writing enhanced Markdown](https://github.com/adobe/aio-theme#writing-enhanced-markdown)
 - [Deploying the site](https://github.com/adobe/aio-theme#deploy-to-azure-storage-static-websites) _(Adobe employees only)_
 
 If you have questions, open an issue and ask us. We look forward to hearing from you!
