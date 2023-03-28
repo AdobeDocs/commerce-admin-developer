@@ -40,4 +40,4 @@ See the following resources to learn more about using the theme:
 - [Writing enhancemed Markdown](https://github.com/adobe/aio-theme#writing-enhanced-markdown)
 - [Deploying the site](https://github.com/adobe/aio-theme#deploy-to-azure-storage-static-websites) _(Adobe employees only)_
 
-If you have questions, open an issue and ask us. We're looking forward to hearing from you!
+If you have questions, open an issue and ask us. We look forward to hearing from you!
