@@ -21,7 +21,7 @@ To build the site locally:
    yarn install
    ```
 
-1. Build the project.
+1. Launch the project in development mode.
 
    ```bash
    yarn dev
