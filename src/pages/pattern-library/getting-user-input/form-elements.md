@@ -17,7 +17,7 @@ _* "best" is a relative term, but there are User Experience principles and best 
 
 ## Form Labels
 
-In most cases every text field, text box, radio button group, checkbox or checkbox group, drop down selector and multi-select box will have a label. There are two variations of form [layout](https://glossary.magento.com/layout) – "label-left" and "label-top". Depending on the layout of the page and/or task-at-hand, either of these may be implemented, but whichever layout is deemed appropriate it should be used consistency throughout a given task.
+In most cases every text field, text box, radio button group, checkbox or checkbox group, drop down selector and multi-select box will have a label. There are two variations of form layout – "label-left" and "label-top". Depending on the layout of the page and/or task-at-hand, either of these may be implemented, but whichever layout is deemed appropriate it should be used consistency throughout a given task.
 
 **Example of label-top:**
 
@@ -99,7 +99,7 @@ Checkboxes should be used in cases where one or many options may be selected. A 
 
 ![](../../_images/pattern-library/checkboxes.png)
 
-If there is a _parent-child_ relationship of associated checkboxes there should be some visual distinction for the user between "some" checked and "all" checked, in the [event](https://glossary.magento.com/event) that the child elements are hidden from view as in a expandable section.
+If there is a _parent-child_ relationship of associated checkboxes there should be some visual distinction for the user between "some" checked and "all" checked, in the event that the child elements are hidden from view as in a expandable section.
 
 ![](../../_images/pattern-library/tri-check.png)
 

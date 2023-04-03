@@ -6,7 +6,7 @@ edition: ee
 
 # Scheduled changes module
 
-For all stage-able entities, a Scheduled Changes [Module](https://glossary.magento.com/module) appears on the top of each entity’s page. An entity’s module provides a quick summary of scheduled updates, as well as controls to view, edit and preview individual updates.
+For all stage-able entities, a Scheduled Changes Module appears on the top of each entity’s page. An entity’s module provides a quick summary of scheduled updates, as well as controls to view, edit and preview individual updates.
 
 ## When to Use / When Not to Use
 
@@ -23,7 +23,7 @@ When no updates are available to be displayed on the timeline.
 
 ### Multiple Updates View
 
-Shows when several updates are scheduled for a stage-able [entity](https://glossary.magento.com/entity).
+Shows when several updates are scheduled for a stage-able entity.
 
 ![](../../_images/pattern-library/sc-Module-multiple updates.jpg)
 

@@ -27,7 +27,7 @@ Required fields should not be located within a collapsed section, as this increa
 
   ![Specs](../../_images/pattern-library/specs.png)
 
-*  If the expandable section belongs to a [layout](https://glossary.magento.com/layout) with a sidebar, and the content area contains forms, then the form field starts at the 7th column for level 2 and at 8th column for levels 3 and 4.
+*  If the expandable section belongs to a layout with a sidebar, and the content area contains forms, then the form field starts at the 7th column for level 2 and at 8th column for levels 3 and 4.
 *  The content areas in the expandable section have 30px padding at the top and bottom. _The current design proposal accommodates 4 levels of nested expandable sections._
 
 ### Visual appearance

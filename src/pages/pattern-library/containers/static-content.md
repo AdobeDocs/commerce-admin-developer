@@ -5,7 +5,7 @@ description: Learn how to display user-generated content in the Adobe Commerce a
 
 # Static content container
 
-It is often necessary to display static information to the users. These [static content](https://glossary.magento.com/static-content) are considered Content Container and should follow the guideline in this article. For solutions not described in this article or for further information, please contact the Commerce UX Design Team.
+It is often necessary to display static information to the users. These static content are considered Content Container and should follow the guideline in this article. For solutions not described in this article or for further information, please contact the Commerce UX Design Team.
 
 ## When to Use
 

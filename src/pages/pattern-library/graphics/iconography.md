@@ -5,7 +5,7 @@ description: Learn about design standards for icons in the Adobe Commerce and Ma
 
 # Iconography
 
-Icons are used throughout the [Admin](https://glossary.magento.com/magento-admin) interface, often as a controls to initiate a function (such as "Filter"), or to direct the user to section (such as "Account").
+Icons are used throughout the Admin interface, often as a controls to initiate a function (such as "Filter"), or to direct the user to section (such as "Account").
 
 Icons are meant to provide a visual representation of functionality or content and should therefore bear some conceptual resemblance to them. Icons should be able to communicate their "use" to the user without the assistance of a text label, though labels should be used in the UI whenever possible to minimize ambiguity.
 
@@ -19,7 +19,7 @@ Typically icons should represent a single, unique concept and be used consistent
 
 ## Icon Library
 
-In the [Admin](https://glossary.magento.com/admin) UI icons have a simple, flat, single-color, 2D, style. This style prevents the loss of detail at smaller sizes and makes the shapes easier to comprehend.
+In the Admin UI icons have a simple, flat, single-color, 2D, style. This style prevents the loss of detail at smaller sizes and makes the shapes easier to comprehend.
 
 [Download Icon Library .ai file](https://devdocs.magento.com/download/Magento-icon-library.ai)
 [Download Icon Library Sketch file](https://devdocs.magento.com/download/magento_icon_library.sketch)
@@ -33,7 +33,7 @@ In the [Admin](https://glossary.magento.com/admin) UI icons have a simple, flat,
 *  Icons should be designed on the 300px by 300px icon grid. [Download Icon Grid .ai file](https://devdocs.magento.com/download/Magento_icon_grid_300x300.ai)
 *  Icons should be monochromatic.
 *  Icons should look like they are part of the "family" of icons.
-*  Line weights should be consistent with other icons in the [library](https://glossary.magento.com/library).
+*  Line weights should be consistent with other icons in the library.
 *  Elements within the icon should be consistent with these elements icons in the library (i.e. "Arrows").
 *  Cantered or rotated elements should observe a 45 degree angle.
 *  A limited perspective should be used.

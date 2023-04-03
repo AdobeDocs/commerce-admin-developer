@@ -5,7 +5,7 @@ description: Learn about design standards for providing users in the Adobe Comme
 
 # Row pattern (table)
 
-The "row pattern" (also referred to as _table light_ and _mini grid_) is used in the [Admin](https://glossary.magento.com/magento-admin) interface wherever the User is expected to want to input tabular data. This pattern allows the user to add as many rows of data as they desire. "Light tables" are used when the User needs to add/edit a relatively small amount of items (rows).
+The "row pattern" (also referred to as _table light_ and _mini grid_) is used in the Admin interface wherever the User is expected to want to input tabular data. This pattern allows the user to add as many rows of data as they desire. "Light tables" are used when the User needs to add/edit a relatively small amount of items (rows).
 
 The pattern supports following actions:
 
@@ -44,7 +44,7 @@ Each row will have a delete control on the far right, often represented by a _"t
 
 The delete control _CAN_ allow the user to remove all rows, even the initial row displayed upon page load.
 
-The "Add" link however should always be present to allow the user to add a row, even in the [event](https://glossary.magento.com/event) of deleting all rows.
+The "Add" link however should always be present to allow the user to add a row, even in the event of deleting all rows.
 
 ![](../../_images/pattern-library/behavior.png)
 
@@ -60,7 +60,7 @@ Once pagination is enabled an "Order" column should be appended to allow the use
 
 ## Examples
 
-Typically the Row Pattern will span either 8 or 12 columns for the page grid, depending on the [layout](https://glossary.magento.com/layout) of the page or panel on which it appears. The Row Pattern should accommodate all typical form elements as are necessary, but discretion should be used to insure the elements within the row are easy to read and interact with and do not become to cramped within the space.
+Typically the Row Pattern will span either 8 or 12 columns for the page grid, depending on the layout of the page or panel on which it appears. The Row Pattern should accommodate all typical form elements as are necessary, but discretion should be used to insure the elements within the row are easy to read and interact with and do not become to cramped within the space.
 
 ![](../../_images/pattern-library/row-examples.png)
 

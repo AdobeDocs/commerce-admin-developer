@@ -72,7 +72,7 @@ When introducing a term that may be unfamiliar to merchants, apply a glossary te
 *Example:*
 
 *  **No** – “This SaaS feature is only available in Adobe Commerce.”
-*  Yes – “This [software as a service](https://glossary.magento.com/software-as-a-service) (SaaS) feature is only available in Adobe Commerce.”
+*  Yes – “This software as a service (SaaS) feature is only available in Adobe Commerce.”
 
 **Empower the merchant with positive tone and sentence structure.**
 
