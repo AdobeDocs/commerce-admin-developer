@@ -5,7 +5,7 @@ description: Learn about design patterns, like drag-and-drop and multiselect, fo
 
 # Tile pattern
 
-This topic contains examples of the Tile pattern used in the [Admin](https://glossary.magento.com/admin) with functions for single selection, multi selection, drag and drop, and editing inline position. For solutions not described in this article, please refer to other related patterns or contact the Commerce UX Design team.
+This topic contains examples of the Tile pattern used in the Admin with functions for single selection, multi selection, drag and drop, and editing inline position. For solutions not described in this article, please refer to other related patterns or contact the Commerce UX Design team.
 
 ## Functional Behavior
 
@@ -29,7 +29,7 @@ The gripper handle in the top left corner of the tile is used when the capabilit
 
 ## Removing Tiles
 
-The X in the top right corner of the tile will remove the tile from the [category](https://glossary.magento.com/category) but not delete it from the actual product [catalog](https://glossary.magento.com/catalog). When a tile is selected to be removed, the user is prompted with a 1-2 second alert stating, "This product is now being removed from the category."
+The X in the top right corner of the tile will remove the tile from the category but not delete it from the actual product catalog. When a tile is selected to be removed, the user is prompted with a 1-2 second alert stating, "This product is now being removed from the category."
 
 ## Hero Product Checkbox and Link
 

@@ -15,7 +15,7 @@ A search box associated with a data-table allows users to filter table data by e
 
 ![](../../_images/pattern-library/keyword_applied.png)
 
-In the [event](https://glossary.magento.com/event) that the user enters a term that is not found in the data, the table will display a message to the user: "Your search term did not return any results". When this happens the user-entered term will remain in the search field for the user's reference.
+In the event that the user enters a term that is not found in the data, the table will display a message to the user: "Your search term did not return any results". When this happens the user-entered term will remain in the search field for the user's reference.
 
 ![](../../_images/pattern-library/search_not-found.png)
 

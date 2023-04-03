@@ -5,7 +5,7 @@ description: Learn about how icons are used in the Adobe Commerce and Magento Op
 
 # Iconography
 
-Icons are used throughout the [Admin](https://glossary.magento.com/magento-admin) interface, often as controls to initiate a function (such as a "Filter") or to direct a user to a section (such as "Account").
+Icons are used throughout the Admin interface, often as controls to initiate a function (such as a "Filter") or to direct a user to a section (such as "Account").
 
 Icons are meant to provide a visual representation of functionality or content and should therefore bear some conceptual resemblance to them. Icons should be able to communicate their "use" to the user without the assistance of a text label, though labels should be used in the UI whenever possible to minimize ambiguity.
 
@@ -75,7 +75,7 @@ If you want to add your own icons, each icon will need to be in its own SVG file
 
    Setting the icons to [Private Use Area](https://en.wikipedia.org/wiki/Private_Use_Areas#Private_Use_Areas) (PUA) will disable screen-readers and other accessibility tools. Disabling prevents the devices from mistakenly translating your icon's characters as words that users won't understand.
 
-1. From the app, click "Download" to generate the icon font and [CSS](https://glossary.magento.com/css) style sheet.
+1. From the app, click "Download" to generate the icon font and CSS style sheet.
 
 ## Accessibility
 

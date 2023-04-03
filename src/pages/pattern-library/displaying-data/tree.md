@@ -5,7 +5,7 @@ description: Learn about design patterns for showing users information hierarchy
 
 # Tree pattern
 
-This topic contains various types of Tree structures used in [Admin](https://glossary.magento.com/admin) with functions for navigating, multi-selecting, adding nodes, editing inline, and dragging items.
+This topic contains various types of Tree structures used in Admin with functions for navigating, multi-selecting, adding nodes, editing inline, and dragging items.
 
 For solutions not described in this article, please refer to other related patterns or contact the Commerce UX Design team.
 
@@ -174,7 +174,7 @@ The 'Add' triggers should be placed above the tree container area. (Note: the ou
 
 There are two types of items that can be added:
 
-1. _A Group item_ This is the parent item, which means there can be children. Example: a folder for the media [library](https://glossary.magento.com/library) or a new [category](https://glossary.magento.com/category). The group item can also be added to another parent group. This allows for n-level tree.
+1. _A Group item_ This is the parent item, which means there can be children. Example: a folder for the media library or a new category. The group item can also be added to another parent group. This allows for n-level tree.
 1. _An item_ This is the child. Example: a media item or a sub-category. The child item will be added to whichever parent is selected or to the same parent as sibling.
 
 The "add child" button should always have more importance than the "add parent" button.

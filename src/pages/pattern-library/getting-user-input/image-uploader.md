@@ -9,7 +9,7 @@ The Image uploader provides the ability for users to upload a single image, or g
 
 ## When to Use
 
-When it is desirable to allow users to upload a single image or multiple images for display within the [Admin](https://glossary.magento.com/magento-admin) or on the [Storefront](https://glossary.magento.com/storefront).
+When it is desirable to allow users to upload a single image or multiple images for display within the Admin or on the Storefront.
 
 ## When Not to Use
 
@@ -25,7 +25,7 @@ This pattern should be used specifically to upload images, and not to upload doc
 
 **Uploading via Browser:**
 
-The Image Uploader allows the user to browse for images to upload to the [Admin](https://glossary.magento.com/admin) application. This can accommodate single or multiple image upload. To initiate this behavior the user clicking on the "Upload Image" link (target area). The user then proceeds to select the desired images via the browser, using SHIFT + click or ALT/COMMAND + click to select multiple image files.
+The Image Uploader allows the user to browse for images to upload to the Admin application. This can accommodate single or multiple image upload. To initiate this behavior the user clicking on the "Upload Image" link (target area). The user then proceeds to select the desired images via the browser, using SHIFT + click or ALT/COMMAND + click to select multiple image files.
 
 ![](../../_images/pattern-library/image-uploader-browse.jpg)
 
@@ -43,7 +43,7 @@ To upload a video to the Admin application the user taps the "Add Video" button.
 
 ![](../../_images/pattern-library/image-uploader-video-uploaded.jpg)
 
-A video settings panel is revealed that allows the user to provide the [URL](https://glossary.magento.com/url) location of the video, write a description and upload a preview image for the video. The user taps the "Save" button to upload the information.
+A video settings panel is revealed that allows the user to provide the URL location of the video, write a description and upload a preview image for the video. The user taps the "Save" button to upload the information.
 
 ![](../../_images/pattern-library/image-uploader-video-panel.jpg)
 

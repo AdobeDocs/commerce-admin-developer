@@ -5,7 +5,7 @@ description: Learn how to work with page layouts and templates in the Adobe Comm
 
 # Page grids
 
-In the [Admin](https://glossary.magento.com/magento-admin), a grid is used on all pages to establish global layouts for page templates. The grid assigns a set number of columns and rows for a page, and designers can create a layout by dividing the columns into sections, where design patterns and content can be placed.
+In the Admin, a grid is used on all pages to establish global layouts for page templates. The grid assigns a set number of columns and rows for a page, and designers can create a layout by dividing the columns into sections, where design patterns and content can be placed.
 
 -  A 12-column fluid-width content grid is placed next to the page’s 1-column fixed-width left navigation
 -  The 12-column grid’s minimum width spans 984px. The grid expands its layout across larger screens.
@@ -29,7 +29,7 @@ Layout and behavior:
 
 When a panel spawns, it slides from right to left atop and almost completely over the parent page. A narrow gutter of space remains at left, showing the left navigation and a small sliver of the parent page.
 
-Standard [layout](https://glossary.magento.com/layout) within the edges of a browser screen
+Standard layout within the edges of a browser screen
 
 ![](../../_images/style-guide/slideout-panel7.png)
 

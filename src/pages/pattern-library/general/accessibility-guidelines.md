@@ -81,7 +81,7 @@ The application should be accessible for all people, whatever their hardware, so
 
 -  **Plan heading structure early**—Ensure all content and design fits under a logical heading structure.
 
--  **Use true text whenever possible**—True text enlarges better, loads faster, and is easier to translate. Use [CSS](https://glossary.magento.com/css) to add visual style.
+-  **Use true text whenever possible**—True text enlarges better, loads faster, and is easier to translate. Use CSS to add visual style.
 
 -  **Support the link focus indicator**—Make sure keyboard users can always visually identify a focused link.
 
@@ -89,7 +89,7 @@ The application should be accessible for all people, whatever their hardware, so
 
 -  **Code accessible form controls**—Ensure form controls have descriptive labels and instructions. Pay close attention to form validation errors and recovery mechanisms.
 
--  **Provide [alt text](https://glossary.magento.com/alt-text) if icons or glyphs are used without text**—Cascading style sheets (CSS) for purely decorative images. Hyperlinked images without supporting text must be inline, with alternative text.
+-  **Provide alt text if icons or glyphs are used without text**—Cascading style sheets (CSS) for purely decorative images. Hyperlinked images without supporting text must be inline, with alternative text.
 
 ## Resources
 

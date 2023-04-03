@@ -25,7 +25,7 @@ The user may "tab" to navigate the form in the following order:
 
 ### Initial state
 
-In its initial state the sign-in [module](https://glossary.magento.com/module) consists of
+In its initial state the sign-in module consists of
 
 *  a Welcome message
 *  two text fields – **Username** and **Password**
@@ -36,7 +36,7 @@ In its initial state the sign-in [module](https://glossary.magento.com/module) c
 
 ### Error state
 
-In the [event](https://glossary.magento.com/event) that invalid credentials are submitted the sign-in module consists of
+In the event that invalid credentials are submitted the sign-in module consists of
 
 *  an alert message informing the user that either the Username or Password is invalid
 *  two text fields – **Username** and **Password**, where the Username field will retain the initial entry as typed by the user and be the active field and the password field will be blank

@@ -5,7 +5,7 @@ description: Learn about design patterns for common elements of the Admin applic
 
 # Admin Design Pattern Library
 
-Design patterns can be simple elements or complex pieces of functionality - like buttons, scroll bars, data tables, and forms - that are standardized to be easily repeated and reused across a [website](https://glossary.magento.com/website) or application.
+Design patterns can be simple elements or complex pieces of functionality - like buttons, scroll bars, data tables, and forms - that are standardized to be easily repeated and reused across a website or application.
 
 Patterns include definitions, examples, instructions and specifications that break down spatial relationships, and interactions/behaviors.
 
@@ -15,7 +15,7 @@ Using patterns enhances customer experience through maintaining consistency and 
 
 Patterns libraries are designed to evolve over time, never going out of date. Changes should be communicated, as they occur, to the design community.
 
-Find more details about the [Admin](https://glossary.magento.com/admin) [Design Pattern](https://glossary.magento.com/design-pattern) [Library](https://glossary.magento.com/library) in the following topic:
+Find more details about the Admin Design Pattern Library in the following topic:
 
 ### Container
 

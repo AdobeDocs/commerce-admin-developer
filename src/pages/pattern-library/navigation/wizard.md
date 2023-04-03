@@ -122,7 +122,7 @@ Any other steps, Save button is present. Both 'Back' and 'Next' buttons are enab
 
 ### 3. Process with many steps that cannot fit in the given section
 
-It is not recommended to have too many steps for a wizard. But if a use case arise such that your [extension](https://glossary.magento.com/extension) will have many steps that cannot fit the available space, please follow this truncation rule if not all steps in the navigation can be visible at once. This case may happen based on multiple reasons such as screen size changes, too many buttons, or simply too many steps.
+It is not recommended to have too many steps for a wizard. But if a use case arise such that your extension will have many steps that cannot fit the available space, please follow this truncation rule if not all steps in the navigation can be visible at once. This case may happen based on multiple reasons such as screen size changes, too many buttons, or simply too many steps.
 
 (for specific styling of this variation, refer to the link to .psd files in Assets.)
 
