@@ -12,14 +12,14 @@ For more number formats, use the Associated Press (AP) Stylebook on first refere
 <ul>
   <li>For numbers 10 and higher, use numerals. For numbers lower than 10, spell out numbers. <em>See correct examples:</em>
     <ul style="list-style-type:none">
-      <li>Yes – “We offer this service in nine countries.”</li>
-      <li>Yes – “Over 200 companies use this service.”</li>
+      <li>Yes – "We offer this service in nine countries."</li>
+      <li>Yes – "Over 200 companies use this service."</li>
     </ul>
   </li>
   <li>In headlines and "pull quotes", where the number is the focus, use numerals. <em>See correct examples:</em>
     <ul style="list-style-type:none">
-      <li>Yes – “1 in 3 shoppers ...”</li>
-      <li>Yes – “We’re #1”</li>
+      <li>Yes – "1 in 3 shoppers ..."</li>
+      <li>Yes – "We're #1"</li>
     </ul>
   </li>
   <li>Use numerals for all numbers in the following cases:
@@ -31,7 +31,7 @@ For more number formats, use the Associated Press (AP) Stylebook on first refere
   <li>For large numbers, we use a comma.
     <ul style="list-style-type:none">
       <li><em>Correct example:</em> 200,000 - never "200k" or "200 thousand"</li>
-      <li><em>Exception:</em> In large-format printing, we can use “200k” to add impact. Where this can be used: Posters, billboards, and small internet banners where space is tight.</li>
+      <li><em>Exception:</em> In large-format printing, we can use "200k" to add impact. Where this can be used: Posters, billboards, and small internet banners where space is tight.</li>
       </ul>
   </li>
 </ul>
@@ -42,42 +42,36 @@ See [Addresses](content-formats.md#addresses) section in Content Formats.
 
 ## Percentages
 
-In regular text, write out “percent”. However, the ”%” sign can be used in call-outs, graphics, and large-format content (*Example:* posters).
+In regular text, write out "percent". However, the "%" sign can be used in call-outs, graphics, and large-format content (*Example:* posters).
 
 *Example:*
 
-*  **No** – “Merchants have reported increased sales of up to 130%”
-*  Yes – “Merchants have reported increased sales of up to 130 percent.”
+*  **No** – "Merchants have reported increased sales of up to 130%"
+*  Yes – "Merchants have reported increased sales of up to 130 percent."
 
 ## Money
 
-Do not add a space between the symbol and the number. ... *Examples:* $781, £490, €2,183
+Do not add a space between the symbol and the number. For example:
 
-This is how we write about money:
+*  **Incorrect** - "$ 2"
+*  **Correct** - "$2"
 
-<table>
-  <tbody>
-    <tr>
-      <th colspan="4">Examples:</th>
-    </tr>
-    <tr>
-      <td><strong>No</strong> – “$2.00"<br />
-      <strong>No</strong> – “$ 2"<br />
-      Yes – “$2”<br />
-      Yes – “$2.01”</td>
-      <td><strong>No</strong> – “$1232"<br />
-      <strong>No</strong> – “$1232.00"<br />
-      Yes – “$1,232”</td>
-      <td><strong>No</strong> – “$53,000,000"<br />
-      <strong>No</strong> – “$53m"<br />
-      <strong>No</strong> – “$53mil"<br />
-      Yes – “$53 million”</td>
-      <td><strong>No</strong> – “$1,200,000"<br />
-      <strong>No</strong> – “$1.2m"<br />
-      Yes – “$1.2 million”</td>
-    </tr>
-  </tbody>
-</table>
+Do not add a decimal for whole numbers. For example:
+
+*  **Incorrect** - "$2.00"
+*  **Correct** - "$2"
+
+Use a comma for numbers under a million: For example:
+
+*  **Incorrect** - "$2000"
+*  **Correct** - "$2,000"
+*  **Incorrect** - "$1,200,000"
+
+Do not abbreviate "million": For example:
+
+*  **Incorrect** - "$1.2m"
+*  **Incorrect** - "$1.2mil"
+*  **Correct** - "$1.2 million"
 
 ## Dates and times
 
@@ -107,7 +101,7 @@ This is how we write about money:
 **General Usage:**
 
 *  Formatting. Use numerals and "am" or "pm" without a space. Example: 10am.
-*  Omit ":00". Don’t use minutes for on-the-hour time.
+*  Omit ":00". Don't use minutes for on-the-hour time.
 *  Example: Exclude minutes for "7am"; include minutes for "10:30pm".
 *  Use "noon" and "midnight". Do not use 12pm and 12am.
 
@@ -116,11 +110,11 @@ This is how we write about money:
 *  Use a hyphen between times to indicate a time period. For example:
    *  7am-10:30pm
 *  Exclude the "am" and "pm" when times are both either in the morning or after noon. For example:
-   *  **No** – “6am-9am"
-   *  Yes – “6-9am”
+   *  **No** – "6am-9am"
+   *  Yes – "6-9am"
 *  Simplify range language. For example:
-   *  **No** – “Holiday store hours go from 8am-10pm."
-   *  Yes – “Holiday store hours are 8am-10pm.”
+   *  **No** – "Holiday store hours go from 8am-10pm."
+   *  Yes – "Holiday store hours are 8am-10pm."
 
 **Time Zones:**
 

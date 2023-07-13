@@ -19,7 +19,7 @@ Avoid the following:
 
 ## Acronyms
 
-When in doubt, spell it out. If there’s a chance a reader doesn't know an abbreviation or acronym, use the full term on first reference.
+When in doubt, spell it out. If there's a chance a reader doesn't know an abbreviation or acronym, use the full term on first reference.
 
 *  **Use all caps case.**
 
@@ -31,17 +31,15 @@ When in doubt, spell it out. If there’s a chance a reader doesn't know an abbr
 
 ### File-Type Formats
 
-<ul>
-<li>Do not use a period or other punctuation before or after the file name.<br /><br />
-<em>Examples:</em>
-<ul style="list-style-type:none">
-  <li><strong>No</strong> – “Pdf, Tiff, Html, Jpg, Css, Xml"</li>
-  <li><strong>No</strong> – “.pdf, .tiff, .html, .jpg, xss, .xml"</li>
-  <li>Yes – “PDF, TIFF, HTML, JPG, CSS, XML”</li>
-</ul>
-</li>
-<li>Link format: Append the file type in parenthesis after the file name. For more details, see the [Labels Best Practices](buttons-and-links.md#labels-best-practices) section in Buttons and Links Usage.</li>
-</ul>
+*  Do not use a period or other punctuation before or after the file name.
+
+   Examples:
+
+   *  **No** - "Pdf, Tiff, Html, Jpg, Css, Xml"
+   *  **No** - ".pdf, .tiff, .html, .jpg, xss, .xml"
+   *  **Yes** - "PDF, TIFF, HTML, JPG, CSS, XML"
+
+*  Link format: Append the file type in parenthesis after the file name. For more details, see the [Labels Best Practices](buttons-and-links.md#labels-best-practices) section in Buttons and Links Usage.
 
 ## Addresses
 
@@ -50,30 +48,21 @@ For international formats, see [Bitboost International Mailing Address Formats](
 For United States, use these formats:
 
 <table>
+<thead>
+  <tr>
+    <th>Basic</th>
+    <th>International</th>
+    <th>Basic +<br />Company Name</th>
+    <th>Basic +<br />Address Line 2</th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th>Basic</th>
-<th>International</th>
-<th>Basic +<br />Company Name</th>
-<th>Basic +<br />Address Line 2</th>
-</tr>
-<tr>
-<td>Ray Symmetry<br />
-1234 Barnacle Dr.<br />
-Enid, TX 73701</td>
-<td>Ray Symmetry<br />
-1234 Barnacle Dr.<br />
-Enid, TX 73701<br />
-USA</td>
-<td>Ray Symmetry<br />
-Company Name<br />
-1234 S Barnacle Dr.<br />
-Enid, TX 73701</td>
-<td>Ray Symmetry<br />
-1234 Barnacle Dr.<br />
-PO Box 1234<br />
-Enid, TX 73701</td>
-</tr>
+  <tr>
+    <td>Ray Symmetry<br /> 1234 Barnacle Dr.<br /> Enid, TX 73701</td>
+    <td>Ray Symmetry<br /> 1234 Barnacle Dr.<br /> Enid, TX 73701<br /> USA</td>
+    <td>Ray Symmetry<br /> Company Name<br /> 1234 S Barnacle Dr.<br /> Enid, TX 73701</td>
+    <td>Ray Symmetry<br /> 1234 Barnacle Dr.<br /> PO Box 1234<br /> Enid, TX 73701</td>
+  </tr>
 </tbody>
 </table>
 
