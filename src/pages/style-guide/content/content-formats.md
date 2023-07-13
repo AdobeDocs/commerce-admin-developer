@@ -48,30 +48,21 @@ For international formats, see [Bitboost International Mailing Address Formats](
 For United States, use these formats:
 
 <table>
+<thead>
+  <tr>
+    <th>Basic</th>
+    <th>International</th>
+    <th>Basic +<br />Company Name</th>
+    <th>Basic +<br />Address Line 2</th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<th>Basic</th>
-<th>International</th>
-<th>Basic +<br />Company Name</th>
-<th>Basic +<br />Address Line 2</th>
-</tr>
-<tr>
-<td>Ray Symmetry<br />
-1234 Barnacle Dr.<br />
-Enid, TX 73701</td>
-<td>Ray Symmetry<br />
-1234 Barnacle Dr.<br />
-Enid, TX 73701<br />
-USA</td>
-<td>Ray Symmetry<br />
-Company Name<br />
-1234 S Barnacle Dr.<br />
-Enid, TX 73701</td>
-<td>Ray Symmetry<br />
-1234 Barnacle Dr.<br />
-PO Box 1234<br />
-Enid, TX 73701</td>
-</tr>
+  <tr>
+    <td>Ray Symmetry<br /> 1234 Barnacle Dr.<br /> Enid, TX 73701</td>
+    <td>Ray Symmetry<br /> 1234 Barnacle Dr.<br /> Enid, TX 73701<br /> USA</td>
+    <td>Ray Symmetry<br /> Company Name<br /> 1234 S Barnacle Dr.<br /> Enid, TX 73701</td>
+    <td>Ray Symmetry<br /> 1234 Barnacle Dr.<br /> PO Box 1234<br /> Enid, TX 73701</td>
+  </tr>
 </tbody>
 </table>
 
