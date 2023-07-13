@@ -19,45 +19,14 @@ The only variation of this pattern at this time is the North American Address En
 
 ### Fields That Make Up Address Entry (in order)
 
-<table>
-  <thead>
-    <th>Label</th>
-    <th>Input Type</th>
-    <th>Required?</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Address Line 1</td>
-      <td>Text Field</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>Address Line 2</td>
-      <td>Text Field</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td>City</td>
-      <td>Text Field</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>State/Province</td>
-      <td>Dropdown (Default can be localized)</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>ZIP/Postal Code</td>
-      <td>Text Field</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td>Country</td>
-      <td>Dropdown (Default can be localized)</td>
-      <td>Yes</td>
-    </tr>
-  </tbody>
-</table>
+| Label           | Input Type                          | Required? |
+|-----------------|-------------------------------------|-----------|
+| Address Line 1  | Text Field                          | Yes       |
+| Address Line 2  | Text Field                          | No        |
+| City            | Text Field                          | Yes       |
+| State/Province  | Dropdown (Default can be localized) | Yes       |
+| ZIP/Postal Code | Text Field                          | Yes       |
+| Country         | Dropdown (Default can be localized) | Yes       |
 
 ![](../../_images/pattern-library/AddressForm_example01.jpg)
 
