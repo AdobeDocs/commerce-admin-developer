@@ -1,6 +1,8 @@
 ---
 title: Controls | Commerce Admin Development
 description: Review an introduction to design standards for user interface controls in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Controls

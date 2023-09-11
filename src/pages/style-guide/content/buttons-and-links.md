@@ -1,6 +1,8 @@
 ---
 title: Buttons and links | Commerce Admin Development
 description: Learn how to use buttons and links in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Buttons and links

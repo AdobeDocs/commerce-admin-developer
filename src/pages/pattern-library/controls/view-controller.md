@@ -1,6 +1,8 @@
 ---
 title: View Controller | Commerce Admin Development
 description: Learn how to provide users with a mechanism for viewing data in multiple ways in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # View controller

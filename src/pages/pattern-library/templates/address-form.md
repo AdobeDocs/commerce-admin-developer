@@ -1,6 +1,8 @@
 ---
 title: Address Form | Commerce Admin Development
 description: Learn about design standards for address forms in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Address form

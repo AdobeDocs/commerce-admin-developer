@@ -2,6 +2,9 @@
 title: Timeline Dashboard | Commerce Admin Development
 description: Learn about design standards for the timeline dashboard in the Adobe Commerce Admin application.
 edition: ee
+keywords:
+  - Extensions
+  - Staging
 ---
 
 # Timeline dashboard
@@ -23,7 +26,7 @@ A part of the application that can be scheduled to change, within an update. Exa
 
 ### Update
 
-A combination of changes to a stage-able entity. Multiple updates are shown on the staging timeline. An update’s state is either completed, active or scheduled to be activated.Most updates are scheduled for a temporary span of time, but some can be permanent.
+A combination of changes to a stage-able entity. Multiple updates are shown on the staging timeline. An update's state is either completed, active or scheduled to be activated.Most updates are scheduled for a temporary span of time, but some can be permanent.
 
 ### Objects
 
@@ -39,7 +42,7 @@ These are the individual changes contained within an update.
 
 ### Update schedule
 
-As the default state, this view shows completed, active and scheduled updates on the dashboard. The timeline’s default date range is 1 week, which can be changed and customized.Updates are displayed in chronological order, with the most recent start date on top.
+As the default state, this view shows completed, active and scheduled updates on the dashboard. The timeline's default date range is 1 week, which can be changed and customized.Updates are displayed in chronological order, with the most recent start date on top.
 
 ![](../../_images/pattern-library/Updates-Scheduled.jpg)
 

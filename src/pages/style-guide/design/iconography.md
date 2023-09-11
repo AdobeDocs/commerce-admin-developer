@@ -1,6 +1,8 @@
 ---
 title: Iconography | Commerce Admin Development
 description: Learn about how icons are used in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Iconography
@@ -106,11 +108,11 @@ Modern versions of assistive technologies will announce CSS generated content, a
 
 Icons should be very descriptive, especially if they stand on their own. Add descriptive text to clarify their meaning to users.
 
-1. Don’t use "regular letters" for icons. Use a service like IcoMoon and use the Private Use Area (PUA) of the font. Those areas are specifically made for this usage and don’t have any letters attached to it. Screen readers won’t read letters in the PUA.
+1. Don't use "regular letters" for icons. Use a service like IcoMoon and use the Private Use Area (PUA) of the font. Those areas are specifically made for this usage and don't have any letters attached to it. Screen readers won't read letters in the PUA.
 
 1. Use colors with enough contrast for your icons.
 
-1. Never use an icon without a text (that you may hide). As icons are not read out, we don’t have any hint for a screen reader user what actually is on the screen, an alternative text is important as long as the content doesn’t make sense without an icon at all.
+1. Never use an icon without a text (that you may hide). As icons are not read out, we don't have any hint for a screen reader user what actually is on the screen, an alternative text is important as long as the content doesn't make sense without an icon at all.
 
 ## Learn More
 

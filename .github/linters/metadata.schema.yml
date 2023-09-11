@@ -29,6 +29,7 @@ properties:
         - Performance
         - REST
         - Security
+        - Staging
         - Tools
         - Upgrade
 

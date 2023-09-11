@@ -1,6 +1,8 @@
 ---
 title: Getting User Input | Commerce Admin Development
 description: Review an introduction to design standards for user input in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Getting user input

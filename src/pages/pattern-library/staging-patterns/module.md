@@ -2,11 +2,14 @@
 title: Scheduled Changes Module | Commerce Admin Development
 description: Learn about design standards for the scheduled changes module in the Adobe Commerce Admin application.
 edition: ee
+keywords:
+  - Extensions
+  - Staging
 ---
 
 # Scheduled changes module
 
-For all stage-able entities, a Scheduled Changes Module appears on the top of each entity’s page. An entity’s module provides a quick summary of scheduled updates, as well as controls to view, edit and preview individual updates.
+For all stage-able entities, a Scheduled Changes Module appears on the top of each entity's page. An entity's module provides a quick summary of scheduled updates, as well as controls to view, edit and preview individual updates.
 
 ## When to Use / When Not to Use
 
@@ -29,7 +32,7 @@ Shows when several updates are scheduled for a stage-able entity.
 
 ### Single Update View
 
-When a single update is scheduled, the module’s default height is the same as the Multiple Updates View. Users can re-size the module, using the dragger at the bottom of the module.
+When a single update is scheduled, the module's default height is the same as the Multiple Updates View. Users can re-size the module, using the dragger at the bottom of the module.
 
 ![](../../_images/pattern-library/sc-Module-single update.jpg)
 

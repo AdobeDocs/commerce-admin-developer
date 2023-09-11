@@ -1,6 +1,8 @@
 ---
 title: Date and Time Selector | Commerce Admin Development
 description: Learn about design standards for date/time selectors in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Date and time selector
@@ -193,7 +195,7 @@ When the datepicker is active a calendar day of the week should always have focu
 
 ### Time Picker Widget
 
-*  (HH:MM:SS) will assume text field‘s accessibility behavior
+*  (HH:MM:SS) will assume text field's accessibility behavior
 *  TimeZone Offset will assume dropdown accessibility behavior
 *  AM/PM will assume dropdown accessibility behavior
 

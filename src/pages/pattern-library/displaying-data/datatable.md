@@ -1,6 +1,8 @@
 ---
 title: Data Table | Commerce Admin Development
 description: Organize complex data into a tabular view for users in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Data table
@@ -63,18 +65,18 @@ Pagination controls allow the user to easily page through and organize data. Pag
    *  Increments TBD
    *  Custom field for user-defined increments
 *  Page number (skip to) field and action button
-*  ‘Next’ button
-*  ‘Previous’ button when applicable
+*  'Next' button
+*  'Previous' button when applicable
 
 ![](../../_images/pattern-library/datatable04.jpg)
 
 ### Pagination Rules
 
 *  The pagination controls will only be present if the number of table items exceeds the lowest increment for number of items per page.
-*  The ‘Previous’ button should be disabled when viewing the first page of results.
-*  The ‘Next’ button should be disabled when viewing the last page of results.
-*  The ‘Skip to’ field will allow only numeric values.
-*  ‘Skip to’ will be instantiated once the value is changed and [Return] or [Tab] is clicked.
+*  The 'Previous' button should be disabled when viewing the first page of results.
+*  The 'Next' button should be disabled when viewing the last page of results.
+*  The 'Skip to' field will allow only numeric values.
+*  'Skip to' will be instantiated once the value is changed and [Return] or [Tab] is clicked.
 *  A custom number of items per page can be set by selecting the "Custom" link which will allow users to specify a number. This number can be edited.
 
 ![](../../_images/pattern-library/datatable05.jpg)
@@ -89,7 +91,7 @@ A common theme across the existing application user experience includes mass act
 
 ![](../../_images/pattern-library/datatable08.jpg)
 
-Actions will be positioned above the table . Each table  will have it’s own set of actions, some tables will have no actions. This new proposal removes the submit button which is currently visible next to the "Actions" drop down selector. In the event that any confirmations are needed for actions, modal dialogs will be used.
+Actions will be positioned above the table . Each table  will have it's own set of actions, some tables will have no actions. This new proposal removes the submit button which is currently visible next to the "Actions" drop down selector. In the event that any confirmations are needed for actions, modal dialogs will be used.
 
 ![](../../_images/pattern-library/datatable09.jpg)
 
@@ -101,7 +103,7 @@ These actions will appear within the data area of the table where applicable. Wh
 
 ### Messaging and Confirmation
 
-There are times when an action needs to be confirmed. In these cases, the user’s task will be interrupted with a message asking the user to confirm the operation before proceeding. This message is presented via a modal dialog.
+There are times when an action needs to be confirmed. In these cases, the user's task will be interrupted with a message asking the user to confirm the operation before proceeding. This message is presented via a modal dialog.
 
 ![](../../_images/pattern-library/datatable11.jpg)
 
@@ -175,7 +177,7 @@ This horizontal scroll should still work with page scroll and sticky header.
 
 ## Search
 
-When the user enters a keyword in the search field and submits the query (by clicking the spyglass icon), the table will display only records that contain the designated keyword. The search term is displayed as a "chip" below the search field (and inline with any additional filters that were applied). In this layout, additional search terms can be paired with the initial term to further refine the results. Each time a term is submitted, the data is filtered, the term is displayed as a "chip" and the search field returns to it’s initial state (it does not retain the term entered my the user).
+When the user enters a keyword in the search field and submits the query (by clicking the spyglass icon), the table will display only records that contain the designated keyword. The search term is displayed as a "chip" below the search field (and inline with any additional filters that were applied). In this layout, additional search terms can be paired with the initial term to further refine the results. Each time a term is submitted, the data is filtered, the term is displayed as a "chip" and the search field returns to it's initial state (it does not retain the term entered my the user).
 
 ![](../../_images/pattern-library/datatable19.jpg)
 
@@ -207,7 +209,7 @@ Upon conducting a query, a result set is returned based on the above rules. Once
 
 ### Columns
 
-The user will be able to select which columns are visible from here. Settings will also be contained in a panel that can be activated by clicking on the columns action. Users will also have the ability to cancel out of this prompt, as well as reset (restore) the table back to it’s default column view. These settings will be ‘sticky’ per table, so users returning to any particular table will see the table the way it was last configured.
+The user will be able to select which columns are visible from here. Settings will also be contained in a panel that can be activated by clicking on the columns action. Users will also have the ability to cancel out of this prompt, as well as reset (restore) the table back to it's default column view. These settings will be 'sticky' per table, so users returning to any particular table will see the table the way it was last configured.
 
 ![](../../_images/pattern-library/datatable24.jpg)
 
@@ -215,7 +217,7 @@ The user will be able to select which columns are visible from here. Settings wi
 
 ### Custom Views
 
-Custom views allow the user to save the state of a table. When a view is saved, the table settings will be stored. These settings include column visibility and position, as well as any filter or search that has been applied to the table. Saving a ‘view’ will be done via a dropdown control. Saved views will be available per table.
+Custom views allow the user to save the state of a table. When a view is saved, the table settings will be stored. These settings include column visibility and position, as well as any filter or search that has been applied to the table. Saving a 'view' will be done via a dropdown control. Saved views will be available per table.
 
 ![](../../_images/pattern-library/datatable26.jpg)
 
@@ -256,7 +258,7 @@ Users may remove a filter setting by clicking/tapping the remove control next to
 <!---
 ### Quick Filters
 
-In some instances, pre-determined "quick filters" may be present in the form of links. These are filter shortcuts of common filtering attributes to assist users who may not readily consider filtering the table for results. Quick Filters are perhaps most useful for extracting ‘reports’ from tables.  These filters are elevated above the ‘advanced filters’.
+In some instances, pre-determined "quick filters" may be present in the form of links. These are filter shortcuts of common filtering attributes to assist users who may not readily consider filtering the table for results. Quick Filters are perhaps most useful for extracting 'reports' from tables.  These filters are elevated above the 'advanced filters'.
 
 <strong>Step 1:</strong> Starting state. User click on a quick filter link.
 <br />
@@ -293,7 +295,7 @@ The only columns which cannot be moved are the checkbox(select) column and the a
 
 ### View Stickiness
 
-As a user rearranges, adds, and resizes the columns of a particular table , it’s view state should be saved so that when a user leaves and the returns to the table , it will appear the way the user last viewed it.
+As a user rearranges, adds, and resizes the columns of a particular table , it's view state should be saved so that when a user leaves and the returns to the table , it will appear the way the user last viewed it.
 
 The following parameters will be saved:
 
@@ -304,7 +306,7 @@ The following parameters will be saved:
 
 ### Resetting the View
 
-This will be handled by the ‘Reset’ function in the settings drop down button. A modal dialog should appear, allowing the user to confirm the reset.
+This will be handled by the 'Reset' function in the settings drop down button. A modal dialog should appear, allowing the user to confirm the reset.
 
 ## Select All
 
@@ -387,13 +389,13 @@ This section will outline additional features which may be needed for some but n
 
 Some data-tables will allow users to arrange columns in a customized order. A user "picks up" a column by click and hold or touch and hold of the column header, then drags the column into the desired position. A highlight appears between columns in the table to indicate where this column will appear when "dropped". Columns will not be allowed to precede the column of checkboxes in a table, likewise columns may not be positioned after the "Actions" column.
 
-When dropped on an area that is not highlighted (or off target of the highlighted area) the column will return to it’s original position. If the user wishes to maintain this position for future viewing, they must set a "Saved View", otherwise the default column order will prevail for following sessions.
+When dropped on an area that is not highlighted (or off target of the highlighted area) the column will return to it's original position. If the user wishes to maintain this position for future viewing, they must set a "Saved View", otherwise the default column order will prevail for following sessions.
 
 ![](../../_images/pattern-library/datatable46.jpg)
 
 ### Drag and Drop Rows
 
-Some data-tables will allow users to specify an order for the records within the table. If a position has been assigned to a record, the position number will display in the ‘Position’ column. Changing position order should always shift the greater numbers in an ascending fashion, and lesser numbers in a descending fashion. E.G., if position 5 is changed to 10, the previous position 10 would become position 11, shifting all ascending records up. Position 6 through 9 would then shift down in the same manner. 6 would become 5, 7 would become 6, so on and so forth. If the ‘Position’ column is sorted, users can drag and drop single or multiple(once selected) to a different position on the table.
+Some data-tables will allow users to specify an order for the records within the table. If a position has been assigned to a record, the position number will display in the 'Position' column. Changing position order should always shift the greater numbers in an ascending fashion, and lesser numbers in a descending fashion. E.G., if position 5 is changed to 10, the previous position 10 would become position 11, shifting all ascending records up. Position 6 through 9 would then shift down in the same manner. 6 would become 5, 7 would become 6, so on and so forth. If the 'Position' column is sorted, users can drag and drop single or multiple(once selected) to a different position on the table.
 
 {%
 include note.html
@@ -411,7 +413,7 @@ content='Inline editing functionality should not be available for tables that re
 
 ### Thumbnails
 
-In cases where an image is associated with the data, as in the case of a product, the data-table will display a thumbnail view of the primary or default image (typically the first image in a series of image). By default the thumbnail image will appear to the far left of the table (after select checkboxes when present). The thumbnail image is a ‘clickable target’ independent of the typical click behavior of the row.
+In cases where an image is associated with the data, as in the case of a product, the data-table will display a thumbnail view of the primary or default image (typically the first image in a series of image). By default the thumbnail image will appear to the far left of the table (after select checkboxes when present). The thumbnail image is a 'clickable target' independent of the typical click behavior of the row.
 
 ![](../../_images/pattern-library/datatable49.jpg)
 
@@ -432,7 +434,7 @@ General interaction should follow standard web conventions. Interaction around d
 ### Viewport Considerations
 
 *  The default data-table will display within a 1024px screen resolution without the need for horizontal scrolling.
-*  Horizontal scrollbars will be present whenever the data-table’s width expands beyond the browser’s viewport.
+*  Horizontal scrollbars will be present whenever the data-table's width expands beyond the browser's viewport.
 *  The data-table controls should not expand with the table , instead the controls will float as the table is scrolled in both the vertical and horizontal direction.
 
 ![](../../_images/pattern-library/datatable52.jpg)

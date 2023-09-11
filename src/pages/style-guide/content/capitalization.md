@@ -1,6 +1,8 @@
 ---
 title: Capitalization | Commerce Admin Development
 description: Learn how to properly use capitalization for custom content displayed in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Capitalization
@@ -52,10 +54,10 @@ However, many terms use lowercase including: merchant, developer, home page, sta
     </ul>
   <em>Examples:</em><br /><br />
     <ul style="list-style-type:none">
-      <li><strong>No</strong> – “Turning Blocks on and off"</li>
-      <li>Yes – “Turning Blocks On and Off”</li>
-      <li>Yes – “Setting Up a Catalog”</li>
-      <li>Yes – “Turning On the Service”</li>
+      <li><strong>No</strong> – "Turning Blocks on and off"</li>
+      <li>Yes – "Turning Blocks On and Off"</li>
+      <li>Yes – "Setting Up a Catalog"</li>
+      <li>Yes – "Turning On the Service"</li>
     </ul>
     </li>
 </ul>
@@ -68,14 +70,14 @@ However, many terms use lowercase including: merchant, developer, home page, sta
   <li><strong>Conjunctions.</strong> ... <em>Correct examples:</em> and, but, for, or, nor</li>
   <li><strong>Prepositions of fewer than four letters.</strong> Includes the "to" in infinitives. <em>See example:</em>
     <ul style="list-style-type:none">
-      <li><strong>No</strong> – “The Key To Customer Service In An Omnichannel World"</li>
-      <li>Yes – “The Key to Customer Service in an Omnichannel World”</li>
+      <li><strong>No</strong> – "The Key To Customer Service In An Omnichannel World"</li>
+      <li>Yes – "The Key to Customer Service in an Omnichannel World"</li>
     </ul>
     </li>
   <li><strong>Brand or company names that use a lowercase initial letter.</strong> ... <em>Tip:</em> Rephrase a heading or sentence to avoid starting with a lowercase letter. <em>See example:</em>
     <ul style="list-style-type:none">
-      <li><strong>No</strong> – “EBay, IPod, IPhone"</li>
-      <li>Yes – “eBay, iPod, iPhone”</li>
+      <li><strong>No</strong> – "EBay, IPod, IPhone"</li>
+      <li>Yes – "eBay, iPod, iPhone"</li>
     </ul>
   </li>
 </ul>
@@ -94,11 +96,11 @@ Use capitalization standards, as specified in the Glossary and Word Usage Bank
 ### Capitalize ...
 
 *  **Numbered items.** Capitalize when referring to a numbered object. ... *Correct examples:* Slide 5, Exercise 3, Table 4.2, Figure 9
-*  **Admin panel.** Capitalize the word "Admin" in the term “Admin panel” — but panel remains lowercase.
+*  **Admin panel.** Capitalize the word "Admin" in the term "Admin panel" — but panel remains lowercase.
 *  **UI names.** Use initial caps, where the Glossary and Word Usage Bank specify.
-*  **Lists' first word, initial capped.** See more “Lists” for guidance in Content Formats.
+*  **Lists' first word, initial capped.** See more "Lists" for guidance in Content Formats.
 
 ### Do not capitalize ...
 
-*  **Steps.** Lowercase “page” or “step” when referring to pages in a document or steps in a procedure.
+*  **Steps.** Lowercase "page" or "step" when referring to pages in a document or steps in a procedure.
 *  **Global internet terms.** ... *Correct examples:* website, internet, online, email

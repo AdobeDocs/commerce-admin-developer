@@ -1,6 +1,8 @@
 ---
 title: Slideouts, Modals, and Overlays | Commerce Admin Development
 description: Learn how to focus user attention in the Adobe Commerce and Magento Open Source Admin application. 
+keywords:
+  - Extensions
 ---
 
 # Slide-out panesl, modal windows, and overlays

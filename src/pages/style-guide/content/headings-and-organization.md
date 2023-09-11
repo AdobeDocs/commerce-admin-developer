@@ -1,6 +1,8 @@
 ---
 title: Headings and organization | Commerce Admin Development
 description: Leanr how to use headings and organize custom content in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Headings and organization

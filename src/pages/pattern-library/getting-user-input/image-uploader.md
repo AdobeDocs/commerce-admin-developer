@@ -1,6 +1,8 @@
 ---
 title: Image Uploader | Commerce Admin Development
 description: Learn about design standards for image uploaders in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Image uploader

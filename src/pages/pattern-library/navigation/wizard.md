@@ -1,6 +1,8 @@
 ---
 title: Wizard | Commerce Admin Development
 description: Learn about design standards for guiding users through a process in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Wizard

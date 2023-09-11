@@ -1,11 +1,13 @@
 ---
 title: Form Elements | Commerce Admin Development
 description: Learn about design standards for forms in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Form elements
 
-Form elements are central to the Commerce framework, particularly in the ‘Admin’ interface. This article contains examples of the various types of form elements encountered throughout the application to collect data input from its users.
+Form elements are central to the Commerce framework, particularly in the 'Admin' interface. This article contains examples of the various types of form elements encountered throughout the application to collect data input from its users.
 
 For solutions not described in this article, please refer to other form-related patterns or contact the Commerce UX Design team.
 
@@ -60,14 +62,14 @@ Text fields are used to collect alphanumeric input directly from the user. As a 
 
 ### Additional Text Field
 
-In cases where some, but not every, user may want to provide additional information (such as Building or Room Number as part of an address) an additional field may be paired with the initial text field. In these cases, if it is ‘reasonably clear’ what this additional field is
+In cases where some, but not every, user may want to provide additional information (such as Building or Room Number as part of an address) an additional field may be paired with the initial text field. In these cases, if it is 'reasonably clear' what this additional field is
 for, a label may not be necessary for the additional field. However, as a rule each form element should have a label.
 
 ![](../../_images/pattern-library/add_field.png)
 
 ### "Re-sizable" Text Field
 
-It may be advantageous to allow the text area to be ‘stretched’ by the user to accommodate the amount of data input. This is most useful when the amount of data or character-count is unlimited and/or the amount of text to be entered large or unpredictable (‘comments’ for instance). When presenting this a re-sizable area to the user it is crucial to include the "grabber" icon in the lower-right corner of the field to indicate this functionality to the user.
+It may be advantageous to allow the text area to be 'stretched' by the user to accommodate the amount of data input. This is most useful when the amount of data or character-count is unlimited and/or the amount of text to be entered large or unpredictable ('comments' for instance). When presenting this a re-sizable area to the user it is crucial to include the "grabber" icon in the lower-right corner of the field to indicate this functionality to the user.
 
 ![](../../_images/pattern-library/resize_field.png)
 
@@ -88,14 +90,14 @@ or robust interaction, as in the case of something like **date picker**. The ico
 
 When an ancillary or sub-action must be performed using the data input (or selected from) a particular element a, "button" may be required to initiate the sub-action and should be located in close proximity to the form element. If the sub-action involves a single form field an icon should be used and should directly follow the form element.
 
-If the sub-action involves a set of form elements, as with **sign-in**, a more traditional "button" should follow the group. The button should follow the application UI style for buttons. A link may be substituted for a button, however doing so may reduce the ’find-ability’ of the call to
+If the sub-action involves a set of form elements, as with **sign-in**, a more traditional "button" should follow the group. The button should follow the application UI style for buttons. A link may be substituted for a button, however doing so may reduce the 'find-ability' of the call to
 action.
 
 ![](../../_images/pattern-library/trigger.png)
 
 ## Checkboxes
 
-Checkboxes should be used in cases where one or many options may be selected. A checkboxes may also be used in cases where the user may wish to ‘opt in’ or enable an action or setting. Checkboxes may be used in relation to other form elements as well.
+Checkboxes should be used in cases where one or many options may be selected. A checkboxes may also be used in cases where the user may wish to 'opt in' or enable an action or setting. Checkboxes may be used in relation to other form elements as well.
 
 ![](../../_images/pattern-library/checkboxes.png)
 
@@ -105,7 +107,7 @@ If there is a _parent-child_ relationship of associated checkboxes there should 
 
 ## Radio Buttons
 
-Radio buttons should be used in cases of ‘yes’ or ‘no’. The pair of radio buttons may be arranged either vertically or horizontally. Radio buttons may often have a default or preferred selection. This preferred selection should be the first button of the pair whenever possible. In some instances when only a single selection may be made but there are several options to choose from, all of the radio button in the set may appear un-selected or ‘empty’. Once a user has made a selection however the selected state should be evident and be visible henceforth, even if the user changes the selection - it cannot be returned to the initial ‘un-selected’ state.
+Radio buttons should be used in cases of 'yes' or 'no'. The pair of radio buttons may be arranged either vertically or horizontally. Radio buttons may often have a default or preferred selection. This preferred selection should be the first button of the pair whenever possible. In some instances when only a single selection may be made but there are several options to choose from, all of the radio button in the set may appear un-selected or 'empty'. Once a user has made a selection however the selected state should be evident and be visible henceforth, even if the user changes the selection - it cannot be returned to the initial 'un-selected' state.
 
 ![](../../_images/pattern-library/radios.png)
 
@@ -115,7 +117,7 @@ A drop down selector may be used when two or more options are available, but onl
 
 ![](../../_images/pattern-library/dropdown.png)
 
-Best practices suggest that a drop down selector should not be used for ‘binary’ or Yes/No selections, radio buttons are preferable in these situations. If the selection is not mandatory, a checkbox is preferred. If visibility of the list of options is desired or advantageous for the user or if the list of options is lengthy (say more than 6) a ‘list box’ should be used instead of a dropdown.
+Best practices suggest that a drop down selector should not be used for 'binary' or Yes/No selections, radio buttons are preferable in these situations. If the selection is not mandatory, a checkbox is preferred. If visibility of the list of options is desired or advantageous for the user or if the list of options is lengthy (say more than 6) a 'list box' should be used instead of a dropdown.
 
 ## Multi-Select Drop Down
 
@@ -148,7 +150,7 @@ It may be necessary in some instances to display a form element but disable it s
 ## Units and Measurement Indicators
 
 In some cases it may be beneficial to indicate to the user the "unit" of the data to be
-input, such as currency or weight. This is accomplished by including standard symbolic indicator of the "unit", such as using €to denote the currency Euros. The indicator may either precede the input area or follow the input area.
+input, such as currency or weight. This is accomplished by including standard symbolic indicator of the "unit", such as using &euro;to denote the currency Euros. The indicator may either precede the input area or follow the input area.
 
 ![](../../_images/pattern-library/units.png)
 
@@ -166,7 +168,7 @@ It may be necessary or advantageous to display form field data that cannot be ch
 
 ## Progressive Disclosure
 
-In some instances rather than displaying a form element in a disabled state, it may be preferred to hide the element until the user takes an action to ‘opt in’. Once the user takes the action to opt in the enabled field(s) is dynamically presented (becomes visible) to the user.
+In some instances rather than displaying a form element in a disabled state, it may be preferred to hide the element until the user takes an action to 'opt in'. Once the user takes the action to opt in the enabled field(s) is dynamically presented (becomes visible) to the user.
 
 ![](../../_images/pattern-library/disclosure.png)
 

@@ -1,6 +1,8 @@
 ---
 title: Links | Commerce Admin Development
 description: Learn about design standards for link navigation in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Links
@@ -58,7 +60,7 @@ Full Guideline Reference: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#links](http:/
 
 1. Must always locate above the title as shown.
 1. Not be used if all the pages are on the same level. Breadcrumbs are intended to show hierarchy.
-1. Show hierarchy and not history. To go back, users use the browser’s back button. Replicating this facility defies the purpose of having breadcrumbs.
+1. Show hierarchy and not history. To go back, users use the browser's back button. Replicating this facility defies the purpose of having breadcrumbs.
 1. Progress from the highest level to the lowest, one step at a time.
 1. Have a simple link for each level.
 1. Include the full page title in the breadcrumb trail. Also ensure consistency between the page address and the breadcrumb. If the page titles include keywords, then this will make your breadcrumbs both human and search engine friendly.

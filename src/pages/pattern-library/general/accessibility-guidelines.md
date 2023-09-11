@@ -1,6 +1,8 @@
 ---
 title: Accessibility Guidelines | Commerce Admin Development
 description: Review guidelines for ensuring that the Adobe Commerce and Magento Open Source Admin application is accessible to people with disabilities.
+keywords:
+  - Extensions
 ---
 
 # Accessibility guidelines
@@ -43,7 +45,7 @@ The application should be accessible for all people, whatever their hardware, so
 
 -  **Use animation, video and audio with caution**—If used, provide a play/pause button. Avoid flashing or strobing content, which can cause seizures. Provide captions and other alternatives for multimedia.
 
--  **Don’t convey content with color alone**—Evaluate the design in grayscale. Make sure to use both shapes and color to differentiate icons.
+-  **Don't convey content with color alone**—Evaluate the design in grayscale. Make sure to use both shapes and color to differentiate icons.
 
 -  **Use images to enhance the experience for users with full vision**
 
