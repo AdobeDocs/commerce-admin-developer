@@ -1,6 +1,8 @@
 ---
 title: Color | Commerce Admin Development
 description: Learn about the color palette for the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Color

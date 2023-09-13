@@ -1,6 +1,8 @@
 ---
 title: Templates | Commerce Admin Development
 description: Review an introduction to Admin design templates in Adobe Commerce and Magento Open Source.
+keywords:
+  - Extensions
 ---
 
 # Templates

@@ -1,6 +1,8 @@
 ---
 title: Display and Handle Data | Commerce Admin Development
 description: Review an introduction to design standards for displaying and handling data in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Display and handle data

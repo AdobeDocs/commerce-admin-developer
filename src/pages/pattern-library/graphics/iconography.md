@@ -1,6 +1,8 @@
 ---
 title: Iconography | Commerce Admin Development
 description: Learn about design standards for icons in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Iconography
@@ -15,7 +17,7 @@ Icons may appear in a variety of sizes within the interface as controls for tool
 
 The functionality associated with a particular icon should be used consistent throughout the application.
 
-Typically icons should represent a single, unique concept and be used consistently in the UI. However some icons have a dual purpose and rely on size, placement and context to communicate their meaning to the user.  The "Error" icon is an example of this. When used in an "Alert", the supporting elements of copy, position, etc. help provide meaning.  This same icon can also be used as a remove or close control, and size, color, position and context differentiate its’ use for the user.
+Typically icons should represent a single, unique concept and be used consistently in the UI. However some icons have a dual purpose and rely on size, placement and context to communicate their meaning to the user.  The "Error" icon is an example of this. When used in an "Alert", the supporting elements of copy, position, etc. help provide meaning.  This same icon can also be used as a remove or close control, and size, color, position and context differentiate its' use for the user.
 
 ## Icon Library
 
@@ -38,7 +40,7 @@ In the Admin UI icons have a simple, flat, single-color, 2D, style. This style p
 *  Cantered or rotated elements should observe a 45 degree angle.
 *  A limited perspective should be used.
 
-Any icon that is intended for general use in the UI should be submitted to the Commerce Product Team for review and inclusion to the ‘icon font’.
+Any icon that is intended for general use in the UI should be submitted to the Commerce Product Team for review and inclusion to the 'icon font'.
 
 ### Guides
 
@@ -81,8 +83,8 @@ From: [http://www.filamentgroup.com/lab/bulletproof_icon_fonts.html](http://www.
 
 ### How to make your icon font accessible in three easy steps
 
-Icons, if in fonts or not, should be very descriptive, especially if they stand on their own. If in doubt, add a descriptive text so users can find out what it means. (In the pre-touch era of web design I’d just have recommended a `title attribute, but those times are over.)
+Icons, if in fonts or not, should be very descriptive, especially if they stand on their own. If in doubt, add a descriptive text so users can find out what it means. (In the pre-touch era of web design I'd just have recommended a `title attribute, but those times are over.)
 
-1. Don’t ever use "regular letters" for icons. Use a service like Icomoon and use the private use area (PUA) of the font. Those areas are specifically made for this usage and don’t have any letters attached to it. Screen readers won’t read letters in the PUA.
+1. Don't ever use "regular letters" for icons. Use a service like Icomoon and use the private use area (PUA) of the font. Those areas are specifically made for this usage and don't have any letters attached to it. Screen readers won't read letters in the PUA.
 1. Use colors with enough contrast for your icons.
-1. Never use an icon without a text (that you may hide). As icons are not read out, we don’t have any hint for a screen reader user what actually is on the screen, an alternative text is important as long as the content doesn’t make sense without an icon at all.
+1. Never use an icon without a text (that you may hide). As icons are not read out, we don't have any hint for a screen reader user what actually is on the screen, an alternative text is important as long as the content doesn't make sense without an icon at all.

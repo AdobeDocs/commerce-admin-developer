@@ -1,6 +1,8 @@
 ---
 title: Progress Indicator | Commerce Admin Development
 description: Learn about methods for showing users the progress of system processes in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 import CustomImage from '../../../components/CustomImage.js'

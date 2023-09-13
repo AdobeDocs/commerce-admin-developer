@@ -1,6 +1,8 @@
 ---
 title: Tree Pattern | Commerce Admin Development
 description: Learn about design patterns for showing users information hierarchy in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Tree pattern
@@ -86,7 +88,7 @@ Icons should always be placed on the left of the icon label and Icons should NOT
 Select All is the default state for tree with multi select functionality. When this functionality is triggered:
 
 *  All checkboxes are checked
-*  Complete tree DOESN’T highlight
+*  Complete tree DOESN'T highlight
 *  "Select All" link changes to "Clear All".
 
 When Clear All functionality is triggered – All the checkboxes are deselected. The "Clear All" link is only shown when everything is selected.

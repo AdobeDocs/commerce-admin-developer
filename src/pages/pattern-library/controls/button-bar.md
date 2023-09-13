@@ -1,6 +1,8 @@
 ---
 title: Button Bar | Commerce Admin Development
 description: Organize page-level user actions in a single location for the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Button bar

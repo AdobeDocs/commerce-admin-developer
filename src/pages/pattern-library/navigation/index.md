@@ -1,6 +1,8 @@
 ---
 title: Navigation | Commerce Admin Development
 description: Review an introduction to design standards for navigation and wizards in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Navigation

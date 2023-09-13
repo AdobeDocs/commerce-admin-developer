@@ -1,6 +1,10 @@
 ---
 title: Staging Patterns | Commerce Admin Development
 description: Review an introduction to design patterns for scheduled changes and timelines in the Adobe Commerce and Magento Open Source Admin application.
+edition: ee
+keywords:
+  - Extensions
+  - Staging
 ---
 
 # Staging patterns

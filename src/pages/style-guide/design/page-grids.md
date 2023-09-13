@@ -1,15 +1,17 @@
 ---
 title: Page grids | Commerce Admin Development
 description: Learn how to work with page layouts and templates in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Page grids
 
 In the Admin, a grid is used on all pages to establish global layouts for page templates. The grid assigns a set number of columns and rows for a page, and designers can create a layout by dividing the columns into sections, where design patterns and content can be placed.
 
--  A 12-column fluid-width content grid is placed next to the page’s 1-column fixed-width left navigation
--  The 12-column grid’s minimum width spans 984px. The grid expands its layout across larger screens.
--  For views smaller than 984px, a page’s layout doesn’t change as the page shrinks to fit smaller screen widths.
+-  A 12-column fluid-width content grid is placed next to the page's 1-column fixed-width left navigation
+-  The 12-column grid's minimum width spans 984px. The grid expands its layout across larger screens.
+-  For views smaller than 984px, a page's layout doesn't change as the page shrinks to fit smaller screen widths.
 
 ![](../../_images/style-guide/PageGrid.png)
 

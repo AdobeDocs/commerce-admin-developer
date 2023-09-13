@@ -1,6 +1,8 @@
 ---
 title: Content formats | Commerce Admin Development
 description: Learn how to use abbreviations, acronyms, addresses, and lists in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Content formats

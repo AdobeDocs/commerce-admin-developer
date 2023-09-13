@@ -1,6 +1,8 @@
 ---
 title: Tile Pattern | Commerce Admin Development
-description: Learn about design patterns, like drag-and-drop and multiselect, for functional behavior in grid views for the Adobe Commerce and Magento Open Source Admin application.
+description: Learn about design patterns for functional behavior in grid views for the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Tile pattern

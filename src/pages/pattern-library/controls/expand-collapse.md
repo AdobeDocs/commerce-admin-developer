@@ -1,6 +1,8 @@
 ---
 title: Expandable sections | Commerce Admin Development
 description: Learn how to create expandable sections in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Expandable sections

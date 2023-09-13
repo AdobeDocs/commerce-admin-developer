@@ -1,6 +1,8 @@
 ---
 title: Admin Design Pattern Library | Commerce Admin Development
 description: Learn about design patterns for common elements of the Admin application.
+keywords:
+  - Extensions
 ---
 
 # Admin Design Pattern Library

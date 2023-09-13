@@ -1,6 +1,8 @@
 ---
-title: Slide-out Panels, Modal Windows, and Overlays | Commerce Admin Development
+title: Slideouts, Modals, and Overlays | Commerce Admin Development
 description: Learn how to focus user attention in the Adobe Commerce and Magento Open Source Admin application. 
+keywords:
+  - Extensions
 ---
 
 # Slide-out panesl, modal windows, and overlays
@@ -11,7 +13,7 @@ For solutions not described in this article or for further information, please c
 
 ## Use of Slide-out Panels (aka "Slideouts")
 
-Use slide-out panels for tertiary actions or sub-processes related to the user’s primary path. These panels allow for greater content and/or more complex interactions thus behaving much like an additional webpage while maintaining a contextual connection to the primary task.
+Use slide-out panels for tertiary actions or sub-processes related to the user's primary path. These panels allow for greater content and/or more complex interactions thus behaving much like an additional webpage while maintaining a contextual connection to the primary task.
 
 ## Use of Modal Windows (aka "Modals")
 
@@ -25,7 +27,7 @@ Overlays, for the purposes of this document, generally refer to any content that
 
 ### Behavior and Animation
 
-When the slideout is triggered (by an action taken on the "parent page"), the panel appears to slide into position in the viewport from right-to-left. The panel should be attached to the top of the browser and match the length of the parent page. In its final position, the panel should not fully obscure the parent page, leaving a portion of the lower parent page in view. The lower parent page is disabled when the slideout is active. This is achieved by covering the parent page with a transparent shade. The page-over-page appearance helps focus the user’s attention on the active sub-task while providing context of this "interruption" to the primary task.
+When the slideout is triggered (by an action taken on the "parent page"), the panel appears to slide into position in the viewport from right-to-left. The panel should be attached to the top of the browser and match the length of the parent page. In its final position, the panel should not fully obscure the parent page, leaving a portion of the lower parent page in view. The lower parent page is disabled when the slideout is active. This is achieved by covering the parent page with a transparent shade. The page-over-page appearance helps focus the user's attention on the active sub-task while providing context of this "interruption" to the primary task.
 
 ![Example of panel animation](../../_images/pattern-library/slideout-panel1.png)
 
@@ -125,7 +127,7 @@ This method of nesting a 12-column page-grid inside the slideout panel is repeat
 
 ### Behavior and Animation
 
-When an action is taken that triggers a modal, the modal window should appear center-aligned in the user’s browser window. The modal should appear to fade in or grow from the center of the screen. The timing of this animation should be set to about 0.3s (see an [example of the animation here](http://tympanus.net/Development/ModalWindowEffects/) ), refer to "FADE IN & SCALE" option). When the modal is triggered, the parent page should become disabled and shaded while the modal is active.
+When an action is taken that triggers a modal, the modal window should appear center-aligned in the user's browser window. The modal should appear to fade in or grow from the center of the screen. The timing of this animation should be set to about 0.3s (see an [example of the animation here](http://tympanus.net/Development/ModalWindowEffects/) ), refer to "FADE IN & SCALE" option). When the modal is triggered, the parent page should become disabled and shaded while the modal is active.
 
 ![](../../_images/pattern-library/modal1.png)
 
@@ -152,7 +154,7 @@ Modal "Cancel" and "Close" controls
 
 ### Modal Dimensions
 
-The modal should be center-aligned in the user’s browser window and be 75% of the viewport width. The content within the modal window should flex accordingly to the width of the browser window and the modal width.
+The modal should be center-aligned in the user's browser window and be 75% of the viewport width. The content within the modal window should flex accordingly to the width of the browser window and the modal width.
 
 ![](../../_images/pattern-library/modal4.png)
 

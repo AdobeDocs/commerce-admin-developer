@@ -1,6 +1,8 @@
 ---
 title: Errors and messages | Commerce Admin Development
 description: Learn how to write custom errors messages and UI text that users see in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Errors and messages
@@ -35,5 +37,5 @@ Do not blame the user or indicate that the user made a mistake.
 
 *Example:*
 
-*  No – “You did not enter your email address. Enter your email address and click 'Continue'."
-*  Yes – “An email address is required. Enter your email address and click 'Continue'.”
+*  No – "You did not enter your email address. Enter your email address and click 'Continue'."
+*  Yes – "An email address is required. Enter your email address and click 'Continue'."

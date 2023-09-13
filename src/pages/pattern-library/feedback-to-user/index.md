@@ -1,6 +1,8 @@
 ---
 title: Feedback to User | Commerce Admin Development
 description: Review an introduction to design standards for user feedback in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Feedback to user

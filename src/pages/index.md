@@ -1,6 +1,8 @@
 ---
 title: Commerce Admin Development
 description: Review resources for customizing the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 <Hero slots="image, heading, text"/>

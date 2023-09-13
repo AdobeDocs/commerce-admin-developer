@@ -1,6 +1,8 @@
 ---
 title: Tabs | Commerce Admin Development
 description: Provide a way for users to switch between views in the Adobe Commerce and Magento Open Source Admin application.
+keywords:
+  - Extensions
 ---
 
 # Tabs
@@ -27,7 +29,7 @@ When the user click on a tab, the content area associated with that tab will be 
 
 ### Active State
 
-*  Active tab should be "highlighted" to indicate that it’s currently active.
+*  Active tab should be "highlighted" to indicate that it's currently active.
 *  Should not be clickable while active.
 
 ### Inactive State
