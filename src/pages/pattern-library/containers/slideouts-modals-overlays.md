@@ -5,7 +5,7 @@ keywords:
   - Extensions
 ---
 
-# Slide-out panesl, modal windows, and overlays
+# Slide-out panels, modal windows, and overlays
 
 You can focus user attention on a specific bit of content, isolated action, process or sub-process by using a "Slide-out Panel", "Modal Window" or "Overlay" component in the interface. Display of these components is triggered by a particular user action that interrupts their current task. The user must then take some required action to return to their primary task and continue (in most cases). The active state of any of overlays should occupy the topmost level of the z-index.
 
