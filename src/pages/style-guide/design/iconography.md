@@ -69,7 +69,7 @@ We recommend using icon fonts to get the best quality for your icons. The applic
 
 If you want to add your own icons, each icon will need to be in its own SVG files. There are multiple ways to create icon fonts, here is one to get started:
 
-1. Select an IcoMoon tool: Go to the [IcoMoon](https://icomoon.io/app/) website to use their browser tool or visit the [IcoMoon app page](https://chrome.google.com/webstore/detail/icomoon/kppingdhhalimbaehfmhldppemnmlcjd) in Google's Chrome Web Store to download the app.
+1. Select an IcoMoon tool: Go to the [IcoMoon](https://icomoon.io/app/) website to use their browser tool.
 
 1. Save your icons in SVG format and upload the files into the app.
 
@@ -113,7 +113,3 @@ Icons should be very descriptive, especially if they stand on their own. Add des
 1. Use colors with enough contrast for your icons.
 
 1. Never use an icon without a text (that you may hide). As icons are not read out, we don't have any hint for a screen reader user what actually is on the screen, an alternative text is important as long as the content doesn't make sense without an icon at all.
-
-## Learn More
-
-*  yatil.: [The best way to use icon fonts](https://yatil.net/the-best-way-to-use-icon-fonts/)
