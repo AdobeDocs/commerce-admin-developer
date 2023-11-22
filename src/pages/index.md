@@ -23,7 +23,7 @@ Learn how to customize the Adobe Commerce and Magento Open Source Admin applicat
 
 ## Overview
 
-This documentation provides [resources](#resources) for customizing the Adobe Commerce and Magento Open Source Admin application.
+This documentation provides [resources](#resources-id) for customizing the Adobe Commerce and Magento Open Source Admin application.
 
 ## Discover
 
