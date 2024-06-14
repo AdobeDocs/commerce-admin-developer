@@ -59,5 +59,3 @@ The "Load More" button appears at the bottom of the list of scheduled updates. B
 ## Assets
 
 [Download Scheduled Changes Module source](https://devdocs.magento.com/download/Scheduled-Changes-Module-Source.psd)
-
-If you have questions about the Scheduled Update Module, please [contact us](https://magento.com/company/contact-us).
