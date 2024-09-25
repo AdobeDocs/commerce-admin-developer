@@ -7,7 +7,7 @@ keywords:
 
 # Content formats
 
-For more specifics, use the [Glossary](https://glossary.magento.com/). If an item is not found, refer to the Associated Press (AP) Stylebook on first reference, and the Microsoft Manual of Style on second reference.
+For more specifics, use the [Glossary](https://experienceleague.adobe.com/en/docs/commerce-operations/operational-playbook/glossary). If an item is not found, refer to the Associated Press (AP) Stylebook on first reference, and the Microsoft Manual of Style on second reference.
 
 ## Abbreviations
 
@@ -44,8 +44,6 @@ When in doubt, spell it out. If there's a chance a reader doesn't know an abbrev
 *  Link format: Append the file type in parenthesis after the file name. For more details, see the [Labels Best Practices](buttons-and-links.md#labels-best-practices) section in Buttons and Links Usage.
 
 ## Addresses
-
-For international formats, see [Bitboost International Mailing Address Formats](http://www.bitboost.com/ref/international-address-formats.html).
 
 For United States, use these formats:
 
