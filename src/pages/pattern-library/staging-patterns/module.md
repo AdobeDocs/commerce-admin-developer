@@ -55,7 +55,3 @@ The "Load More" button appears at the bottom of the list of scheduled updates. B
 ### Multiple Updates View style:
 
 ![](../../_images/pattern-library/styles-font.jpg)
-
-## Assets
-
-[Download Scheduled Changes Module source](https://devdocs.magento.com/download/Scheduled-Changes-Module-Source.psd)

@@ -225,11 +225,6 @@ When field level validation is triggered resulting message should appear and per
 
 Data-table with Confirmation Message
 
-## Assets
-
-*  [Download Slide-out Panels PSD source](https://devdocs.magento.com/download/Slide-out-Panels.psd)
-*  [Download Modal PSD source](https://devdocs.magento.com/download/Modal.psd)
-
 ## Technical Implementation
 
 Technically slideouts and modals are implemented using the [modal widget](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/modal/) or the [modal UI component](https://developer.adobe.com/commerce/frontend-core/ui-components/components/modal/).

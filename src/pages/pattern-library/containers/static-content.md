@@ -64,9 +64,3 @@ This is used to clearly separate information for users to easily digest. The fir
 This is used to clearly separate information for users to easily digest.
 
 ![](../../_images/pattern-library/Var4-style.png)
-
-## Assets
-
-[Download Static Content Container PSD source](https://devdocs.magento.com/download/magento-static-content-container.psd)
-
-Please reach out to the Commerce UX Design team if you need anything else.
