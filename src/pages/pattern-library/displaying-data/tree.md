@@ -198,7 +198,3 @@ _Step 3:_ The item is added. The placement of the items will be determined as st
 ## Style
 
 ![](../../_images/pattern-library/style.jpg)
-
-## Assets
-
-Download [PhotoShop source file](https://devdocs.magento.com/download/magento-tree-pattern.zip).

@@ -44,7 +44,3 @@ Value is set in Stores > Store configuration and user has to go there to change 
 ## Accessibility
 
 User should be able to access this control via their keyboard and it should be legible if the user use voice navigation. Follow this accessibility guideline: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#link](http://www.w3.org/TR/WCAG10-HTML-TECHS/#link)
-
-## Assets
-
-[Download Default Config PSD source](https://devdocs.magento.com/download/defaultconfig.psd).

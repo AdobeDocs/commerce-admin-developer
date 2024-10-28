@@ -129,13 +129,3 @@ It is not recommended to have too many steps for a wizard. But if a use case ari
 (for specific styling of this variation, refer to the link to .psd files in Assets.)
 
 ![](../../_images/pattern-library/wizard-Variation4.png)
-
-## Assets
-
-*  [Download Wizard Style - PSD source](https://devdocs.magento.com/download/wizard-pattern-styles.psd)
-*  [Download Variation 1 - PSD source](https://devdocs.magento.com/download/Variation1.psd)
-*  [Download Variation 2 - PSD source](https://devdocs.magento.com/download/Variation2.psd)
-*  [Download Variation 3 - PSD source](https://devdocs.magento.com/download/Variation3.psd)
-*  [Download Variation 4 - PSD source](https://devdocs.magento.com/download/Variation4.psd)
-
-Please reach out to the Commerce UX Design team if you need anything else.

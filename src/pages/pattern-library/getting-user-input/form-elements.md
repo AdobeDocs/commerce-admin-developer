@@ -195,9 +195,3 @@ For specific details concerning styling including fonts, colors and effects and 
 ## Accessibility
 
 Follow this guideline: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms](http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms).
-
-## Assets
-
-[Download Forms Patterns source (PSD) and PNGs](https://devdocs.magento.com/download/forms_pattern.zip).
-
-For any other resources, please contact the Commerce UX Design Team.

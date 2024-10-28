@@ -199,10 +199,6 @@ When the datepicker is active a calendar day of the week should always have focu
 *  TimeZone Offset will assume dropdown accessibility behavior
 *  AM/PM will assume dropdown accessibility behavior
 
-## Assets
-
-[Download Date&Time PSD source](https://devdocs.magento.com/download/date&timepicker.psd).
-
 ## Implementation
 
 Date and time selectors are implemented using the standard [jQuery UI datepicker widget](https://jqueryui.com/datepicker/) and [addon](https://github.com/magento/magento2/blob/2.4/lib/web/jquery/jquery-ui-timepicker-addon.js).

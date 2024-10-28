@@ -89,9 +89,3 @@ The spinner can be any of these 4 sizes.
 Refer to Messaging Pattern for final styling on error message.
 
 ![](../../_images/pattern-library/style-progressbar.png)
-
-## Assets
-
-[Download Progress Indicator PSD and GIF source](https://devdocs.magento.com/download/magento-progressbar.zip).
-
-For any other resources, please contact the Commerce UX Design Team.

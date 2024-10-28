@@ -71,7 +71,3 @@ Typically the Row Pattern will span either 8 or 12 columns for the page grid, de
 The form drop down, scroll area, and selections should be accessible via keyboard.
 
 Follow this form control accessibility guideline: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms](http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms)
-
-## Assets
-
-[Download Row Pattern ZIP file](https://devdocs.magento.com/download/Magento_Row_pattern_src.zip).

@@ -461,7 +461,3 @@ This specification proposes a new version of the administration data-table. Feat
 ## Backwards Compatibility
 
 This new version of the data-table will fully support the existing data-table functionality. Where this document may not be explicit, it should be assumed that any existing function of the table  will be supported with this new version.
-
-## Assets
-
-Download [ZIP](https://devdocs.magento.com/download/datatable-pattern-styles.zip) of PhotoShop source files.

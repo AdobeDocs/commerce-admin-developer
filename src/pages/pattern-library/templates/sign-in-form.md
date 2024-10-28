@@ -119,9 +119,3 @@ The module container should be centered in the browser and should be some percen
 ### Successful sign-out:
 
 ![](../../_images/pattern-library/Sign-in_successful-signout.png)
-
-## Assets
-
-[Download Sign-In form source](https://devdocs.magento.com/download/magento-sign-in.psd).
-
-For any questions or additional information about the sign-in module please contact the Commerce User Experience and Product Design team.

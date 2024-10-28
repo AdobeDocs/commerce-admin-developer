@@ -293,9 +293,3 @@ Left/Right margin spacing should not be less than 10px
 *  [Mac keyboard shortcuts](http://support.apple.com/en-us/HT201236)
 
 (Keyboard shortcut same as checkbox)
-
-## Assets
-
-[Download Button PSD source](https://devdocs.magento.com/download/magento-buttons.psd).
-
-Please reach out to the Commerce UX Design team if you need anything else.

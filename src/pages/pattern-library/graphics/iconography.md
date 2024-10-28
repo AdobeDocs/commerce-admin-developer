@@ -23,16 +23,13 @@ Typically icons should represent a single, unique concept and be used consistent
 
 In the Admin UI icons have a simple, flat, single-color, 2D, style. This style prevents the loss of detail at smaller sizes and makes the shapes easier to comprehend.
 
-[Download Icon Library .ai file](https://devdocs.magento.com/download/Magento-icon-library.ai)
-[Download Icon Library Sketch file](https://devdocs.magento.com/download/magento_icon_library.sketch)
-
 ![](../../_images/pattern-library/Magento-icon-contact-sheet.png)
 
 ## Creating Icons
 
 ### Rules
 
-*  Icons should be designed on the 300px by 300px icon grid. [Download Icon Grid .ai file](https://devdocs.magento.com/download/Magento_icon_grid_300x300.ai)
+*  Icons should be designed on the 300px by 300px icon grid.
 *  Icons should be monochromatic.
 *  Icons should look like they are part of the "family" of icons.
 *  Line weights should be consistent with other icons in the library.
@@ -49,8 +46,6 @@ Here is a guide to help you get started creating your own icon:
 ![](../../_images/pattern-library/icon-construction-guide.png)
 
 How to use the icon grid:
-
-[Download Icon Grid .ai file](https://devdocs.magento.com/download/Magento_icon_grid_300x300.ai)
 
 ![](../../_images/pattern-library/using-icon-grid.png)
 
