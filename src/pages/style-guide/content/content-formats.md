@@ -7,7 +7,7 @@ keywords:
 
 # Content formats
 
-For more specifics, use the [Glossary](https://experienceleague.adobe.com/en/docs/commerce-operations/operational-playbook/glossary). If an item is not found, refer to the Associated Press (AP) Stylebook on first reference, and the Microsoft Manual of Style on second reference.
+For more specifics, use the [Glossary](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/glossary). If an item is not found, refer to the Associated Press (AP) Stylebook on first reference, and the Microsoft Manual of Style on second reference.
 
 ## Abbreviations
 

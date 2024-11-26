@@ -44,7 +44,7 @@ In all contexts, strive for accuracy and consistency to inspire and build confid
 
 When uncertain about using a correct term or style, consult the following documents:
 
-*  The [Glossary](https://experienceleague.adobe.com/en/docs/commerce-operations/operational-playbook/glossary)
+*  The [Glossary](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/glossary)
 
 *  [Admin Design Pattern Library](https://developer.adobe.com/commerce/admin-developer/pattern-library/)
 
@@ -64,7 +64,7 @@ Words like "optimize", "flexible", and "scalable" might be big, but they're not 
 
 Avoid terms that may not translate internationally, like metaphors, other figurative language, and humor.
 
-When introducing a term that may be unfamiliar to merchants, apply a glossary term from the [Glossary](https://experienceleague.adobe.com/en/docs/commerce-operations/operational-playbook/glossary), provide further explanation, or add contextual help. To see what acronyms can be used on first reference check the AP Stylebook. When in doubt, use the full spelling and add the acronym in parenthesis afterword.
+When introducing a term that may be unfamiliar to merchants, apply a glossary term from the [Glossary](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/glossary), provide further explanation, or add contextual help. To see what acronyms can be used on first reference check the AP Stylebook. When in doubt, use the full spelling and add the acronym in parenthesis afterword.
 
 *Example:*
 
