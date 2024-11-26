@@ -91,9 +91,3 @@ This is an alternative view to the timeline in data table format. The functional
 ### Update Summary, in Overlay Window:
 
 ![](../../_images/pattern-library/style-summary.jpg)
-
-## Assets
-
-[Download Timeline Dashboard source](https://devdocs.magento.com/download/timeline-dashboard.psd)
-
-If you have questions about the Timeline Dashboard, please [contact us](https://magento.com/company/contact-us).

@@ -70,9 +70,3 @@ Full Guideline Reference: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#links](http:/
 **Example:**
 
 ![](../../_images/pattern-library/links-example5.png)
-
-## Assets
-
-[Download Links PSD source](https://devdocs.magento.com/download/magento-links.psd).
-
-Please reach out to the Commerce UX Design team if you need anything else.

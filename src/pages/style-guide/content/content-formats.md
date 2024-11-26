@@ -45,8 +45,6 @@ When in doubt, spell it out. If there's a chance a reader doesn't know an abbrev
 
 ## Addresses
 
-For international formats, see [Bitboost International Mailing Address Formats](http://www.bitboost.com/ref/international-address-formats.html).
-
 For United States, use these formats:
 
 <table>

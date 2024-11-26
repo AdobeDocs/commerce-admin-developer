@@ -51,9 +51,3 @@ The controller should be accessible by keyboard and have a voice over for screen
 *  [Mac keyboard shortcuts](http://support.apple.com/en-us/HT201236)
 
 (Keyboard shortcut same as checkbox)
-
-## Assets
-
-[Download View Controller PSD source](https://devdocs.magento.com/download/magento-viewcontrol.psd)
-
-Please reach out to the Commerce UX Design team if you need anything else.

@@ -83,7 +83,3 @@ Likewise, an image may be removed from the Admin application by tapping the "tra
 To initiate the uploader, the buttons should follow button accessibility guidelines: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms-graphical-buttons](http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms-graphical-buttons)
 
 In the browser upload window, standard behavior should be kept.
-
-## Assets
-
-[Download Image Uploader PSD source](https://devdocs.magento.com/download/Image_Video_Uploader.psd).

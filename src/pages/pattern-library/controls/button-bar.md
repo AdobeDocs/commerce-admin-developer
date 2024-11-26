@@ -96,9 +96,3 @@ To ensure page level actions are always visible, The button bar should stick to 
 ## Accessibility
 
 Buttons should make use of CSS and HTML so that button text is never dependent on a graphic asset.
-
-## Assets
-
-[Download Button Bar PSD source](https://devdocs.magento.com/download/magento-button-bar.psd).
-
-Please reach out to the Commerce UX Design team if you need anything else.

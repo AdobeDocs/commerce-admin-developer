@@ -67,9 +67,3 @@ Required fields should not be located within a collapsed section, as this increa
 1. Single expandable – section that contains only one expandable section; usually used to hide additional information.
 
    ![Single expandable section](../../_images/pattern-library/single_exp.png)
-
-## Assets
-
-[Download Expandable Section ZIP file](https://devdocs.magento.com/download/Magento_expandable_section.zip)
-
-Please reach out to the Commerce UX Design team if you need anything else.

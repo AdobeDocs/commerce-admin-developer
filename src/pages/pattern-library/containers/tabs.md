@@ -56,9 +56,3 @@ User should be able to navigate through each tab with their keyboard.
 Follow the rule "Make all functionality available from a keyboard".
 
 [http://www.w3.org/TR/WCAG20/#keyboard-operation](http://www.w3.org/TR/WCAG20/#keyboard-operation)
-
-## Assets
-
-[Download Tabs PSD source](https://devdocs.magento.com/download/magento-tabs.psd)
-
-Please reach out to the Commerce UX Design team if you need anything else.

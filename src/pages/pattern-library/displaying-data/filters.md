@@ -58,7 +58,3 @@ In some unique instances a table may have "Quick Filters" associated with it. Th
 ![](../../_images/pattern-library/quick-filter_1.png)
 
 ![](../../_images/pattern-library/quick-filter_2.png)
-
-## Assets
-
-Download [ZIP](https://devdocs.magento.com/download/filter-data-table.zip) of PhotoShop source files.

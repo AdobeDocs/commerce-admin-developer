@@ -68,7 +68,3 @@ Once a tile becomes a "Hero" a 1px yellow stroke highlights the tile at the top 
 For specific details concerning styling including fonts, colors and effects and spacing and padding, please refer to the source PSD files and exports located on Box or contact the Commerce Product Design and User Experience team.
 
 ![](../../_images/pattern-library/Tile07.jpg)
-
-## Assets
-
-Download [PhotoShop source file](https://devdocs.magento.com/download/tile-pattern-styles.psd).

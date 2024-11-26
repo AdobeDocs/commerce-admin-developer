@@ -35,7 +35,7 @@ In the Admin, icons have a simple, flat, single-color, and two-dimensional style
 
 ### Instructions
 
-*  Start by selecting an icon library file - download either the [Sketch (SKETCH)](https://devdocs.magento.com/download/magento_icon_library.sketch) or [Illustrator (AI)](https://devdocs.magento.com/download/Magento-icon-library.ai) files.
+*  Start by selecting an icon library file.
 
 *  Use our standard 300 x 300 pixel icon grid - see the guidance that follows in the "Create With the Icon Grid" section.
 
