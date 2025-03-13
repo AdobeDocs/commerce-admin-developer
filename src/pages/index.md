@@ -10,7 +10,6 @@ keywords:
 ![Commerce Admin Development](_images/home-bg.jpeg)
 
 # Commerce Admin Development
-
 Learn how to customize the Adobe Commerce and Magento Open Source Admin application for PHP extensions. See the [Adobe Commerce Admin UI SDK](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/) documentation for updating the Admin for apps developed with Adobe Developer App Builder.
 
 <Resources slots="heading, links"/>
@@ -18,9 +17,8 @@ Learn how to customize the Adobe Commerce and Magento Open Source Admin applicat
 ## Resources
 
 *  [Commerce open-source projects](https://developer.adobe.com/open/magento)
-*  [Community Slack workspace](https://opensource.magento.com/slack)
+-  [Community Slack workspace](https://opensource.magento.com/slack)
 *  [Contributor statistics](https://developer.adobe.com/open/magento/statistic)
-
 ## Overview
 
 This documentation provides resources for customizing the Adobe Commerce and Magento Open Source Admin application.
