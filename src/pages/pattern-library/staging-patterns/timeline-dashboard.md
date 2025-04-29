@@ -1,7 +1,7 @@
 ---
 title: Timeline Dashboard | Commerce Admin Development
 description: Learn about design standards for the timeline dashboard in the Adobe Commerce Admin application.
-edition: ee
+edition: paas
 keywords:
   - Extensions
   - Staging
