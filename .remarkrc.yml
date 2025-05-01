@@ -5,4 +5,4 @@ plugins:
   - - remark-lint-frontmatter-schema
     - schemas:
         ./.github/linters/metadata.schema.yml:
-          - ./src/pages/**/*.md 
+          - ./src/pages/**/*.md
