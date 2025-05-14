@@ -10,6 +10,7 @@
  * governing permissions and limitations under the License.
  */
 
+import React from 'react';
 import { MDXProvider } from '@mdx-js/react';
 import { Edition } from './src/@adobe/gatsby-theme-aio/components/Edition';
 
