@@ -20,7 +20,50 @@ const components = {
   Edition
 };
 
+// Define a constant to check if the code is running in a browser environment
+const isBrowser = typeof window !== "undefined";
+
 // Wrap the root element with the MDXProvider
 export const wrapRootElement = ({ element }) => {
   return <MDXProvider components={components}>{element}</MDXProvider>;
 };
+
+export const onClientEntry = () => {
+  // set adobe analytics window object
+  if (isBrowser) {
+    window._satellite = window._satellite || {};
+    window.alloy_all = window.alloy_all || {};
+    window.alloy_all.data = window.alloy_all.data || {};
+    window.alloy_all.data._adobe_corpnew = window.alloy_all.data._adobe_corpnew || {};
+    window.alloy_all.data._adobe_corpnew.web = window.alloy_all.data._adobe_corpnew.web || {};
+    window.alloy_all.data._adobe_corpnew.web.webPageDetails = window.alloy_all.data._adobe_corpnew.web.webPageDetails || {};
+  }
+};
+
+export const onRouteUpdate = ({ location, prevLocation }) => {
+  if (isBrowser) {
+    function watchAndFireAnalytics() {
+      if (typeof window._satellite !== 'undefined') {
+        _satellite.track('state',
+          {
+            xdm: {},
+            data: {
+              _adobe_corpnew: {
+                web: {
+                  webPageDetails: {
+                    customPageName: location.href
+                  }
+                }
+              }
+            }
+          }
+        );
+
+        clearInterval(intervalId);
+      }
+    }
+
+    // watch if analytics is online then track page
+    const intervalId = setInterval(watchAndFireAnalytics, 1000);
+  }
+}
