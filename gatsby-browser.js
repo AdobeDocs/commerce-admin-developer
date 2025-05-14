@@ -41,4 +41,4 @@ export const onRouteUpdate = ({ location, prevLocation }) => {
     // watch if analytics is online then track page
     const intervalId = setInterval(watchAndFireAnalytics, 1000);
   }
-} 
+}
