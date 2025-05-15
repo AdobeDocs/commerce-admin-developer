@@ -43,7 +43,7 @@ export const onClientEntry = () => {
 export const onRouteUpdate = ({ location, prevLocation }) => {
   if (isBrowser) {
     function watchAndFireAnalytics() {
-      if (typeof window._satellite !== 'undefined') {
+      if (typeof window._satellite !== 'undefined' && typeof window._satellite.track === 'function') {
         _satellite.track('state',
           {
             xdm: {},
