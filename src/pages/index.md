@@ -5,7 +5,7 @@ keywords:
   - Extensions
 ---
 
-<Hero slots="image, heading, text"/>
+<SuperHero slots="image, heading, text"/>
 
 ![Commerce Admin Development](_images/home-bg.jpeg)
 
@@ -33,13 +33,13 @@ Use these sections to learn about customizing the Admin application.
 
 ### Sections
 
-[Style Guide](style-guide/)
+[Style Guide](style-guide/index.md)
 
 Explore foundational design, writing, and content standards for the Admin.
 
 <DiscoverBlock slots="link, text"/>
 
-[Design Pattern Library](pattern-library/)
+[Design Pattern Library](pattern-library/index.md)
 
 Use these patterns to customize Admin user interfaces.
 

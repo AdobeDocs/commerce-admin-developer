@@ -53,7 +53,7 @@ How to use the icon grid:
 
 We recommend using icon fonts to get the best quality for your icons. The Commerce icon fonts can be found in _app/design/adminhtml/Magento/backend/web/fonts/admin-icons_
 
-{% include design/icon-fonts.md %}
+\{% include design/icon-fonts.md %\}
 
 ## Accessibility
 

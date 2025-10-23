@@ -28,59 +28,59 @@ However, many terms use lowercase including: merchant, developer, home page, sta
 
 ### Capitalize ...
 
-<ul>
-  <li><strong>The first letter of the first and last words.</strong></li>
-  <li><strong>The second word of a compound, hyphenated word.</strong> Exception: When the first word in the hyphenation is not a prefix ... <em>Prefix examples:</em> anti-, pre-, post-<br />
-  <em>Examples:</em><br /><br />
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – "Best-rated Platform Software"</li>
-      <li>Yes – "Best-Rated Platform Software"</li>
-    </ul>
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – "Post-Launch Instructions"</li>
-      <li>Yes – "Post-launch Instructions"</li>
-    </ul>
-  </li>
-  <li><strong>All verbs.</strong>
-    <ul>
-      <li><em>Capitalize even the little ones.</em></li>
-      <li><em>Correct examples:</em> Is, Am, Are, Was, Were, Be, Being, and Been.</li>
-    </ul>
-  </li>
-  <li><strong>All parts of verbs.</strong> Includes prepositions, if they are part of phrasal verb ... <em>Correct example:</em> "Turn On"
-    <ul>
-      <li><em>Tip:</em> if you emphasize the word when reading it aloud, then capitalize it."</li>
-      <li><em>Infinitives are not verbs:</em> See infinitives guidance, jump to the <span markdown="1">["Do Not capitalize ..."](capitalization.md#do-not-capitalize-)</span> section.</li>
-    </ul>
-  <em>Examples:</em><br /><br />
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – "Turning Blocks on and off"</li>
-      <li>Yes – "Turning Blocks On and Off"</li>
-      <li>Yes – "Setting Up a Catalog"</li>
-      <li>Yes – "Turning On the Service"</li>
-    </ul>
-    </li>
-</ul>
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The first letter of the first and last words.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The second word of a compound, hyphenated word.&lt;/strong&gt; Exception: When the first word in the hyphenation is not a prefix ... &lt;em&gt;Prefix examples:&lt;/em&gt; anti-, pre-, post-&lt;br /&gt;
+  &lt;em&gt;Examples:&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;
+    &lt;ul style="list-style-type:none"&gt;
+      &lt;li&gt;&lt;strong&gt;No&lt;/strong&gt; – "Best-rated Platform Software"&lt;/li&gt;
+      &lt;li&gt;Yes – "Best-Rated Platform Software"&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul style="list-style-type:none"&gt;
+      &lt;li&gt;&lt;strong&gt;No&lt;/strong&gt; – "Post-Launch Instructions"&lt;/li&gt;
+      &lt;li&gt;Yes – "Post-launch Instructions"&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;All verbs.&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Capitalize even the little ones.&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Correct examples:&lt;/em&gt; Is, Am, Are, Was, Were, Be, Being, and Been.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;All parts of verbs.&lt;/strong&gt; Includes prepositions, if they are part of phrasal verb ... &lt;em&gt;Correct example:&lt;/em&gt; "Turn On"
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Tip:&lt;/em&gt; if you emphasize the word when reading it aloud, then capitalize it."&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Infinitives are not verbs:&lt;/em&gt; See infinitives guidance, jump to the &lt;span markdown="1"&gt;["Do Not capitalize ..."](capitalization.md#do-not-capitalize-)&lt;/span&gt; section.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;em&gt;Examples:&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;
+    &lt;ul style="list-style-type:none"&gt;
+      &lt;li&gt;&lt;strong&gt;No&lt;/strong&gt; – "Turning Blocks on and off"&lt;/li&gt;
+      &lt;li&gt;Yes – "Turning Blocks On and Off"&lt;/li&gt;
+      &lt;li&gt;Yes – "Setting Up a Catalog"&lt;/li&gt;
+      &lt;li&gt;Yes – "Turning On the Service"&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
 
 ### Do not capitalize ...
 
-<ul>
-  <li><strong>Words following prefixes.</strong> For guidance, jump to the <span markdown="1">["Capitalize ... "](capitalization.md#capitalize-)</span>section and find the prefixes and compound, hyphenated words guidance.</li>
-  <li><strong>Articles.</strong> ... <em>Correct examples:</em> a, an, the</li>
-  <li><strong>Conjunctions.</strong> ... <em>Correct examples:</em> and, but, for, or, nor</li>
-  <li><strong>Prepositions of fewer than four letters.</strong> Includes the "to" in infinitives. <em>See example:</em>
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – "The Key To Customer Service In An Omnichannel World"</li>
-      <li>Yes – "The Key to Customer Service in an Omnichannel World"</li>
-    </ul>
-    </li>
-  <li><strong>Brand or company names that use a lowercase initial letter.</strong> ... <em>Tip:</em> Rephrase a heading or sentence to avoid starting with a lowercase letter. <em>See example:</em>
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – "EBay, IPod, IPhone"</li>
-      <li>Yes – "eBay, iPod, iPhone"</li>
-    </ul>
-  </li>
-</ul>
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Words following prefixes.&lt;/strong&gt; For guidance, jump to the &lt;span markdown="1"&gt;["Capitalize ... "](capitalization.md#capitalize-)&lt;/span&gt;section and find the prefixes and compound, hyphenated words guidance.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Articles.&lt;/strong&gt; ... &lt;em&gt;Correct examples:&lt;/em&gt; a, an, the&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Conjunctions.&lt;/strong&gt; ... &lt;em&gt;Correct examples:&lt;/em&gt; and, but, for, or, nor&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Prepositions of fewer than four letters.&lt;/strong&gt; Includes the "to" in infinitives. &lt;em&gt;See example:&lt;/em&gt;
+    &lt;ul style="list-style-type:none"&gt;
+      &lt;li&gt;&lt;strong&gt;No&lt;/strong&gt; – "The Key To Customer Service In An Omnichannel World"&lt;/li&gt;
+      &lt;li&gt;Yes – "The Key to Customer Service in an Omnichannel World"&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Brand or company names that use a lowercase initial letter.&lt;/strong&gt; ... &lt;em&gt;Tip:&lt;/em&gt; Rephrase a heading or sentence to avoid starting with a lowercase letter. &lt;em&gt;See example:&lt;/em&gt;
+    &lt;ul style="list-style-type:none"&gt;
+      &lt;li&gt;&lt;strong&gt;No&lt;/strong&gt; – "EBay, IPod, IPhone"&lt;/li&gt;
+      &lt;li&gt;Yes – "eBay, iPod, iPhone"&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 ## All caps
 
