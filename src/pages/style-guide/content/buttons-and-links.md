@@ -59,12 +59,12 @@ Links can be used as content links (for site navigation) and non-primary CTAs. W
 *  **Parallelism.** When linking to a page with a direct reference, match the exact wording of the page title or, for anchor tags, the section heading title.
 * **PDFs and other file formats.**
    *  Append the document-type acronym after the link label and link only the document title.
-   *  Use all caps case and do not add a period to the acronym. See &lt;span markdown="1"&gt;[All Caps case standards](capitalization.md#all-caps)&lt;/span&gt; in Capitalization.
+   *  Use all caps case and do not add a period to the acronym. See \<span markdown="1"\>[All Caps case standards](capitalization.md#all-caps)\</span\> in Capitalization.
    *  Do not use the file name or URL in the content &#8212; use the title of the document. For example:
-      *  **No** —  "&lt;a href="javascript:void(0);"&gt;Download FAQs (.PDF)&lt;/a&gt;"
-      *  **No** — "&lt;a href="javascript:void(0);"&gt;Download FAQs (.pdf)&lt;/a&gt;"
-      *  **No** — "&lt;a href="javascript:void(0);"&gt;Download faqs-bh-v1.pdf&lt;/a&gt;"
-      *  Yes — &lt;a href="javascript:void(0);"&gt;Download FAQs (PDF)&lt;/a&gt;
+      *  **No** —  "\<a href="javascript:void(0);"\>Download FAQs (.PDF)\</a\>"
+      *  **No** — "\<a href="javascript:void(0);"\>Download FAQs (.pdf)\</a\>"
+      *  **No** — "\<a href="javascript:void(0);"\>Download faqs-bh-v1.pdf\</a\>"
+      *  Yes — \<a href="javascript:void(0);"\>Download FAQs (PDF)\</a\>
 
 ## When to verify a call to action
 
@@ -96,7 +96,7 @@ The following labels are the standards for Admin labels. Refer to these footnote
 | Cancel Cancel [ + Label ]       | In Admin, "Cancel" is used as a link in the Button Bar. Use "Cancel" to end a task flow, with changes unsaved. If the cancellation is not easily recoverable, then include a verify step.                                                                                                                                  |
 | Clear Form                      | Use to erase all entries on a form, not to be confused with "Reset [ + Label ]". For actions that are not easily recoverable, include a verify step.                                                                                                                                                                       |
 | Delete Delete [ + Label ]       | Use to permanently remove an object. If the removal is not easily recoverable, then include a verify step.                                                                                                                                                                                                                 |
-| Edit Edit [ + Label ]           | When to use "Edit" vs. "Change":&lt;ul&gt;&lt;li&gt;Use "Edit" when an object's information is edited.&lt;/li&gt;&lt;li&gt;Use "Change" when switching from one object to another.&lt;/li&gt;&lt;li&gt;What's the difference? When users want to change a payment method, they don't want to "Edit" the information for the specified payment method.&lt;/li&gt;&lt;/ul&gt; |
+| Edit Edit [ + Label ]           | When to use "Edit" vs. "Change":\<ul\>\<li\>Use "Edit" when an object's information is edited.\</li\>\<li\>Use "Change" when switching from one object to another.\</li\>\<li\>What's the difference? When users want to change a payment method, they don't want to "Edit" the information for the specified payment method.\</li\>\</ul\> |
 | Continue`*`                     | Use to navigate linear task flows.                                                                                                                                                                                                                                                                                         |
 | Filter Apply Filter             | For "Filter", use to select categories to narrow a data set. For "Apply Filter", use to activate the selected filters in the data set. Do not confuse with "Sort".                                                                                                                                                         |
 | Get Started`*`                  | Use for a task-entry step (setting expectations and providing prerequisites), before a user has entered a task.                                                                                                                                                                                                            |

@@ -11,32 +11,32 @@ For more number formats, use the Associated Press (AP) Stylebook on first refere
 
 ## Basic standards
 
-&lt;ul&gt;
-  &lt;li&gt;For numbers 10 and higher, use numerals. For numbers lower than 10, spell out numbers. &lt;em&gt;See correct examples:&lt;/em&gt;
-    &lt;ul style="list-style-type:none"&gt;
-      &lt;li&gt;Yes – "We offer this service in nine countries."&lt;/li&gt;
-      &lt;li&gt;Yes – "Over 200 companies use this service."&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In headlines and "pull quotes", where the number is the focus, use numerals. &lt;em&gt;See correct examples:&lt;/em&gt;
-    &lt;ul style="list-style-type:none"&gt;
-      &lt;li&gt;Yes – "1 in 3 shoppers ..."&lt;/li&gt;
-      &lt;li&gt;Yes – "We're #1"&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Use numerals for all numbers in the following cases:
-    &lt;ul style="list-style-type:none"&gt;
-      &lt;li&gt;Units of measurement, including inches, acres, pounds, mph, and percentages&lt;/li&gt;
-      &lt;li&gt;Street addresses &lt;em&gt;Example:&lt;/em&gt; 9 Franklin St.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;For large numbers, we use a comma.
-    &lt;ul style="list-style-type:none"&gt;
-      &lt;li&gt;&lt;em&gt;Correct example:&lt;/em&gt; 200,000 - never "200k" or "200 thousand"&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Exception:&lt;/em&gt; In large-format printing, we can use "200k" to add impact. Where this can be used: Posters, billboards, and small internet banners where space is tight.&lt;/li&gt;
-      &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+\<ul\>
+  \<li\>For numbers 10 and higher, use numerals. For numbers lower than 10, spell out numbers. \<em\>See correct examples:\</em\>
+    \<ul style="list-style-type:none"\>
+      \<li\>Yes – "We offer this service in nine countries."\</li\>
+      \<li\>Yes – "Over 200 companies use this service."\</li\>
+    \</ul\>
+  \</li\>
+  \<li\>In headlines and "pull quotes", where the number is the focus, use numerals. \<em\>See correct examples:\</em\>
+    \<ul style="list-style-type:none"\>
+      \<li\>Yes – "1 in 3 shoppers ..."\</li\>
+      \<li\>Yes – "We're #1"\</li\>
+    \</ul\>
+  \</li\>
+  \<li\>Use numerals for all numbers in the following cases:
+    \<ul style="list-style-type:none"\>
+      \<li\>Units of measurement, including inches, acres, pounds, mph, and percentages\</li\>
+      \<li\>Street addresses \<em\>Example:\</em\> 9 Franklin St.\</li\>
+    \</ul\>
+  \</li\>
+  \<li\>For large numbers, we use a comma.
+    \<ul style="list-style-type:none"\>
+      \<li\>\<em\>Correct example:\</em\> 200,000 - never "200k" or "200 thousand"\</li\>
+      \<li\>\<em\>Exception:\</em\> In large-format printing, we can use "200k" to add impact. Where this can be used: Posters, billboards, and small internet banners where space is tight.\</li\>
+      \</ul\>
+  \</li\>
+\</ul\>
 
 ## Addresses
 

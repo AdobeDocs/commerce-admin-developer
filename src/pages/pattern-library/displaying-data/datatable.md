@@ -255,37 +255,37 @@ Users may remove a filter setting by clicking/tapping the remove control next to
 
 ![](../../_images/pattern-library/filter_remove.png)
 
-&lt;!---
+\<!---
 ### Quick Filters
 
 In some instances, pre-determined "quick filters" may be present in the form of links. These are filter shortcuts of common filtering attributes to assist users who may not readily consider filtering the table for results. Quick Filters are perhaps most useful for extracting 'reports' from tables.  These filters are elevated above the 'advanced filters'.
 
-&lt;strong&gt;Step 1:&lt;/strong&gt; Starting state. User click on a quick filter link.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
+\<strong\>Step 1:\</strong\> Starting state. User click on a quick filter link.
+\<br /\>
+\<br /\>
+\<br /\>
 ![](../../_images/pattern-library/datatable35.jpg)
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong>Step 2:&lt;/strong&gt; Quick filter is applied.
+\<br /\>
+\<br /\>
+\<br /\>
+\<strong>Step 2:\</strong\> Quick filter is applied.
 Once user click on the quick filters, that quick filter is shown as a chip. The user can add additional quick filters.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
+\<br /\>
+\<br /\>
+\<br /\>
 ![](../../_images/pattern-library/datatable36.jpg)
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;Example:&lt;/strong&gt; Quick filters and active filters are present.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
+\<br /\>
+\<br /\>
+\<br /\>
+\<strong\>Example:\</strong\> Quick filters and active filters are present.
+\<br /\>
+\<br /\>
+\<br /\>
 ![](../../_images/pattern-library/datatable37.jpg)
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;br /&gt;
---&gt;
+\<br /\>
+\<br /\>
+\<br /\>
+--\>
 
 ## Data Table Views
 
