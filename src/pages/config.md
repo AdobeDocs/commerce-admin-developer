@@ -1,10 +1,8 @@
 - pathPrefix:
     - /commerce/admin-developer/
 
-- home:
-    - [Commerce](http://developer.adobe.com/commerce/docs)
-
 - pages:
+    - [Commerce](http://developer.adobe.com/commerce/docs)
     - [Admin Development](/index.md)
     - [Style Guide](/style-guide/index.md)
     - [Design Pattern Library](/pattern-library/index.md)
