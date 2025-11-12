@@ -5,8 +5,6 @@ keywords:
   - Extensions
 ---
 
-import CustomImage from '../../../components/CustomImage.js'
-
 # Progress indicator
 
 Users sometimes need to wait for a process to be completed by the system. In such case, it is best to communicate that to the user that the system is working the process that the user requested. There are two types of progress indicator: 1.) a progress bar and 2.) a spinner.
@@ -36,7 +34,7 @@ Progress indicator is read-only, not interactive.
 
 Spinner is a gif image.
 
-<CustomImage src="/Spinner-lg.gif" alt="Progress indicator example" />
+<CustomImage src="../../_images/Spinner-lg.gif" alt="Progress indicator example" />
 
 1. Process is triggered
 1. Show spinner - To avoid flickering, if a process generally takes 2 seconds to complete, but can be completed under 500ms. Delay 500ms before showing the spinner.
