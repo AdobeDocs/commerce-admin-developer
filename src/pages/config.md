@@ -9,12 +9,12 @@
 
 - subPages:
     - [Introduction](/style-guide/index.md)
-    - [Design](/style-guide/design/color.md)
+    - Design
         - [Color](/style-guide/design/color.md)
         - [Iconography](/style-guide/design/iconography.md)
         - [Page grids](/style-guide/design/page-grids.md)
         - [Typography](/style-guide/design/typography.md)
-    - [Writing and content](/style-guide/content/buttons-and-links.md)
+    - Writing and Content
         - [Buttons and links](/style-guide/content/buttons-and-links.md)
         - [Capitalization](/style-guide/content/capitalization.md)
         - [Content formats](/style-guide/content/content-formats.md)
