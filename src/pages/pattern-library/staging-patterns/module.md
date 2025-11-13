@@ -6,9 +6,9 @@ keywords:
   - Staging
 ---
 
-<InlineAlert variant="info" />
+<Edition slot="text"/>
 
-This topic is for [PaaS](https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions) only.
+[PaaS only](https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions)
 
 # Scheduled changes module
 
