@@ -34,7 +34,7 @@ Progress indicator is read-only, not interactive.
 
 Spinner is a gif image.
 
-<CustomImage src="../../_images/Spinner-lg.gif" alt="Progress indicator example" />
+![Progress indicator example](/_images/pattern-library/Spinner-lg.gif)
 
 1. Process is triggered
 1. Show spinner - To avoid flickering, if a process generally takes 2 seconds to complete, but can be completed under 500ms. Delay 500ms before showing the spinner.
