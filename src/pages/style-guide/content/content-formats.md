@@ -47,10 +47,9 @@ When in doubt, spell it out. If there's a chance a reader doesn't know an abbrev
 
 For United States, use these formats:
 
-| Basic                      | International                                 | Basic +\<br /\>Company Name                  | Basic +\<br /\>Address Line 2              |
-|----------------------------|-----------------------------------------------|--------------------------------------------|------------------------------------------|
-| Ray Symmetry\<br /\>1234 Barnacle Dr.\<br /\>Enid, TX 73701         | Ray Symmetry\<br /\>1234 Barnacle Dr.\<br /\>Enid, TX 73701\<br /\>USA        | Ray Symmetry\<br /\>Company Name\<br /\>1234 S Barnacle Dr.\<br /\>Enid, TX 73701      | Ray Symmetry\<br /\>1234 Barnacle Dr.\<br /\>PO Box 1234\<br /\>Enid, TX 73701  |
-
+| Basic | International| Basic +\<br /\>Company Name| Basic +\<br /\>Address Line 2|
+|-------|----------|----------------|-----------------|
+| Ray Symmetry\<br /\>1234 Barnacle Dr.\<br /\>Enid, TX 73701 | Ray Symmetry\<br /\>1234 Barnacle Dr.\<br /\>Enid, TX 73701\<br /\>USA | Ray Symmetry\<br /\>Company Name\<br /\>1234 S Barnacle Dr.\<br /\>Enid, TX 73701 | Ray Symmetry\<br /\>1234 Barnacle Dr.\<br /\>PO Box 1234\<br /\>Enid, TX 73701  |
 
 ## Lists
 

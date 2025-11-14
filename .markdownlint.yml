@@ -66,3 +66,5 @@ MD049: false
 MD050:
   style: asterisk
 
+# MD060/table-column-style - Table column style (disabled for flexible formatting)
+MD060: false
