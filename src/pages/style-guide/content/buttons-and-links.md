@@ -96,7 +96,7 @@ The following labels are the standards for Admin labels. Refer to these footnote
 | Cancel Cancel [ + Label ] | In Admin, "Cancel" is used as a link in the Button Bar. Use "Cancel" to end a task flow, with changes unsaved. If the cancellation is not easily recoverable, then include a verify step. |
 | Clear Form | Use to erase all entries on a form, not to be confused with "Reset [ + Label ]". For actions that are not easily recoverable, include a verify step. |
 | Delete Delete [ + Label ] | Use to permanently remove an object. If the removal is not easily recoverable, then include a verify step. |
-| Edit Edit [ + Label ] | When to use "Edit" vs. "Change":\<br>Use "Edit" when an object's information is edited.\<br>Use "Change" when switching from one object to another.\<br>What's the difference? When users want to change a payment method, they don't want to "Edit" the information for the specified payment method. |
+| Edit Edit [ + Label ] | When to use "Edit" vs. "Change":\<br/\>Use "Edit" when an object's information is edited.\<br/\>Use "Change" when switching from one object to another.\<br/\>What's the difference? When users want to change a payment method, they don't want to "Edit" the information for the specified payment method. |
 | Continue`*` | Use to navigate linear task flows. |
 | Filter Apply Filter | For "Filter", use to select categories to narrow a data set. For "Apply Filter", use to activate the selected filters in the data set. Do not confuse with "Sort". |
 | Get Started`*` | Use for a task-entry step (setting expectations and providing prerequisites), before a user has entered a task. |

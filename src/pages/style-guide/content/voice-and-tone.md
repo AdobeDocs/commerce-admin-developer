@@ -34,9 +34,9 @@ Content should be gender neutral. To avoid "his" or "her" pronouns, change singu
 
 To ensure that users with special needs – including the use of screen readers – can easily access your content, follow the content and design standards in the Admin Design Pattern Library's [Accessibility Guidelines](https://developer.adobe.com/commerce/admin-developer/pattern-library/general/accessibility-guidelines/).
 
-For more guidance, see this summary of [Web Content Accessibility Guidelines (WCAG) 2.0 standards](https://www.w3.org/WAI/WCAG20/glance/).
+For more guidance, see this summary of [Web Content Accessibility Guidelines (WCAG) 2.0 standards](https://www.w3.org/WAI/standards-guidelines/wcag/glance/).
 
-Also, test your content's readability. On the [Flesch-Kincaid Readability Test](http://www.readabilityformulas.com/free-readability-formula-tests.php), Admin content should score above 50, which is approximately high-school level.
+Also, test your content's readability. On the [Flesch-Kincaid Readability Test](https://readabilityformulas.com/readability-scoring-system.php), Admin content should score above 50, which is approximately high-school level.
 
 **Use correct terms and content style.**
 

@@ -74,7 +74,7 @@ From: [http://getbootstrap.com/components/](http://getbootstrap.com/components/)
 <span><span class="icon-star" aria-hidden="true"></span>Favorite</span>
 ```
 
-From: [http://www.filamentgroup.com/lab/bulletproof_icon_fonts.html](http://www.filamentgroup.com/lab/bulletproof_icon_fonts.html)
+From: [Bulletproof Accessible Icon Fonts](https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html)
 
 ### How to make your icon font accessible in three easy steps
 
