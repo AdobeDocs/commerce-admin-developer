@@ -253,39 +253,6 @@ Users may remove a filter setting by clicking/tapping the remove control next to
 
 ![](../../_images/pattern-library/filter_remove.png)
 
-\<!---
-
-### Quick Filters
-
-In some instances, pre-determined "quick filters" may be present in the form of links. These are filter shortcuts of common filtering attributes to assist users who may not readily consider filtering the table for results. Quick Filters are perhaps most useful for extracting 'reports' from tables.  These filters are elevated above the 'advanced filters'.
-
-\<strong\>Step 1:\</strong\> Starting state. User click on a quick filter link.
-\<br /\>
-\<br /\>
-\<br /\>
-![](../../_images/pattern-library/datatable35.jpg)
-\<br /\>
-\<br /\>
-\<br /\>
-\<strong>Step 2:\</strong\> Quick filter is applied.
-Once user click on the quick filters, that quick filter is shown as a chip. The user can add additional quick filters.
-\<br /\>
-\<br /\>
-\<br /\>
-![](../../_images/pattern-library/datatable36.jpg)
-\<br /\>
-\<br /\>
-\<br /\>
-\<strong\>Example:\</strong\> Quick filters and active filters are present.
-\<br /\>
-\<br /\>
-\<br /\>
-![](../../_images/pattern-library/datatable37.jpg)
-\<br /\>
-\<br /\>
-\<br /\>
---\>
-
 ## Data Table Views
 
 The data-table will support up to 30 columns, with up to 8 being visible by default. While there will be a default view for each data-table in the system, users will have the ability to show, hide, drag and change the order of columns. This interaction will include the ability to resize the width of columns.

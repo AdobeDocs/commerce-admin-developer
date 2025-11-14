@@ -59,12 +59,12 @@ Links can be used as content links (for site navigation) and non-primary CTAs. W
 *  **Parallelism.** When linking to a page with a direct reference, match the exact wording of the page title or, for anchor tags, the section heading title.
 * **PDFs and other file formats.**
    *  Append the document-type acronym after the link label and link only the document title.
-   *  Use all caps case and do not add a period to the acronym. See \<span markdown="1"\>[All Caps case standards](capitalization.md#all-caps)\</span\> in Capitalization.
+   *  Use all caps case and do not add a period to the acronym. See [All Caps case standards](capitalization.md#all-caps) in Capitalization.
    *  Do not use the file name or URL in the content &#8212; use the title of the document. For example:
-      *  **No** —  "\<a href="javascript:void(0);"\>Download FAQs (.PDF)\</a\>"
-      *  **No** — "\<a href="javascript:void(0);"\>Download FAQs (.pdf)\</a\>"
-      *  **No** — "\<a href="javascript:void(0);"\>Download faqs-bh-v1.pdf\</a\>"
-      *  Yes — \<a href="javascript:void(0);"\>Download FAQs (PDF)\</a\>
+      *  **No** —  "Download FAQs (.PDF)"
+      *  **No** — "Download FAQs (.pdf)"
+      *  **No** — "Download faqs-bh-v1.pdf"
+      *  Yes — "Download FAQs (PDF)"
 
 ## When to verify a call to action
 
