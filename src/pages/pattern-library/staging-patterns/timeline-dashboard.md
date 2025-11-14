@@ -87,10 +87,10 @@ This is an alternative view to the timeline in data table format. The functional
 
 ## Styling
 
-### Updates schedule:
+### Updates schedule
 
 ![](../../_images/pattern-library/style_staging_dashboard.jpg)
 
-### Update Summary, in Overlay Window:
+### Update Summary, in Overlay Window
 
 ![](../../_images/pattern-library/style-summary.jpg)

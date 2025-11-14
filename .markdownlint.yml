@@ -35,6 +35,8 @@ MD033:
     - Resources
     - DiscoverBlock
     - InlineAlert
+    - Edition
+    - SuperHero
 
 # MD034/no-bare-urls - Bare URL used
 MD034: false

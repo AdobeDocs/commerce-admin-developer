@@ -47,14 +47,14 @@ The "Load More" button appears at the bottom of the list of scheduled updates. B
 
 ## Styling
 
-### No Updates View:
+### No Updates View
 
 ![](../../_images/pattern-library/style-empty.jpg)
 
-### Single Update View - minimum height:
+### Single Update View - minimum height
 
 ![](../../_images/pattern-library/style-min-ht.jpg)
 
-### Multiple Updates View style:
+### Multiple Updates View style
 
 ![](../../_images/pattern-library/styles-font.jpg)

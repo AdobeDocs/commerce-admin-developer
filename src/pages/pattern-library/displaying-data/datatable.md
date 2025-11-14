@@ -254,6 +254,7 @@ Users may remove a filter setting by clicking/tapping the remove control next to
 ![](../../_images/pattern-library/filter_remove.png)
 
 \<!---
+
 ### Quick Filters
 
 In some instances, pre-determined "quick filters" may be present in the form of links. These are filter shortcuts of common filtering attributes to assist users who may not readily consider filtering the table for results. Quick Filters are perhaps most useful for extracting 'reports' from tables.  These filters are elevated above the 'advanced filters'.

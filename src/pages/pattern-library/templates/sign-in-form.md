@@ -96,26 +96,26 @@ Suggested specifications.
 
 The module container should be centered in the browser and should be some percentage of the width viewport (about one-half) but no less that 450px on desktop and tablet form factors.
 
-### Initial state:
+### Initial state
 
 ![](../../_images/pattern-library/Sign-in_initial.png)
 
-### Error state:
+### Error state
 
 ![](../../_images/pattern-library/Sign-in_error.png)
 
-### Password Retrieval:
+### Password Retrieval
 
 ![](../../_images/pattern-library/Sign-in_password-retrieval.png)
 
-### Confirmation of password retrieval:
+### Confirmation of password retrieval
 
 ![](../../_images/pattern-library/Sign-in_password-retrieval_confirmation.png)
 
-### Error of password retrieval:
+### Error of password retrieval
 
 ![](../../_images/pattern-library/Sign-in_password-retrieval_error.png)
 
-### Successful sign-out:
+### Successful sign-out
 
 ![](../../_images/pattern-library/Sign-in_successful-signout.png)
