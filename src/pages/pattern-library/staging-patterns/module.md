@@ -1,11 +1,14 @@
 ---
 title: Scheduled Changes Module | Commerce Admin Development
 description: Learn about design standards for the scheduled changes module in the Adobe Commerce Admin application.
-edition: paas
 keywords:
   - Extensions
   - Staging
 ---
+
+<Edition slot="text"/>
+
+[PaaS only](https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions)
 
 # Scheduled changes module
 
@@ -28,30 +31,30 @@ When no updates are available to be displayed on the timeline.
 
 Shows when several updates are scheduled for a stage-able entity.
 
-![](../../_images/pattern-library/sc-Module-multiple updates.jpg)
+![](../../_images/pattern-library/sc-Module-multiple-updates.jpg)
 
 ### Single Update View
 
 When a single update is scheduled, the module's default height is the same as the Multiple Updates View. Users can re-size the module, using the dragger at the bottom of the module.
 
-![](../../_images/pattern-library/sc-Module-single update.jpg)
+![](../../_images/pattern-library/sc-Module-single-update.jpg)
 
 ### Loading More Updates
 
 The "Load More" button appears at the bottom of the list of scheduled updates. By default, 5 scheduled updates are displayed. To view more, users can click "Load More" to add the next set of scheduled updates.
 
-![](../../_images/pattern-library/sc-Module-load more.jpg)
+![](../../_images/pattern-library/sc-Module-load-more.jpg)
 
 ## Styling
 
-### No Updates View:
+### No Updates View
 
 ![](../../_images/pattern-library/style-empty.jpg)
 
-### Single Update View - minimum height:
+### Single Update View - minimum height
 
 ![](../../_images/pattern-library/style-min-ht.jpg)
 
-### Multiple Updates View style:
+### Multiple Updates View style
 
 ![](../../_images/pattern-library/styles-font.jpg)

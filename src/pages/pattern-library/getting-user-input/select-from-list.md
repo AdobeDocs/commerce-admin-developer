@@ -43,4 +43,4 @@ The advantage of a list box is that it exposes more options to the user. The lis
 
 The form drop down, scroll area, and selections should be accessible via keyboard.
 
-Follow this form control accessibility guideline: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms](http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms)
+Follow this form control accessibility guideline: [https://www.w3.org/TR/WCAG10-HTML-TECHS/](https://www.w3.org/TR/WCAG10-HTML-TECHS/)

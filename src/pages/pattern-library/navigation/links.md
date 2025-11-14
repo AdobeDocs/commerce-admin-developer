@@ -25,7 +25,7 @@ When initiating an action or a process
 
 ## Accessibility
 
-Full Guideline Reference: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#links](http://www.w3.org/TR/WCAG10-HTML-TECHS/#links)
+Full Guideline Reference for Links: [https://www.w3.org/TR/WCAG10-HTML-TECHS/](https://www.w3.org/TR/WCAG10-HTML-TECHS/)
 
 ### Links Text
 

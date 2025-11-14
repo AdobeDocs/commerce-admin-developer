@@ -65,7 +65,7 @@ Learn how to use the icon grid:
 
 ## Icon fonts
 
-We recommend using icon fonts to get the best quality for your icons. The application icon fonts can be found in [in GitHub](https://github.com/magento/magento2/blob/2.4/app/design/adminhtml/Magento/backend/web/fonts/admin-icons).
+We recommend using icon fonts to get the best quality for your icons. The application icon fonts can be found in [in GitHub](https://github.com/magento/magento2/tree/2.4/app/design/adminhtml/Magento/backend/web/fonts/admin-icons).
 
 If you want to add your own icons, each icon will need to be in its own SVG files. There are multiple ways to create icon fonts, here is one to get started:
 
@@ -75,7 +75,7 @@ If you want to add your own icons, each icon will need to be in its own SVG file
 
 1. Specify the desired font names and the Unicode characters to map the icons.
 
-   Setting the icons to [Private Use Area](https://en.wikipedia.org/wiki/Private_Use_Areas#Private_Use_Areas) (PUA) will disable screen-readers and other accessibility tools. Disabling prevents the devices from mistakenly translating your icon's characters as words that users won't understand.
+   Setting the icons to [Private Use Area](https://en.wikipedia.org/wiki/Private_Use_Areas) (PUA) will disable screen-readers and other accessibility tools. Disabling prevents the devices from mistakenly translating your icon's characters as words that users won't understand.
 
 1. From the app, click "Download" to generate the icon font and CSS style sheet.
 
@@ -102,7 +102,7 @@ Modern versions of assistive technologies will announce CSS generated content, a
 
 ```
 
-*Source:* [filament group's "Bulletproof Accessible Icon Fonts"](http://www.filamentgroup.com/lab/bulletproof_icon_fonts.html)
+*Source:* [filament group's "Bulletproof Accessible Icon Fonts"](https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html)
 
 ### Make icon fonts accessible
 

@@ -127,7 +127,7 @@ This method of nesting a 12-column page-grid inside the slideout panel is repeat
 
 ### Behavior and Animation
 
-When an action is taken that triggers a modal, the modal window should appear center-aligned in the user's browser window. The modal should appear to fade in or grow from the center of the screen. The timing of this animation should be set to about 0.3s (see an [example of the animation here](http://tympanus.net/Development/ModalWindowEffects/) ), refer to "FADE IN & SCALE" option). When the modal is triggered, the parent page should become disabled and shaded while the modal is active.
+When an action is taken that triggers a modal, the modal window should appear center-aligned in the user's browser window. The modal should appear to fade in or grow from the center of the screen. The timing of this animation should be set to about 0.3s. When the modal is triggered, the parent page should become disabled and shaded while the modal is active.
 
 ![](../../_images/pattern-library/modal1.png)
 
