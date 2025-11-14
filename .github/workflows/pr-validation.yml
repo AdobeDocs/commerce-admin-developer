@@ -5,7 +5,7 @@ on:
 
 jobs:
   validate:
-    uses: AdobeDocs/commerce-contributor/.github/workflows/validate-pr.yml@main
+    uses: AdobeDocs/commerce-contributor/.github/workflows/validate-pr.yml@fix-remark-lint-reporting-4771e
     with:
       pr_number: ${{ github.event.pull_request.number }}
       base_ref: ${{ github.event.pull_request.base.ref }}
