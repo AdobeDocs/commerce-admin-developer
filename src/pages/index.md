@@ -5,13 +5,13 @@ keywords:
   - Extensions
 ---
 
-<Hero slots="image, heading, text"/>
+<SuperHero slots="image, heading, text"/>
 
 ![Commerce Admin Development](_images/home-bg.jpeg)
 
 # Commerce Admin Development
 
-Learn how to customize the Adobe Commerce and Magento Open Source Admin application for PHP extensions. See the [Adobe Commerce Admin UI SDK](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/) documentation for updating the Admin for apps developed with Adobe Developer App Builder.
+Learn how to customize the Adobe Commerce and Magento Open Source Admin application for PHP extensions.
 
 <Resources slots="heading, links"/>
 
@@ -25,6 +25,8 @@ Learn how to customize the Adobe Commerce and Magento Open Source Admin applicat
 
 This documentation provides resources for customizing the Adobe Commerce and Magento Open Source Admin application.
 
+See the [Adobe Commerce Admin UI SDK](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/) documentation for updating the Admin for apps developed with Adobe Developer App Builder.
+
 ## Discover
 
 Use these sections to learn about customizing the Admin application.
@@ -33,13 +35,13 @@ Use these sections to learn about customizing the Admin application.
 
 ### Sections
 
-[Style Guide](style-guide/)
+[Style Guide](style-guide/index.md)
 
 Explore foundational design, writing, and content standards for the Admin.
 
 <DiscoverBlock slots="link, text"/>
 
-[Design Pattern Library](pattern-library/)
+[Design Pattern Library](pattern-library/index.md)
 
 Use these patterns to customize Admin user interfaces.
 

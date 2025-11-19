@@ -1,11 +1,14 @@
 ---
 title: Timeline Dashboard | Commerce Admin Development
 description: Learn about design standards for the timeline dashboard in the Adobe Commerce Admin application.
-edition: paas
 keywords:
   - Extensions
   - Staging
 ---
+
+<Edition slot="text"/>
+
+[PaaS only](https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions)
 
 # Timeline dashboard
 
@@ -84,10 +87,10 @@ This is an alternative view to the timeline in data table format. The functional
 
 ## Styling
 
-### Updates schedule:
+### Updates schedule
 
 ![](../../_images/pattern-library/style_staging_dashboard.jpg)
 
-### Update Summary, in Overlay Window:
+### Update Summary, in Overlay Window
 
 ![](../../_images/pattern-library/style-summary.jpg)

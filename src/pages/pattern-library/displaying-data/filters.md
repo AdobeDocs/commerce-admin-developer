@@ -29,11 +29,9 @@ To access the Advanced Filters the user may click/tap the "Filters" button found
 
 ![](../../_images/pattern-library/filter_init.png)
 
-{%
-include note.html
-type='tip'
-content='Not all columns may be filtered (i.e. **Actions** or checkbox select) and therefore will not be presented in the list of filters even though their columns are visible in the data-table.'
-%}
+<InlineAlert variant="info" />
+
+Not all columns may be filtered (i.e. **Actions** or checkbox select) and therefore will not be presented in the list of filters even though their columns are visible in the data-table.
 
 ![](../../_images/pattern-library/filter_drawer.png)
 

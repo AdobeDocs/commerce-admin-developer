@@ -165,7 +165,7 @@ Top/Bottom margin spacing should not be less than 10px
 
 Left/Right margin spacing should not be less than 20px
 
-#### Tertiary Button Example:
+#### Tertiary Button Example
 
 ![](../../_images/pattern-library/TertiaryExample.png)
 
@@ -215,7 +215,7 @@ Top/Bottom margin spacing should not be less than 10px
 
 Left/Right margin spacing should not be less than 10px
 
-#### Quaternary Button Example:
+#### Quaternary Button Example
 
 ![](../../_images/pattern-library/TableButtonExample.png)
 
@@ -283,13 +283,13 @@ Top/Bottom margin spacing should not be less than 10px
 
 Left/Right margin spacing should not be less than 10px
 
-#### Examples of toggle buttons:
+#### Examples of toggle buttons
 
 ![](../../_images/pattern-library/TableWToggle.png)
 
 ## Accessibility
 
-*  [Keyboard shortcuts in Windows](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
-*  [Mac keyboard shortcuts](http://support.apple.com/en-us/HT201236)
+*  [Keyboard shortcuts in Windows](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec)
+*  [Mac keyboard shortcuts](https://support.apple.com/en-us/102650)
 
 (Keyboard shortcut same as checkbox)

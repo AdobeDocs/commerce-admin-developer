@@ -237,11 +237,9 @@ To access the Advanced Filters the user may click/tap the "Filters" button found
 
 ![](../../_images/pattern-library/filter_init.png)
 
-{%
-include note.html
-type='tip'
-content='Not all columns may be filtered (such as **Actions** or checkbox select) and therefore will not be presented in the list of filters even though their columns are visible in the data-table.'
-%}
+<InlineAlert variant="info" />
+
+Not all columns may be filtered (such as **Actions** or checkbox select) and therefore will not be presented in the list of filters even though their columns are visible in the data-table.
 
 ![](../../_images/pattern-library/filter_drawer.png)
 
@@ -254,38 +252,6 @@ To apply filters, the user sets the desired parameters in the input fields of th
 Users may remove a filter setting by clicking/tapping the remove control next to the filter 'tag'. Doing so removes the particular filter from the *query*, the table refreshes and the data excluded by that filter then appears in the table. The user can quickly remove all applied filters by clicking/tapping the "clear all" link that follows the list of 'filter tags'.
 
 ![](../../_images/pattern-library/filter_remove.png)
-
-<!---
-### Quick Filters
-
-In some instances, pre-determined "quick filters" may be present in the form of links. These are filter shortcuts of common filtering attributes to assist users who may not readily consider filtering the table for results. Quick Filters are perhaps most useful for extracting 'reports' from tables.  These filters are elevated above the 'advanced filters'.
-
-<strong>Step 1:</strong> Starting state. User click on a quick filter link.
-<br />
-<br />
-<br />
-![](../../_images/pattern-library/datatable35.jpg)
-<br />
-<br />
-<br />
-<strong>Step 2:</strong> Quick filter is applied.
-Once user click on the quick filters, that quick filter is shown as a chip. The user can add additional quick filters.
-<br />
-<br />
-<br />
-![](../../_images/pattern-library/datatable36.jpg)
-<br />
-<br />
-<br />
-<strong>Example:</strong> Quick filters and active filters are present.
-<br />
-<br />
-<br />
-![](../../_images/pattern-library/datatable37.jpg)
-<br />
-<br />
-<br />
--->
 
 ## Data Table Views
 
@@ -360,11 +326,9 @@ The data table can also accommodate buttons in rows, and has a special case in t
 
 Single item and multiple item edits are explained below.
 
-{%
-include note.html
-type='tip'
-content='Not all data-tables will allow for inline editing.'
-%}
+<InlineAlert variant="info" />
+
+Not all data-tables will allow for inline editing.
 
 ### Single Item Select and Edit Interactions
 
@@ -397,11 +361,9 @@ When dropped on an area that is not highlighted (or off target of the highlighte
 
 Some data-tables will allow users to specify an order for the records within the table. If a position has been assigned to a record, the position number will display in the 'Position' column. Changing position order should always shift the greater numbers in an ascending fashion, and lesser numbers in a descending fashion. E.G., if position 5 is changed to 10, the previous position 10 would become position 11, shifting all ascending records up. Position 6 through 9 would then shift down in the same manner. 6 would become 5, 7 would become 6, so on and so forth. If the 'Position' column is sorted, users can drag and drop single or multiple(once selected) to a different position on the table.
 
-{%
-include note.html
-type='tip'
-content='Inline editing functionality should not be available for tables that require drag and drop functionality for table rows.'
-%}
+<InlineAlert variant="info" />
+
+Inline editing functionality should not be available for tables that require drag and drop functionality for table rows.
 
 ### Single rows may be arranged via drag and drop
 

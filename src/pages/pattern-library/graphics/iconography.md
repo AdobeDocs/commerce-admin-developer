@@ -53,8 +53,6 @@ How to use the icon grid:
 
 We recommend using icon fonts to get the best quality for your icons. The Commerce icon fonts can be found in _app/design/adminhtml/Magento/backend/web/fonts/admin-icons_
 
-{% include design/icon-fonts.md %}
-
 ## Accessibility
 
 Efforts should be made to optimize icons and/or icon fonts for assistive technology.
@@ -74,12 +72,12 @@ From: [http://getbootstrap.com/components/](http://getbootstrap.com/components/)
 <span><span class="icon-star" aria-hidden="true"></span>Favorite</span>
 ```
 
-From: [http://www.filamentgroup.com/lab/bulletproof_icon_fonts.html](http://www.filamentgroup.com/lab/bulletproof_icon_fonts.html)
+From: [Bulletproof Accessible Icon Fonts](https://www.filamentgroup.com/lab/bulletproof_icon_fonts.html)
 
 ### How to make your icon font accessible in three easy steps
 
-Icons, if in fonts or not, should be very descriptive, especially if they stand on their own. If in doubt, add a descriptive text so users can find out what it means. (In the pre-touch era of web design I'd just have recommended a `title attribute, but those times are over.)
+Icons, whether font-based or not, should be very descriptive, especially if they stand on their own. If in doubt, add descriptive text so users can find out what it means.
 
-1. Don't ever use "regular letters" for icons. Use a service like Icomoon and use the private use area (PUA) of the font. Those areas are specifically made for this usage and don't have any letters attached to it. Screen readers won't read letters in the PUA.
+1. Never use "regular letters" for icons. Use a service like [Icomoon](https://icomoon.io/) and use the private use area (PUA) of the font. Those areas are specifically made for this usage and do not have any letters attached to them. Screen readers will not read letters in the PUA.
 1. Use colors with enough contrast for your icons.
-1. Never use an icon without a text (that you may hide). As icons are not read out, we don't have any hint for a screen reader user what actually is on the screen, an alternative text is important as long as the content doesn't make sense without an icon at all.
+1. Never use an icon without text (that you may hide). Since icons are not read aloud by screen readers, alternative text is essential to help users understand what is on the screen. Alternative text can be omitted only if the content makes sense without the icon.

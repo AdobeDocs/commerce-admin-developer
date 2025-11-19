@@ -21,66 +21,52 @@ However, many terms use lowercase including: merchant, developer, home page, sta
 
 ## Title case
 
-### Use For ...
+### 'Use For ...'
 
 *  **Headings.** See more Headings guidance.
 *  **Button labels and links.** ONLY use title case when a link are used as a call to action. See more Buttons and Links Usage guidance.
 
-### Capitalize ...
+### 'Capitalize ...'
 
-<ul>
-  <li><strong>The first letter of the first and last words.</strong></li>
-  <li><strong>The second word of a compound, hyphenated word.</strong> Exception: When the first word in the hyphenation is not a prefix ... <em>Prefix examples:</em> anti-, pre-, post-<br />
-  <em>Examples:</em><br /><br />
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – "Best-rated Platform Software"</li>
-      <li>Yes – "Best-Rated Platform Software"</li>
-    </ul>
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – "Post-Launch Instructions"</li>
-      <li>Yes – "Post-launch Instructions"</li>
-    </ul>
-  </li>
-  <li><strong>All verbs.</strong>
-    <ul>
-      <li><em>Capitalize even the little ones.</em></li>
-      <li><em>Correct examples:</em> Is, Am, Are, Was, Were, Be, Being, and Been.</li>
-    </ul>
-  </li>
-  <li><strong>All parts of verbs.</strong> Includes prepositions, if they are part of phrasal verb ... <em>Correct example:</em> "Turn On"
-    <ul>
-      <li><em>Tip:</em> if you emphasize the word when reading it aloud, then capitalize it."</li>
-      <li><em>Infinitives are not verbs:</em> See infinitives guidance, jump to the <span markdown="1">["Do Not capitalize ..."](capitalization.md#do-not-capitalize-)</span> section.</li>
-    </ul>
-  <em>Examples:</em><br /><br />
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – "Turning Blocks on and off"</li>
-      <li>Yes – "Turning Blocks On and Off"</li>
-      <li>Yes – "Setting Up a Catalog"</li>
-      <li>Yes – "Turning On the Service"</li>
-    </ul>
-    </li>
-</ul>
+- **The first letter of the first and last words.**
+- **The second word of a compound, hyphenated word.** Exception: When the first word in the hyphenation is not a prefix.  
+  *Prefix examples:* anti-, pre-, post-  
+  *Examples:*
+  - **No** – "Best-rated Platform Software"
+  - Yes – "Best-Rated Platform Software"
 
-### Do not capitalize ...
+  - **No** – "Post-Launch Instructions"
+  - Yes – "Post-launch Instructions"
 
-<ul>
-  <li><strong>Words following prefixes.</strong> For guidance, jump to the <span markdown="1">["Capitalize ... "](capitalization.md#capitalize-)</span>section and find the prefixes and compound, hyphenated words guidance.</li>
-  <li><strong>Articles.</strong> ... <em>Correct examples:</em> a, an, the</li>
-  <li><strong>Conjunctions.</strong> ... <em>Correct examples:</em> and, but, for, or, nor</li>
-  <li><strong>Prepositions of fewer than four letters.</strong> Includes the "to" in infinitives. <em>See example:</em>
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – "The Key To Customer Service In An Omnichannel World"</li>
-      <li>Yes – "The Key to Customer Service in an Omnichannel World"</li>
-    </ul>
-    </li>
-  <li><strong>Brand or company names that use a lowercase initial letter.</strong> ... <em>Tip:</em> Rephrase a heading or sentence to avoid starting with a lowercase letter. <em>See example:</em>
-    <ul style="list-style-type:none">
-      <li><strong>No</strong> – "EBay, IPod, IPhone"</li>
-      <li>Yes – "eBay, iPod, iPhone"</li>
-    </ul>
-  </li>
-</ul>
+- **All verbs.**
+  - *Capitalize even the little ones.*
+  - *Correct examples:* Is, Am, Are, Was, Were, Be, Being, and Been.
+
+- **All parts of verbs.** Includes prepositions, if they are part of a phrasal verb. *Correct example:* "Turn On".
+
+  - *Tip:* If you emphasize the word when reading it aloud, then capitalize it.
+  - *Infinitives are not verbs:* See infinitives guidance, jump to the ["Do Not capitalize ..."](capitalization.md#do-not-capitalize-) section.
+
+  *Examples:*
+  - **No** – "Turning Blocks on and off"
+  - Yes – "Turning Blocks On and Off"
+  - Yes – "Setting Up a Catalog"
+  - Yes – "Turning On the Service"
+
+### 'Do not capitalize ...'
+
+- **Words following prefixes.** For guidance, jump to the ["Capitalize ... "](capitalization.md#capitalize-) section and find the prefixes and compound, hyphenated words guidance.
+- **Articles.** ... *Correct examples:* a, an, the
+- **Conjunctions.** ... *Correct examples:* and, but, for, or, nor
+- **Prepositions of fewer than four letters.** Includes the "to" in infinitives. *See example:*
+  
+  - **No** – "The Key To Customer Service In An Omnichannel World"
+  - Yes – "The Key to Customer Service in an Omnichannel World"
+
+- **Brand or company names that use a lowercase initial letter.** ... *Tip:* Rephrase a heading or sentence to avoid starting with a lowercase letter. *See example:*
+  
+  - **No** – "EBay, IPod, IPhone"
+  - Yes – "eBay, iPod, iPhone"
 
 ## All caps
 
@@ -93,14 +79,14 @@ Use only in and acronyms and address formats. For more details, see:
 
 Use capitalization standards, as specified in the Glossary and Word Usage Bank, and focus on the following rules.
 
-### Capitalize ...
+### Capitalize
 
 *  **Numbered items.** Capitalize when referring to a numbered object. ... *Correct examples:* Slide 5, Exercise 3, Table 4.2, Figure 9
 *  **Admin panel.** Capitalize the word "Admin" in the term "Admin panel" — but panel remains lowercase.
 *  **UI names.** Use initial caps, where the Glossary and Word Usage Bank specify.
 *  **Lists' first word, initial capped.** See more "Lists" for guidance in Content Formats.
 
-### Do not capitalize ...
+### Do not capitalize
 
 *  **Steps.** Lowercase "page" or "step" when referring to pages in a document or steps in a procedure.
 *  **Global internet terms.** ... *Correct examples:* website, internet, online, email

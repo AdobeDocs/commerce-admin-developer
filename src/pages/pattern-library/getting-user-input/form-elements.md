@@ -194,4 +194,4 @@ For specific details concerning styling including fonts, colors and effects and 
 
 ## Accessibility
 
-Follow this guideline: [http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms](http://www.w3.org/TR/WCAG10-HTML-TECHS/#forms).
+Follow this guideline for form elements: [https://www.w3.org/TR/WCAG10-HTML-TECHS/](https://www.w3.org/TR/WCAG10-HTML-TECHS/).
