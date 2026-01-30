@@ -6,6 +6,7 @@
 .history
 .idea
 .editorconfig
+.cursor
 
 # npm yarn
 node_modules
@@ -13,16 +14,6 @@ package.lock
 yarn-error.log
 .pnp.*
 .yarn/*
-
-# keep in repo
-!.gitignore
-!.yarn.lock
-!.yarnrc.yml
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/sdks
-!.yarn/versions
 
 # gatsby files
 .env
@@ -44,3 +35,6 @@ local-test.yml
 # yalc
 .yalc
 yalc.lock
+
+# local
+tmp
