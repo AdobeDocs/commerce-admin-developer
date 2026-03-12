@@ -31,7 +31,7 @@ Buttons can be used for:
 
 Button types are primary, secondary, and tertiary. Each page should have a maximum limit of one primary button. Split buttons include multiple actions. Button counts in a Button Bar or any array of buttons should be limited to four buttons, maximum.
 
-**For design specs,** see [Buttons](https://developer.adobe.com/commerce/admin-developer/pattern-library/controls/buttons/) and [Button Bar](https://developer.adobe.com/commerce/admin-developer/pattern-library/controls/button-bar/) patterns.
+**For design specs,** see [Buttons](../../pattern-library/controls/buttons.md) and [Button Bar](../../pattern-library/controls/button-bar.md) patterns.
 
 ## Links
 
