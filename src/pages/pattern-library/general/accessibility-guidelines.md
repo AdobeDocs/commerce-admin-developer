@@ -13,7 +13,7 @@ The application should be accessible for all people, whatever their hardware, so
 
 -  **Be mindful of text length**—Don't make textual content too long or too short.
 
--  **Provide adequate contrast**—Be extra careful with light shades of gray, orange, and yellow. Check your contrast levels here: [https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/) or here: [https://www.tpgi.com/color-contrast-checker/](https://www.tpgi.com/color-contrast-checker/)
+-  **Provide adequate contrast**—Be extra careful with light shades of gray, orange, and yellow. Check your contrast levels here: [https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/) or here: [https://vispero.com/lp/color-contrast-checker/](https://vispero.com/lp/color-contrast-checker/)
 
    **Acceptable**
 
@@ -37,7 +37,7 @@ The application should be accessible for all people, whatever their hardware, so
 
    **Examples:**
 
-   -  [https://www.nomensa.com/](https://www.nomensa.com/)
+   -  [https://www.thisisgain.com/experience?from=nomensa&path=](https://www.thisisgain.com/experience?from=nomensa&path=)
    -  [https://www.paypal.com/](https://www.paypal.com/)
    -  [https://www.sc.com/en/](https://www.sc.com/en/)
    -  [http://nemesisdesign.net/blog/accessibility/nice-css-skip-links-appearing-focus/](http://nemesisdesign.net/blog/accessibility/nice-css-skip-links-appearing-focus/)
