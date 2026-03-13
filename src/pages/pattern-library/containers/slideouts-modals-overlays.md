@@ -172,10 +172,10 @@ Sample of progress bar in modal
 
 Modal windows are implemented by the following jQuery widgets:
 
-*  [modal](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/modal/)
-*  [alert](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/alert/) (extends modal)
-*  [confirm](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/confirm/) (extends modal)
-*  [prompt](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/prompt/) (extends modal)
+*  [modal](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/modal)
+*  [alert](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/alert) (extends modal)
+*  [confirm](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/confirm) (extends modal)
+*  [prompt](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/prompt) (extends modal)
 
 ## Overlays
 
@@ -227,4 +227,4 @@ Data-table with Confirmation Message
 
 ## Technical Implementation
 
-Technically slideouts and modals are implemented using the [modal widget](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/modal/) or the [modal UI component](https://developer.adobe.com/commerce/frontend-core/ui-components/components/modal/).
+Technically slideouts and modals are implemented using the [modal widget](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/modal) or the [modal UI component](https://developer.adobe.com/commerce/frontend-core/ui-components/components/modal).
