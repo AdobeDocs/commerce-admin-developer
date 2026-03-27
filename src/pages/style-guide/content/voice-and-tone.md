@@ -1,6 +1,6 @@
 ---
 title: Voice and tone | Commerce Admin Development
-description: Leanr how to write custom content using the proper voice and tone for the Adobe Commerce and Magento Open Source Admin application.
+description: Learn how to write custom content using the proper voice and tone for the Adobe Commerce and Magento Open Source Admin application.
 keywords:
   - Extensions
 ---
@@ -23,7 +23,7 @@ Create a consistent tone of communication that sounds like dialogue, as you woul
 
 Write sentences with plain, concise language. Use contractions for verbs. Never use a long word when a shorter word can take its place, and omit unnecessary words.
 
-Content should be gender neutral. To avoid "his" or "her" pronouns, change singular pronouns to plural and use a gender-neutral "their", instead.
+Content should be gender-neutral. To avoid "his" or "her" pronouns, change singular pronouns to plural and use a gender-neutral "their", instead.
 
 *Example:*
 
@@ -91,7 +91,7 @@ Active voice uses the subject-verb-object construction. When describing an actio
 
 Passive voice identifies the action's recipient, not the source, as the subject of the verb. Passive voice is more complicated and less engaging.
 
-Use the "zombie test" – if you can put the words "by zombies" after a subject and verb, you're using passive voice. *Passive-voice example:* "Magento Oopen Source is used (by zombies)"
+Use the "zombie test" – if you can put the words "by zombies" after a subject and verb, you're using passive voice. *Passive-voice example:* "Magento Open Source is used (by zombies)"
 
 *Example:*
 
