@@ -34,7 +34,7 @@ In its initial state the sign-in module consists of
 *  a link to retrieve the user's password
 *  a button to submit the user's credentials – **Sign in**
 
-![](../../_images/pattern-library/Sign-in_initial.png)
+![Sign in initial](../../_images/pattern-library/Sign-in_initial.png)
 
 ### Error state
 
@@ -45,7 +45,7 @@ In the event that invalid credentials are submitted the sign-in module consists 
 *  a link to retrieve the user's password
 *  a button to submit the user's credentials – **Sign in**
 
-![](../../_images/pattern-library/Sign-in_error.png)
+![Sign in error](../../_images/pattern-library/Sign-in_error.png)
 
 ### Password retrieval
 
@@ -56,7 +56,7 @@ If the user opts to retrieve their password via the hyperlink ("Forgot your pass
 *  a text field to enter the user's email address used at the time of registration; a button to submit the user's email address and initiate the process – **Retrieve Password**
 *  a link to cancel the retrieval and return to the initial state of the sign-in module – "Back to Sign in"
 
-![](../../_images/pattern-library/Sign-in_password-retrieval.png)
+![Sign in password retrieval](../../_images/pattern-library/Sign-in_password-retrieval.png)
 
 ### Confirmation of password retrieval
 
@@ -66,7 +66,7 @@ Once a user submits their email address to retrieve their password, the module w
 *  text confirming that an email has been sent
 *  a link to return to the initial state of the sign-in module – "Back to Sign in"
 
-![](../../_images/pattern-library/Sign-in_password-retrieval_confirmation.png)
+![Sign in password retrieval confirmation](../../_images/pattern-library/Sign-in_password-retrieval_confirmation.png)
 
 ### Error of password retrieval
 
@@ -77,7 +77,7 @@ In the event that the user enters an invalid email address, either by mistyping 
 *  a text field to enter the user's email address used at the time of registration; a button to submit the user's email address and initiate the process – Retrieve Password
 *  a link to cancel the retrieval and return to the initial state of the sign-in module – "Back to Sign in"
 
-![](../../_images/pattern-library/Sign-in_password-retrieval_error.png)
+![Sign in password retrieval error](../../_images/pattern-library/Sign-in_password-retrieval_error.png)
 
 ### Successful sign-out
 
@@ -88,7 +88,7 @@ When the user signs out of the system they are presented with the sign-in module
 *  a link to retrieve the user's password
 *  a button to submit the user's credentials – **Sign in**.
 
-![](../../_images/pattern-library/Sign-in_successful-signout.png)
+![Sign in successful signout](../../_images/pattern-library/Sign-in_successful-signout.png)
 
 ## Style
 
@@ -98,24 +98,24 @@ The module container should be centered in the browser and should be some percen
 
 ### Initial state
 
-![](../../_images/pattern-library/Sign-in_initial.png)
+![Sign in initial](../../_images/pattern-library/Sign-in_initial.png)
 
 ### Error state
 
-![](../../_images/pattern-library/Sign-in_error.png)
+![Sign in error](../../_images/pattern-library/Sign-in_error.png)
 
 ### Password Retrieval
 
-![](../../_images/pattern-library/Sign-in_password-retrieval.png)
+![Sign in password retrieval](../../_images/pattern-library/Sign-in_password-retrieval.png)
 
 ### Confirmation of password retrieval
 
-![](../../_images/pattern-library/Sign-in_password-retrieval_confirmation.png)
+![Sign in password retrieval confirmation](../../_images/pattern-library/Sign-in_password-retrieval_confirmation.png)
 
 ### Error of password retrieval
 
-![](../../_images/pattern-library/Sign-in_password-retrieval_error.png)
+![Sign in password retrieval error](../../_images/pattern-library/Sign-in_password-retrieval_error.png)
 
 ### Successful sign-out
 
-![](../../_images/pattern-library/Sign-in_successful-signout.png)
+![Sign in successful signout](../../_images/pattern-library/Sign-in_successful-signout.png)

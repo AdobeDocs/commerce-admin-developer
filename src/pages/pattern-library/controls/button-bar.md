@@ -37,11 +37,11 @@ For solutions not described in this article, please refer to other related patte
 
 #### Button Bar Position in Page
 
-![](../../_images/pattern-library/position-in-page.jpg)
+![Position in page](../../_images/pattern-library/position-in-page.jpg)
 
 #### Button Bar Position in Slide-in Panel
 
-![](../../_images/pattern-library/position-in-modal.jpg)
+![Position in modal](../../_images/pattern-library/position-in-modal.jpg)
 
 ### Page Level Button Order and Priority - General Rules
 
@@ -60,26 +60,26 @@ Page level buttons can be logically grouped as follows:
 
 Groups can contain multiple CTAs but only one primary CTA. Groups should follow the below order:
 
-![](../../_images/pattern-library/buttonbar1.png)
+![Button bar 1](../../_images/pattern-library/buttonbar1.png)
 
 ### Ordering by Importance
 
 There should never be more than one primary page level CTA on the same page. Page level CTAs should assume an ascending order of importance from left to right wherever possible, i.e. least important buttons followed by most important.
 
-![](../../_images/pattern-library/buttonbar-importance.png)
+![Button bar importance](../../_images/pattern-library/buttonbar-importance.png)
 
 ## Style
 
 All buttons should be right aligned. The button bar is spread across 12 columns and should be fluid.
 
-![](../../_images/pattern-library/buttonbar-style.jpg)
+![Button bar style](../../_images/pattern-library/buttonbar-style.jpg)
 
 ## Recommendation
 
 1. It is recommended that all buttons in button bar should only be in one line. Because the button bar is in fluid grid, it is possible for the buttons to be wrap around to the next line.
 1. If you have multiple page-level buttons. We recommend using the split button rather having too many buttons that will clutter the page.
 
-![](../../_images/pattern-library/button-bar-with-splitbutton.jpg)
+![Button bar with splitbutton](../../_images/pattern-library/button-bar-with-splitbutton.jpg)
 
 ## Sticky button bar
 
@@ -87,11 +87,11 @@ To ensure page level actions are always visible, The button bar should stick to 
 
 ### Initial State
 
-![](../../_images/pattern-library/button-bar-sticky1.jpg)
+![Button bar sticky 1](../../_images/pattern-library/button-bar-sticky1.jpg)
 
 ### After user scrolls, the button bar sticks to the browser
 
-![](../../_images/pattern-library/button-bar-sticky2.jpg)
+![Button bar sticky 2](../../_images/pattern-library/button-bar-sticky2.jpg)
 
 ## Accessibility
 

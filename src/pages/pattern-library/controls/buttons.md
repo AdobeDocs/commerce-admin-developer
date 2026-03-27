@@ -48,7 +48,7 @@ defined style.
 
 ### Page Level Button
 
-![](../../_images/pattern-library/Button_grid01_primary.png)
+![Button grid 01 primary](../../_images/pattern-library/Button_grid01_primary.png)
 
 #### Font details
 
@@ -87,7 +87,7 @@ Left/Right margin spacing should not be less than 20px
 
 ### Dropdown Buttons
 
-![](../../_images/pattern-library/Button_grid03_dropdown.png)
+![Button grid 03 dropdown](../../_images/pattern-library/Button_grid03_dropdown.png)
 
 #### Font details
 
@@ -131,7 +131,7 @@ Left/Right margin spacing should not be less than 20px
 
 ### Tertiary Buttons
 
-![](../../_images/pattern-library/Button_grid02_tertiary.png)
+![Button grid 02 tertiary](../../_images/pattern-library/Button_grid02_tertiary.png)
 
 #### Font details
 
@@ -167,11 +167,11 @@ Left/Right margin spacing should not be less than 20px
 
 #### Tertiary Button Example
 
-![](../../_images/pattern-library/TertiaryExample.png)
+![Tertiary example](../../_images/pattern-library/TertiaryExample.png)
 
 ### Quaternary Buttons
 
-![](../../_images/pattern-library/Button_grid02_quaternary.png)
+![Button grid 02 quaternary](../../_images/pattern-library/Button_grid02_quaternary.png)
 
 Quaternary buttons are only after all the buttons hierarchy have been used.
 
@@ -217,7 +217,7 @@ Left/Right margin spacing should not be less than 10px
 
 #### Quaternary Button Example
 
-![](../../_images/pattern-library/TableButtonExample.png)
+![Table button example](../../_images/pattern-library/TableButtonExample.png)
 
 ### Toggle Buttons
 
@@ -285,7 +285,7 @@ Left/Right margin spacing should not be less than 10px
 
 #### Examples of toggle buttons
 
-![](../../_images/pattern-library/TableWToggle.png)
+![Table with toggle buttons](../../_images/pattern-library/TableWToggle.png)
 
 ## Accessibility
 

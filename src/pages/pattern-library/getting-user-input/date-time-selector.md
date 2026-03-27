@@ -17,27 +17,27 @@ Use this element whenever a date, date range, time or time range needs to be gat
 
 ### Single Date Picker
 
-![](../../_images/pattern-library/w-singledate.png)
+![Single date picker](../../_images/pattern-library/w-singledate.png)
 
 ### Date Range Picker
 
-![](../../_images/pattern-library/w-daterange.png)
+![Date range picker](../../_images/pattern-library/w-daterange.png)
 
 ### Single Time Picker
 
-![](../../_images/pattern-library/w-timepicker.png)
+![Time picker](../../_images/pattern-library/w-timepicker.png)
 
 ### Time Range Picker
 
-![](../../_images/pattern-library/w-timerange.png)
+![Time range picker](../../_images/pattern-library/w-timerange.png)
 
 ### Single Date and Time Picker
 
-![](../../_images/pattern-library/w-date&time.png)
+![Date and time picker](../../_images/pattern-library/w-date&time.png)
 
 ### Date and Time Range Picker
 
-![](../../_images/pattern-library/w-date&timerange.png)
+![Date and time range picker](../../_images/pattern-library/w-date&timerange.png)
 
 ## Formats
 
@@ -74,7 +74,7 @@ The following applies to ranges only:
 *  The calendar/time widget will require a unique style for active and inactive areas
 *  User will not be able to select date or time on the To area until selection is made on the From area first
 
-![](../../_images/pattern-library/disabled-state.png)
+![Disabled state](../../_images/pattern-library/disabled-state.png)
 
 (Styles will support a disabled state for areas which depend on sequence for ranges)
 
@@ -117,33 +117,33 @@ MM/DD/YYYY can be confused with DD/MM/YYYY, so please assume the following:
 
 Field selection works the same as a typical text field with
 
-![](../../_images/pattern-library/selection-state.png)
+![Selection state](../../_images/pattern-library/selection-state.png)
 
 ## Style
 
 **Single Date Picker:**
 
-![](../../_images/pattern-library/datepicker.png)
+![Date picker](../../_images/pattern-library/datepicker.png)
 
 **Date Range Picker:**
 
-![](../../_images/pattern-library/rangedatepicker.png)
+![Range date picker](../../_images/pattern-library/rangedatepicker.png)
 
 **Single Time Picker:**
 
-![](../../_images/pattern-library/timepicker.png)
+![Time picker](../../_images/pattern-library/timepicker.png)
 
 **Time Range Picker:**
 
-![](../../_images/pattern-library/timerangepicker.png)
+![Time range picker](../../_images/pattern-library/timerangepicker.png)
 
 **Single Date and Time Picker:**
 
-![](../../_images/pattern-library/date&timepicker.png)
+![Date and time picker](../../_images/pattern-library/date&timepicker.png)
 
 **Date and Time Range Picker:**
 
-![](../../_images/pattern-library/rangedate&timepicker.png)
+![Range date and time picker](../../_images/pattern-library/rangedate&timepicker.png)
 
 ## Accessibility
 
@@ -178,7 +178,7 @@ Keyboard navigation on days that are not included the currently displayed month 
 *  Ctrl+Space multiple selection of certain days.
 *  Esc closes a DatePicker that is opened as a Popup.
 
-Do not implement keyboard navigation schemes that would place more than one calendar day in the tab order at any time as this impacts the usability of keyboard navigation. For example, using HTML anchors for the gridcells places them all in the tab order impacting the usability of keyboard navigation.
+Do not implement keyboard navigation schemes that would place more than one calendar day in the tab order at any time as this impacts the usability of keyboard navigation. For example, using HTML anchors for the grid cells places them all in the tab order impacting the usability of keyboard navigation.
 
 ### WAI-ARIA Roles, States, and Properties
 
@@ -191,7 +191,7 @@ Do not implement keyboard navigation schemes that would place more than one cale
 *  When a day is selected it should have aria-selected="true" otherwise it should be set to "false" or removed.
 *  Changes in aria states, identified here, as well as focus, should be clearly styled to show the user where their point of regard is and what days are selected.
 
-When the datepicker is active a calendar day of the week should always have focus. This can be achieved by setting the tabindex on that day as appropriate and then using script to give it focus. Alternatively, the grid container could set aria-activedescendant to the id of the currently focused gridcell. Keep in mind that older browsers may not support aria-activedescendant.
+When the date picker is active a calendar day of the week should always have focus. This can be achieved by setting the tabindex on that day as appropriate and then using script to give it focus. Alternatively, the grid container could set aria-activedescendant to the id of the currently focused gridcell. Keep in mind that older browsers may not support aria-activedescendant.
 
 ### Time Picker Widget
 

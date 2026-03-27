@@ -46,7 +46,7 @@ In general, it is not recommended to use the progress bar if the process can be 
 
 **States Diagram:**
 
-![](../../_images/pattern-library/progressbar-behavior-diagram.png)
+![Progressbar behavior diagram](../../_images/pattern-library/progressbar-behavior-diagram.png)
 
 1. **Process Trigger**
 
@@ -54,11 +54,11 @@ In general, it is not recommended to use the progress bar if the process can be 
 
 1. **Starting State**
 
-   ![](../../_images/pattern-library/progressbar-starting-state.png)
+   ![Progressbar starting state](../../_images/pattern-library/progressbar-starting-state.png)
 
 1. **Progressing**
 
-   ![](../../_images/pattern-library/progressbar-progressing.png)
+   ![Progressbar progressing](../../_images/pattern-library/progressbar-progressing.png)
 
 1. **Success**
 
@@ -68,11 +68,11 @@ In general, it is not recommended to use the progress bar if the process can be 
 
    The progress bar will disappeared and is replaced with this error message.
 
-   ![](../../_images/pattern-library/progressbar-failed.png)
+   ![Progressbar failed](../../_images/pattern-library/progressbar-failed.png)
 
 ## Variations
 
-![](../../_images/pattern-library/variations.png)
+![Variations](../../_images/pattern-library/variations.png)
 
 ## Style
 
@@ -80,10 +80,10 @@ In general, it is not recommended to use the progress bar if the process can be 
 
 The spinner can be any of these 4 sizes.
 
-![](../../_images/pattern-library/style-spinner.png)
+![Style spinner](../../_images/pattern-library/style-spinner.png)
 
 ### Progress Bar
 
 Refer to Messaging Pattern for final styling on error message.
 
-![](../../_images/pattern-library/style-progressbar.png)
+![Style progressbar](../../_images/pattern-library/style-progressbar.png)

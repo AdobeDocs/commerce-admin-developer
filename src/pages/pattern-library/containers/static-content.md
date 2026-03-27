@@ -31,11 +31,11 @@ The following example, shows two sets of parent & child containers. Each parent 
 
 The parent container structure: title, rule, content.
 
-![](../../_images/pattern-library/Var1-structure.png)
+![Var 1 structure](../../_images/pattern-library/Var1-structure.png)
 
 #### Styling
 
-Note that because the children containers can be any variations of other content containers, refer to other variations for styling. ![](../../_images/pattern-library/Var1-style.png)
+Note that because the children containers can be any variations of other content containers, refer to other variations for styling. ![Var 1 style](../../_images/pattern-library/Var1-style.png)
 
 ### Title with Body of Text
 
@@ -43,7 +43,7 @@ Note that because the children containers can be any variations of other content
 
 **Height:** as needed
 
-![](../../_images/pattern-library/Var2-style.png)
+![Var 2 style](../../_images/pattern-library/Var2-style.png)
 
 ### Title with Differentiated Rows
 
@@ -53,7 +53,7 @@ Note that because the children containers can be any variations of other content
 
 This is used to clearly separate information for users to easily digest. The first row should be grey, and then, the rows alternate between grey and white.
 
-![](../../_images/pattern-library/Var3-style.png)
+![Var 3 style](../../_images/pattern-library/Var3-style.png)
 
 ### Pricing Breakdown chart
 
@@ -63,4 +63,4 @@ This is used to clearly separate information for users to easily digest. The fir
 
 This is used to clearly separate information for users to easily digest.
 
-![](../../_images/pattern-library/Var4-style.png)
+![Var 4 style](../../_images/pattern-library/Var4-style.png)

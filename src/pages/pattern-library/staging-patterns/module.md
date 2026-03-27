@@ -25,36 +25,36 @@ The scheduled changes module, as defined below, should only be used with stage-a
 
 When no updates are available to be displayed on the timeline.
 
-![](../../_images/pattern-library/sc-Module-empty.jpg)
+![Scheduled changes module empty](../../_images/pattern-library/sc-Module-empty.jpg)
 
 ### Multiple Updates View
 
 Shows when several updates are scheduled for a stage-able entity.
 
-![](../../_images/pattern-library/sc-Module-multiple-updates.jpg)
+![Scheduled changes module multiple updates](../../_images/pattern-library/sc-Module-multiple-updates.jpg)
 
 ### Single Update View
 
 When a single update is scheduled, the module's default height is the same as the Multiple Updates View. Users can re-size the module, using the dragger at the bottom of the module.
 
-![](../../_images/pattern-library/sc-Module-single-update.jpg)
+![Scheduled changes module single update](../../_images/pattern-library/sc-Module-single-update.jpg)
 
 ### Loading More Updates
 
 The "Load More" button appears at the bottom of the list of scheduled updates. By default, 5 scheduled updates are displayed. To view more, users can click "Load More" to add the next set of scheduled updates.
 
-![](../../_images/pattern-library/sc-Module-load-more.jpg)
+![Scheduled changes module load more](../../_images/pattern-library/sc-Module-load-more.jpg)
 
 ## Styling
 
 ### No Updates View
 
-![](../../_images/pattern-library/style-empty.jpg)
+![Style empty](../../_images/pattern-library/style-empty.jpg)
 
 ### Single Update View - minimum height
 
-![](../../_images/pattern-library/style-min-ht.jpg)
+![Style minimum height](../../_images/pattern-library/style-min-ht.jpg)
 
 ### Multiple Updates View style
 
-![](../../_images/pattern-library/styles-font.jpg)
+![Styles font](../../_images/pattern-library/styles-font.jpg)

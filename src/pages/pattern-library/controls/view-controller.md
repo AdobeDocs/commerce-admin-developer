@@ -19,7 +19,7 @@ Only use for switching between views of data set.
 
 Follow are variations of icons to use for their corresponding data set views:
 
-![](../../_images/pattern-library/variation.jpg)
+![Variation](../../_images/pattern-library/variation.jpg)
 
 ## Behavior
 
@@ -27,21 +27,21 @@ User switches between the views using the view controller. User can click on the
 
 In this case, user select data table view control, the data table view is shown.
 
-![](../../_images/pattern-library/behavior.jpg)
+![Behavior](../../_images/pattern-library/behavior.jpg)
 
 Then, the user can also switch back to tile view in this example.
 
-![](../../_images/pattern-library/behavior2.jpg)
+![Behavior 2](../../_images/pattern-library/behavior2.jpg)
 
 ## Placement
 
 The view control should always be placed as the most right item on the same row as filter options.
 
-![](../../_images/pattern-library/Placement.jpg)
+![Placement](../../_images/pattern-library/Placement.jpg)
 
 ## Style
 
-![](../../_images/pattern-library/style.jpg)
+![Style](../../_images/pattern-library/style.jpg)
 
 ## Accessibility
 

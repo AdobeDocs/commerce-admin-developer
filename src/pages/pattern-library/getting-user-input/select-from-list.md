@@ -19,25 +19,25 @@ When user need to select item(s) from a list of items, and each item can be iden
 
 This variation is good for Multi Selection with many options (10+), when the option does not need to be shown immediately or when space needs to be preserved.
 
-![](../../_images/pattern-library/forms_multi-select_formElement2.png)
+![Multi-select dropdown form element](../../_images/pattern-library/forms_multi-select_formElement2.png)
 
 ### Single Select Dropdown
 
 This variation is good for Single Selection with many options (10+), when the option does not need to be shown immediately or when space needs to be preserved.mmediately or when space needs to be preserved.
 
-![](../../_images/pattern-library/forms_single-select_formElement.png)
+![Single-select dropdown form element](../../_images/pattern-library/forms_single-select_formElement.png)
 
 ### Multi-Select List Box
 
 The advantage of a list box is that it exposes more options to the user. The list can be made scroll-able when space is a consideration and/or the list is long. A list box is mandatory when the list of options exceeds 6 items.
 
-![](../../_images/pattern-library/listbox-multi.png)
+![Multi-select list box](../../_images/pattern-library/listbox-multi.png)
 
 ### Single Select List Box
 
 The advantage of a list box is that it exposes more options to the user. The list can be made scroll-able when space is a consideration and/or the list is long. A list box is mandatory when the list of options exceeds 6 items.
 
-![](../../_images/pattern-library/Listbox-single.png)
+![Single-select list box](../../_images/pattern-library/Listbox-single.png)
 
 ## Accessibility
 

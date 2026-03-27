@@ -19,7 +19,7 @@ Tree component will be needed anytime it is required to navigate though multiple
 
 The tree consists of two main "Anchors" and "Links":
 
-![](../../_images/pattern-library/treecomponents.jpg)
+![Tree components](../../_images/pattern-library/treecomponents.jpg)
 
 ### Anchors
 
@@ -49,13 +49,13 @@ The arrow to the left of the item can be used to expand or collapses the childre
 
 Clicking "Expand All" will open all the nodes in the tree structure. Expand All link is the default state. Once "Expand All" is clicked the link changes to "Collapse All" If user manually expand all the items, this control should also be changed to "Collapse All."
 
-![](../../_images/pattern-library/expandall.jpg)
+![Expand all](../../_images/pattern-library/expandall.jpg)
 
 ### Collapse All
 
 Clicking "Collapse All" will condense all the nodes in the tree structure. Once "Collapse All" is clicked link changes to "Expand All".  If user manually collapsed all the items, this control should also be changed to "Collapse All."
 
-![](../../_images/pattern-library/collpaseall.jpg)
+![Collapse all](../../_images/pattern-library/collpaseall.jpg)
 
 ## Usage: Navigation
 
@@ -63,7 +63,7 @@ This is used to navigate to the detail page of the selected item in the admin or
 
 When tree is used to display more information on the same page the item clicked remains in selected state.
 
-![](../../_images/pattern-library/navigationonlytree.jpg)
+![Navigation only tree](../../_images/pattern-library/navigationonlytree.jpg)
 
 ## Usage: Multi-Select
 
@@ -71,7 +71,7 @@ This is used when multiple selection of items are needed.
 
 ### Multi Select without Icon
 
-![](../../_images/pattern-library/multi-select.jpg)
+![Multi select](../../_images/pattern-library/multi-select.jpg)
 
 ### Multi Select with Icon
 
@@ -79,7 +79,7 @@ This tree has all functionality of multi-select tree along with having icons. Ic
 
 Icons should always be placed on the left of the icon label and Icons should NOT be used as default feature for trees pattern.
 
-![](../../_images/pattern-library/multi-select-wicon.jpg)
+![Multi select with icon](../../_images/pattern-library/multi-select-wicon.jpg)
 
 ### Behavior and Details of Multi Select Tree
 
@@ -97,7 +97,7 @@ Otherwise, the link remain "Select All."
 
 _Note:_ The "Expand All/Collapse All" control can appear simultaneously with the "Select All/Clear All" control. They operate independently.
 
-![](../../_images/pattern-library/selectall-clearall.jpg)
+![Selectall clearall](../../_images/pattern-library/selectall-clearall.jpg)
 
 #### Select Indicators
 
@@ -107,7 +107,7 @@ _Note:_ The "Expand All/Collapse All" control can appear simultaneously with the
 *  Unchecked and Inactive – this state appears when the item is unselected and not active
 *  Checked and Inactive – this state appears when the item is selected and not active.
 
-![](../../_images/pattern-library/states.jpg)
+![States](../../_images/pattern-library/states.jpg)
 
 _3. Checking a checkbox for a child item should automatically change its parent state to:_
 
@@ -136,15 +136,15 @@ Checkboxes and Drag handles are mutually exclusive features. i.e. Tree structure
 
 _Notes:_ Moving the Items in the tree will also affect the parent – child relationship.
 
-![](../../_images/pattern-library/drag-and-arrange-behavior.jpg)
+![Drag and arrange behavior](../../_images/pattern-library/drag-and-arrange-behavior.jpg)
 
 ### Type 1. Drag and Arrange with Icon
 
-![](../../_images/pattern-library/drag-and-arrange.jpg)
+![Drag and arrange](../../_images/pattern-library/drag-and-arrange.jpg)
 
 ### Type 2. Drag and Arrange without Icon
 
-![](../../_images/pattern-library/drag-and-arrange2.jpg)
+![Drag and arrange 2](../../_images/pattern-library/drag-and-arrange2.jpg)
 
 ## Action Menu
 
@@ -154,11 +154,11 @@ The action icon is not required for the tree. It only appear as needed.
 
 _Step 1:_ User click on the action icon.
 
-![](../../_images/pattern-library/action.jpg)
+![Action](../../_images/pattern-library/action.jpg)
 
 _Step 2:_ The list of available actions against this item is shown.
 
-![](../../_images/pattern-library/action2.jpg)
+![Action 2](../../_images/pattern-library/action2.jpg)
 
 _Move Up_ Once clicked, the item should be moved up within the parent. If the item is the first child, it cannot be moved up and the option will be disabled.
 
@@ -181,20 +181,20 @@ There are two types of items that can be added:
 
 The "add child" button should always have more importance than the "add parent" button.
 
-![](../../_images/pattern-library/Placement.jpg)
+![Placement](../../_images/pattern-library/Placement.jpg)
 
 ## Interaction
 
 _Step 1:_ User click on the add button.
 
-![](../../_images/pattern-library/add1.jpg)
+![Add 1](../../_images/pattern-library/add1.jpg)
 
 _Step 2:_ A [slide-out panel](../containers/slideouts-modals-overlays.md) should opens up to get the details of what to be added.
 
 _Step 3:_ The item is added. The placement of the items will be determined as stated above.
 
-![](../../_images/pattern-library/add3.jpg)
+![Add 3](../../_images/pattern-library/add3.jpg)
 
 ## Style
 
-![](../../_images/pattern-library/style.jpg)
+![Style](../../_images/pattern-library/style.jpg)

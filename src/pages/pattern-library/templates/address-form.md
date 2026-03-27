@@ -30,7 +30,7 @@ The only variation of this pattern at this time is the North American Address En
 | ZIP/Postal Code | Text Field                          | Yes       |
 | Country         | Dropdown (Default can be localized) | Yes       |
 
-![](../../_images/pattern-library/AddressForm_example01.jpg)
+![Address form example 01](../../_images/pattern-library/AddressForm_example01.jpg)
 
 ## Styling
 
@@ -38,7 +38,7 @@ This pattern will follow the Form standards established in the Form Elements and
 
 ## Usage Example
 
-![](../../_images/pattern-library/AddressForm_example02.jpg)
+![Address form example 02](../../_images/pattern-library/AddressForm_example02.jpg)
 
 ## Assets
 
