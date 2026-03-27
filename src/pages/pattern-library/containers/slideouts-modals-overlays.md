@@ -60,17 +60,17 @@ Close and cancel controls
 
 The user may also click or tap in the "alley" (shaded area) to the left of the active panel to cancel/close the panel. This passive control allows the user to drill down to the desired level without the need to close each panel via the cancel or close controls.
 
-![](../../_images/pattern-library/slideout-panel4.png)
+![Slideout panel 4](../../_images/pattern-library/slideout-panel4.png)
 
 When two panels are open (one over the other), only the topmost is active. Clicking or tapping the in the "alley" (on the edge of the lower panel) the top active panel closes, making the panel underneath active.
 
-![](../../_images/pattern-library/slideout-panel5.png)
+![Slideout panel 5](../../_images/pattern-library/slideout-panel5.png)
 
 Passive close "zone" - one level down
 
 Clicking or tapping the "alley" that represents the parent page (lowest level) will slide each panel out of view, closing them, and return the user to the parent page. It is recommended that no more than two panels be used in any given "task flow".
 
-![](../../_images/pattern-library/slideout-panel6.png)
+![Slideout panel 6](../../_images/pattern-library/slideout-panel6.png)
 
 Passive close "zone" - two levels down
 
@@ -81,7 +81,7 @@ There are two general ways of using Slideout — "Subflow" and "Extend Form".
 
 ### Sub Flow
 
-![](../../_images/pattern-library/slideout-panel10.png)
+![Slideout panel 10](../../_images/pattern-library/slideout-panel10.png)
 
 If the form in slide-in panel creates new entities, or changes existing ones (Create Product Configurations, Add Attribute) primary action in the Slideout Button Bar should be a noun explaining the panel resulting action: "Generate Configurations", "Create Attribute", etc.
 Clicking that button will:
@@ -91,7 +91,7 @@ Clicking that button will:
 
 ### Extend Form
 
-![](../../_images/pattern-library/slideout-panel11.png)
+![Slideout panel 11](../../_images/pattern-library/slideout-panel11.png)
 
 If the Slideout panel is a part of the form, extending it (like Advanced Inventory, or Advanced Pricing), primary action should be labeled as "Done". Clicking it will:
 
@@ -101,7 +101,7 @@ If the Slideout panel is a part of the form, extending it (like Advanced Invento
 Clicking "Cancel" or clicking "&times;" or clicking outside of the panel (passive close) in both cases should reset contents of the current level Slideout form to default state.
 If user made changes to a form, he is presented with the modal window to confirm Cancellation:
 
-![](../../_images/pattern-library/slideout-panel12.png)
+![Slideout panel 12](../../_images/pattern-library/slideout-panel12.png)
 
 Clicking "Yes, Cancel" closes the Modal and Slideout, then resets form to default state. Clicking "Do not Cancel" closes the Modal.
 
@@ -109,19 +109,19 @@ Clicking "Yes, Cancel" closes the Modal and Slideout, then resets form to defaul
 
 In its final position the panel does not snap to the page-grid of the parent page, but rather should respect some distance from the left edge of the browser. This distance provides an "alley" that creates a page-over-page metaphor. This distance should be some % of the viewport, rather than a fixed pixel width, to accommodate for variations in browser widths.
 
-![](../../_images/pattern-library/slideout-panel7.png)
+![Slideout panel 7](../../_images/pattern-library/slideout-panel7.png)
 
 Panel position in relation to browser edge
 
 A 12-column page-grid is nested inside the content area of the slideout panel, with an additional 15px of padding added to the left edge.
 
-![](../../_images/pattern-library/slideout-panel8.png)
+![Slideout panel 8](../../_images/pattern-library/slideout-panel8.png)
 
 Nested page-grid with additional padding
 
 This method of nesting a 12-column page-grid inside the slideout panel is repeated with each subsequent panel. This is done so that the panels can easily accommodate established page templates used in the Commerce framework. With each additional panel, the position of the active panel should indent to create the page-over-page metaphor and allow a zone(s) for the passive close interaction mentioned above.
 
-![](../../_images/pattern-library/slideout-panel9.png)
+![Slideout panel 9](../../_images/pattern-library/slideout-panel9.png)
 
 ## Modals
 
@@ -129,7 +129,7 @@ This method of nesting a 12-column page-grid inside the slideout panel is repeat
 
 When an action is taken that triggers a modal, the modal window should appear center-aligned in the user's browser window. The modal should appear to fade in or grow from the center of the screen. The timing of this animation should be set to about 0.3s. When the modal is triggered, the parent page should become disabled and shaded while the modal is active.
 
-![](../../_images/pattern-library/modal1.png)
+![Modal 1](../../_images/pattern-library/modal1.png)
 
 Example of a Confirmation Modal
 
@@ -148,7 +148,7 @@ The active modal should include the following elements:
 
 Every modal should include a close control ( × ) in the upper right corner as well as a "Cancel" link or button.  Additionally, if the user clicks or taps the shaded area outside of the modal container the modal will cancel and close. The ESC-key via keyboard will close/cancel the active modal window.
 
-![](../../_images/pattern-library/modal3.png)
+![Modal 3](../../_images/pattern-library/modal3.png)
 
 Modal "Cancel" and "Close" controls
 
@@ -156,7 +156,7 @@ Modal "Cancel" and "Close" controls
 
 The modal should be center-aligned in the user's browser window and be 75% of the viewport width. The content within the modal window should flex accordingly to the width of the browser window and the modal width.
 
-![](../../_images/pattern-library/modal4.png)
+![Modal 4](../../_images/pattern-library/modal4.png)
 
 The distance of the modal to the top of the browser should have a fixed distance and NOT be percentage-based. This will insure that the "title" and top "close control" will be visible if the modal window is taller than the viewport. Within the content area of the modal window itself there should be 30px padding.
 

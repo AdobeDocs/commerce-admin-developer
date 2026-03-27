@@ -29,7 +29,7 @@ However, an icon or a design element in an icon can sometimes serve different fu
 
 In the Admin, icons have a simple, flat, single-color, and two-dimensional style. This style prevents loss of detail at smaller sizes and makes the shapes easier to recognize.
 
-![](../../_images/style-guide/Magento-icon-contact-sheet.png)
+![Magento icon contact sheet](../../_images/style-guide/Magento-icon-contact-sheet.png)
 
 ## Creating icons
 
@@ -57,11 +57,11 @@ For any icon to be used in Admin, ask the Adobe Commerce Product Team to review 
 
 Here's one method to get started:
 
-![](../../_images/style-guide/icon-construction-guide.png)
+![Icon construction guide](../../_images/style-guide/icon-construction-guide.png)
 
 Learn how to use the icon grid:
 
-![](../../_images/style-guide/using-icon-grid.png)
+![Using icon grid](../../_images/style-guide/using-icon-grid.png)
 
 ## Icon fonts
 

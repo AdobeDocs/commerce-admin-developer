@@ -19,11 +19,11 @@ When the value of a textfield does not have a default value set.
 
 ## Behavior
 
-![](../../_images/pattern-library/defaultconfig_behavior.jpg)
+![Default configuration behavior](../../_images/pattern-library/defaultconfig_behavior.jpg)
 
 ## Style
 
-![](../../_images/pattern-library/defaultconfig_style.jpg)
+![Default configuration style](../../_images/pattern-library/defaultconfig_style.jpg)
 
 ## Variations
 
@@ -33,13 +33,13 @@ There are two variations. The behavior and style remains the same. The label is 
 
 Value is taken from default scope and user needs to switch to default scope to change the default value
 
-![](../../_images/pattern-library/variation1.jpg)
+![Variation 1](../../_images/pattern-library/variation1.jpg)
 
 ### "Use Configuration Value"
 
 Value is set in Stores > Store configuration and user has to go there to change the default.
 
-![](../../_images/pattern-library/variation2.jpg)
+![Variation 2](../../_images/pattern-library/variation2.jpg)
 
 ## Accessibility
 

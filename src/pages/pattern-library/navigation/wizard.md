@@ -33,7 +33,7 @@ Use this pattern when the user needs to go through a process to accomplish a tas
 
 The whole structure must be responsive and fluid.
 
-![](../../_images/pattern-library/structure-wizard.jpg)
+![Structure wizard](../../_images/pattern-library/structure-wizard.jpg)
 
 **1. Wizard Title:**
 
@@ -63,7 +63,7 @@ This should always be in the format "Step #: Step Label".
 
 Refer to below for basic styling. The special cases of styling can be found under variations.
 
-![](../../_images/pattern-library/wizard-pattern-styles.jpg)
+![Wizard pattern styles](../../_images/pattern-library/wizard-pattern-styles.jpg)
 
 ## Interaction and Behavior
 
@@ -92,7 +92,7 @@ If the user is creating a new flow using wizard, the future steps can be disable
 
 **Other Navigation** (besides back and next buttons)
 
-![](../../_images/pattern-library/wizard-pattern-behavior.jpg)
+![Wizard pattern behavior](../../_images/pattern-library/wizard-pattern-behavior.jpg)
 
 ## Variations
 
@@ -100,27 +100,27 @@ If the user is creating a new flow using wizard, the future steps can be disable
 
 In the first step, back button is disabled.
 
-![](../../_images/pattern-library/wizard-Variation1.1.png)
+![Wizard variation 1.1](../../_images/pattern-library/wizard-Variation1.1.png)
 
-![](../../_images/pattern-library/wizard-Variation1.2.png)
+![Wizard variation 1.2](../../_images/pattern-library/wizard-Variation1.2.png)
 
 In the last step, next button is disabled.
 
-![](../../_images/pattern-library/wizard-Variation1.3.png)
+![Wizard variation 1.3](../../_images/pattern-library/wizard-Variation1.3.png)
 
 ### 2.Process with Save Functionality at Any Step
 
 In the first step, back button is disabled, and next button is enabled. Save button is present so the user who only need to edit specific step, can 'Save' right after they are done editing.
 
-![](../../_images/pattern-library/wizard-Variation3.1.png)
+![Wizard variation 3.1](../../_images/pattern-library/wizard-Variation3.1.png)
 
 Any other steps, Save button is present. Both 'Back' and 'Next' buttons are enabled.
 
-![](../../_images/pattern-library/wizard-Variation3.2.png)
+![Wizard variation 3.2](../../_images/pattern-library/wizard-Variation3.2.png)
 
 'Next' button becomes disabled. The user will use 'Save' button for saving.
 
-![](../../_images/pattern-library/wizard-Variation3.3.png)
+![Wizard variation 3.3](../../_images/pattern-library/wizard-Variation3.3.png)
 
 ### 3. Process with many steps that cannot fit in the given section
 
@@ -128,4 +128,4 @@ It is not recommended to have too many steps for a wizard. But if a use case ari
 
 (for specific styling of this variation, refer to the link to .psd files in Assets.)
 
-![](../../_images/pattern-library/wizard-Variation4.png)
+![Wizard variation 4](../../_images/pattern-library/wizard-Variation4.png)

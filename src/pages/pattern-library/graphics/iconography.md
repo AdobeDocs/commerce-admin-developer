@@ -23,7 +23,7 @@ Typically icons should represent a single, unique concept and be used consistent
 
 In the Admin UI icons have a simple, flat, single-color, 2D, style. This style prevents the loss of detail at smaller sizes and makes the shapes easier to comprehend.
 
-![](../../_images/pattern-library/Magento-icon-contact-sheet.png)
+![Magento icon contact sheet](../../_images/pattern-library/Magento-icon-contact-sheet.png)
 
 ## Creating Icons
 
@@ -43,11 +43,11 @@ Any icon that is intended for general use in the UI should be submitted to the C
 
 Here is a guide to help you get started creating your own icon:
 
-![](../../_images/pattern-library/icon-construction-guide.png)
+![Icon construction guide](../../_images/pattern-library/icon-construction-guide.png)
 
 How to use the icon grid:
 
-![](../../_images/pattern-library/using-icon-grid.png)
+![Using icon grid](../../_images/pattern-library/using-icon-grid.png)
 
 ## Icon Fonts
 

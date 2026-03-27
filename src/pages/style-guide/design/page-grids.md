@@ -13,7 +13,7 @@ In the Admin, a grid is used on all pages to establish global layouts for page t
 -  The 12-column grid's minimum width spans 984px. The grid expands its layout across larger screens.
 -  For views smaller than 984px, a page's layout doesn't change as the page shrinks to fit smaller screen widths.
 
-![](../../_images/style-guide/PageGrid.png)
+![Page grid](../../_images/style-guide/PageGrid.png)
 
 ## Slide-out grid
 
@@ -33,7 +33,7 @@ When a panel spawns, it slides from right to left atop and almost completely ove
 
 Standard layout within the edges of a browser screen
 
-![](../../_images/style-guide/slideout-panel7.png)
+![Slide-out panel 7](../../_images/style-guide/slideout-panel7.png)
 
 (Panel position in relation to browser edge)
 
@@ -43,7 +43,7 @@ Spacing:
 
 Slide-out content is contained in a 12-column page grid, with additional 15px padding on the left edge. The gutter spacing at left is fluid, based on browser width.
 
-![](../../_images/style-guide/slideout-panel8.png)
+![Slide-out panel 8](../../_images/style-guide/slideout-panel8.png)
 
 (Nested page-grid with additional padding)
 
@@ -53,4 +53,4 @@ Nested slide-outs:
 
 For multiple panels displayed, additional gutter space is used at left to show a small sliver of a Slide-out below another Slide-out.
 
-![](../../_images/style-guide/slideout-panel9.png)
+![Slide-out panel 9](../../_images/style-guide/slideout-panel9.png)

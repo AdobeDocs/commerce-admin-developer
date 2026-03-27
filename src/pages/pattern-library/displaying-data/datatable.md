@@ -36,7 +36,7 @@ This specification defines the following features for the data-table:
 *  Multiple item select and edit
 *  Image/Thumbnail placement
 
-![](../../_images/pattern-library/datatable01.jpg)
+![Datatable 01](../../_images/pattern-library/datatable01.jpg)
 
 ## Data-table Visual Architecture
 
@@ -53,9 +53,9 @@ The data-table will contain the following elements where applicable and as neede
 
 The data-table will be designed in such a way that any of the above controls can be removed, collapsing the table gracefully.
 
-![](../../_images/pattern-library/datatable02.jpg)
+![Datatable 02](../../_images/pattern-library/datatable02.jpg)
 
-![](../../_images/pattern-library/datatable03.jpg)
+![Datatable 03](../../_images/pattern-library/datatable03.jpg)
 
 ## Pagination
 
@@ -68,7 +68,7 @@ Pagination controls allow the user to easily page through and organize data. Pag
 *  'Next' button
 *  'Previous' button when applicable
 
-![](../../_images/pattern-library/datatable04.jpg)
+![Datatable 04](../../_images/pattern-library/datatable04.jpg)
 
 ### Pagination Rules
 
@@ -79,37 +79,37 @@ Pagination controls allow the user to easily page through and organize data. Pag
 *  'Skip to' will be instantiated once the value is changed and [Return] or [Tab] is clicked.
 *  A custom number of items per page can be set by selecting the "Custom" link which will allow users to specify a number. This number can be edited.
 
-![](../../_images/pattern-library/datatable05.jpg)
+![Datatable 05](../../_images/pattern-library/datatable05.jpg)
 
-![](../../_images/pattern-library/datatable06.jpg)
+![Datatable 06](../../_images/pattern-library/datatable06.jpg)
 
-![](../../_images/pattern-library/datatable07.jpg)
+![Datatable 07](../../_images/pattern-library/datatable07.jpg)
 
 ## Mass Actions
 
 A common theme across the existing application user experience includes mass actions that can be taken. This is a convention used on both data-table and non-data-table pages. Not all pages have these action buttons. This document will not attempt to capture all actions that appear here or how they might be redesigned. This document will make note that these actions exist on many of the data-table pages and will use the area directly above the table to indicate placement of such action buttons where they might be needed.
 
-![](../../_images/pattern-library/datatable08.jpg)
+![Datatable 08](../../_images/pattern-library/datatable08.jpg)
 
 Actions will be positioned above the table . Each table  will have it's own set of actions, some tables will have no actions. This new proposal removes the submit button which is currently visible next to the "Actions" drop down selector. In the event that any confirmations are needed for actions, modal dialogs will be used.
 
-![](../../_images/pattern-library/datatable09.jpg)
+![Datatable 09](../../_images/pattern-library/datatable09.jpg)
 
 ### Single Actions
 
 These actions will appear within the data area of the table where applicable. When this action column is applicable, it will always appear on the far right of the table . Single actions will allow users to take action on a record within the table . In most cases, no more than one action will appear here. In the event that additional actions are needed, they will appear in the form of a drop down. These actions are specific to the single record in which they are associated. In the event that a user selects multiple items in the table, these actions will be disabled or hidden.
 
-![](../../_images/pattern-library/datatable10.jpg)
+![Datatable 10](../../_images/pattern-library/datatable10.jpg)
 
 ### Messaging and Confirmation
 
 There are times when an action needs to be confirmed. In these cases, the user's task will be interrupted with a message asking the user to confirm the operation before proceeding. This message is presented via a modal dialog.
 
-![](../../_images/pattern-library/datatable11.jpg)
+![Datatable 11](../../_images/pattern-library/datatable11.jpg)
 
 Once an action is taken, success/fail messaging should appear as an overlay which fades away. Certain actions mayrequire that an Undo action be provided. This experience should be the same whether a single file is being deleted via the "actions" button for that record or 1 or more files have been selected via a checkbox and deleted via the mass actions delete.
 
-![](../../_images/pattern-library/datatable12.jpg)
+![Datatable 12](../../_images/pattern-library/datatable12.jpg)
 
 ## Table Control
 
@@ -131,17 +131,17 @@ The keyword search function and table controls will be:
 
 As the table  scrolls, the table controls will dynamically condense to a single row. All functionality of the controls will remain available.
 
-![](../../_images/pattern-library/datatable13.jpg)
+![Datatable 13](../../_images/pattern-library/datatable13.jpg)
 
 The persistent header will reactivate when you scroll back up:
 
-![](../../_images/pattern-library/datatable14.jpg)
+![Datatable 14](../../_images/pattern-library/datatable14.jpg)
 
 ### Multiple Data-tables on Page
 
 The header will stick to the first table until the user scrolls past the bottom of that table . The header will have the same behavior for each subsequent data-table.
 
-![](../../_images/pattern-library/datatable15.jpg)
+![Datatable 15](../../_images/pattern-library/datatable15.jpg)
 
 ### Interactions
 
@@ -164,24 +164,24 @@ The data-table will remain in the current viewport when the user:
 
 The table can be scrolled horizontally. And to keep the row identifiable, the checkbox column and first column will be sticky. In creating the grid, the first column must always be an identifiable attribute such as name.
 
-![](../../_images/pattern-library/datatable16.jpg)
+![Datatable 16](../../_images/pattern-library/datatable16.jpg)
 
 If there are more columns than can be shown in one view, the vertical scroll bar should appear for navigating to the rest of the column options as seen in the image below. Only 6 options should be shown per each vertical column, we should ensure that the all area of panel will be visible above the page fold.
 
-![](../../_images/pattern-library/datatable17.jpg)
+![Datatable 17](../../_images/pattern-library/datatable17.jpg)
 
 In the example below, the first column is "Name" rather than "Customer ID."
 This horizontal scroll should still work with page scroll and sticky header.
 
-![](../../_images/pattern-library/datatable18.jpg)
+![Datatable 18](../../_images/pattern-library/datatable18.jpg)
 
 ## Search
 
 When the user enters a keyword in the search field and submits the query (by clicking the spyglass icon), the table will display only records that contain the designated keyword. The search term is displayed as a "chip" below the search field (and inline with any additional filters that were applied). In this layout, additional search terms can be paired with the initial term to further refine the results. Each time a term is submitted, the data is filtered, the term is displayed as a "chip" and the search field returns to it's initial state (it does not retain the term entered my the user).
 
-![](../../_images/pattern-library/datatable19.jpg)
+![Datatable 19](../../_images/pattern-library/datatable19.jpg)
 
-![](../../_images/pattern-library/datatable20.jpg)
+![Datatable 20](../../_images/pattern-library/datatable20.jpg)
 
 ### Autocomplete
 
@@ -189,19 +189,19 @@ As text is added to the search field, the system will suggest terms and phrases 
 
 *  No more than 5 suggestions should be displayed at a time
 
-![](../../_images/pattern-library/datatable21.jpg)
+![Datatable 21](../../_images/pattern-library/datatable21.jpg)
 
 ### Search/Filter Tags
 
 Once a search term or filter is applied and results are loaded into the table, the terms or parameters used to filter by are displayed in the minified version of the "filter chip(s)". If the user removes all the tags, the filters row would disappear.
 
-![](../../_images/pattern-library/datatable22.jpg)
+![Datatable 22](../../_images/pattern-library/datatable22.jpg)
 
 ### Error Checking/Validation
 
 There will be no form validation or error checking for search queries since any combination of characters may be searched. Messaging will display in the data area when no results can be returned.
 
-![](../../_images/pattern-library/datatable23.jpg)
+![Datatable 23](../../_images/pattern-library/datatable23.jpg)
 
 ### User Flow
 
@@ -211,21 +211,21 @@ Upon conducting a query, a result set is returned based on the above rules. Once
 
 The user will be able to select which columns are visible from here. Settings will also be contained in a panel that can be activated by clicking on the columns action. Users will also have the ability to cancel out of this prompt, as well as reset (restore) the table back to it's default column view. These settings will be 'sticky' per table, so users returning to any particular table will see the table the way it was last configured.
 
-![](../../_images/pattern-library/datatable24.jpg)
+![Datatable 24](../../_images/pattern-library/datatable24.jpg)
 
-![](../../_images/pattern-library/datatable25.jpg)
+![Datatable 25](../../_images/pattern-library/datatable25.jpg)
 
 ### Custom Views
 
 Custom views allow the user to save the state of a table. When a view is saved, the table settings will be stored. These settings include column visibility and position, as well as any filter or search that has been applied to the table. Saving a 'view' will be done via a dropdown control. Saved views will be available per table.
 
-![](../../_images/pattern-library/datatable26.jpg)
+![Datatable 26](../../_images/pattern-library/datatable26.jpg)
 
 ### Editing Saved Views
 
 Views can be named or deleted by clicking an edit icon. Refer to "Adding a custom value to drop down list" above for more detailed behavior.
 
-![](../../_images/pattern-library/datatable27.jpg)
+![Datatable 27](../../_images/pattern-library/datatable27.jpg)
 
 ## Filters
 
@@ -235,23 +235,23 @@ Filters allow users to customize the display of information in an associated dat
 
 To access the Advanced Filters the user may click/tap the "Filters" button found in the table controls area. When activated, the button transforms into a tab and displays the available filters in a 'drawer' which opens between the table controls and the table data. The available filters are determined by the columns present in the table; therefore, if the user customizes the column visibility of the table to show some columns and hide others, the corresponding filters for these columns will display or hide in the filter 'drawer'.
 
-![](../../_images/pattern-library/filter_init.png)
+![Filter init](../../_images/pattern-library/filter_init.png)
 
 <InlineAlert variant="info" />
 
 Not all columns may be filtered (such as **Actions** or checkbox select) and therefore will not be presented in the list of filters even though their columns are visible in the data-table.
 
-![](../../_images/pattern-library/filter_drawer.png)
+![Filter drawer](../../_images/pattern-library/filter_drawer.png)
 
 To apply filters, the user sets the desired parameters in the input fields of the appropriate filters. The action initiated by clicking/tapping the "Apply" button (found in the advanced filters area). When applied, the advanced filter 'drawer' closes and the data-table refreshes to display the filtered data. The applied filters are indicated to the user in the form of filter 'tags' that appear between the filter button and the table data. Filter 'tag' are listed in the order that they are applied and each individual 'tag' has a control for removing it.
 
-![](../../_images/pattern-library/filter_applied.png)
+![Filter applied](../../_images/pattern-library/filter_applied.png)
 
 ### Removing Filters
 
 Users may remove a filter setting by clicking/tapping the remove control next to the filter 'tag'. Doing so removes the particular filter from the *query*, the table refreshes and the data excluded by that filter then appears in the table. The user can quickly remove all applied filters by clicking/tapping the "clear all" link that follows the list of 'filter tags'.
 
-![](../../_images/pattern-library/filter_remove.png)
+![Filter remove](../../_images/pattern-library/filter_remove.png)
 
 ## Data Table Views
 
@@ -278,7 +278,7 @@ This will be handled by the 'Reset' function in the settings drop down button. A
 
 This feature will allow users to make bulk selections to items within any given data-table. Because users may be dealing with many "pages" of data, this function needs to be specific in respect to what is being selected. Thus a drop down will be used to allow for multiple options for selecting records.
 
-![](../../_images/pattern-library/datatable38.jpg)
+![Datatable 38](../../_images/pattern-library/datatable38.jpg)
 
 This drop down will include the following:
 
@@ -293,11 +293,11 @@ This drop down only needs to appear where more than one page of data is availabl
 
 The total number of records loaded into the table  will display above the column headers.
 
-![](../../_images/pattern-library/datatable39.jpg)
+![Datatable 39](../../_images/pattern-library/datatable39.jpg)
 
 As items are selected on the grid, a count for the number of items selected should be displayed next to the total count. This will give the user confidence that records are selected though they may not be on the current page view.
 
-![](../../_images/pattern-library/datatable40.jpg)
+![Datatable 40](../../_images/pattern-library/datatable40.jpg)
 
 ### Select
 
@@ -308,19 +308,19 @@ For tables which require a select column:
 *  Users may select multiple rows by using the checkboxes or the select all function.
 *  Selected rows will be indicated by a checked box and a highlight and/or border style which will delineate the selected rows from unselected rows.
 
-![](../../_images/pattern-library/datatable41.jpg)
+![Datatable 41](../../_images/pattern-library/datatable41.jpg)
 
 ### Toggle Switches
 
 Some data-tables will be used to display "settings" content. In these instances a checkbox is not ideal for the experience, as it can be confusing to the user when pre-selected settings are displayed. Switches make the action and intent more clear to the user for these tasks. Therefore, if switches are present, checkboxes should not; the two should never be used in the same table. Since switches replace the functionality of checkboxes they should be the first column of the data-table.
 
-![](../../_images/pattern-library/datatable42.jpg)
+![Datatable 42](../../_images/pattern-library/datatable42.jpg)
 
 ### Single Select Button
 
 The data table can also accommodate buttons in rows, and has a special case in the "Single Select" button.  This button functions not unlike a typical radio button control, but is used instead of the radio button when the task flow or experience in the Admin application are better served with the more implicit action of selecting a single choice from a data table. This provides greater visibility and immediate confirmation of the action to the user. The use of this should be carefully considered in the context of the experience to determine if it provides greater understanding to the user than radio buttons.
 
-![](../../_images/pattern-library/single_select_button.png)
+![Single select button](../../_images/pattern-library/single_select_button.png)
 
 ## Editing
 
@@ -337,13 +337,13 @@ Not all data-tables will allow for inline editing.
 *  Once a row becomes editable, action buttons will appear below the row allowing a user to commit or cancel the edit.
 *  Editable fields will have a left-to-right tab order. [Tab] and [Enter] will set focus on the next editable field in the tab order, unless the focus is set to the last field in the tab order in which case [Enter] will commit the edit while [Tab] will set focus to the Save button.
 
-![](../../_images/pattern-library/datatable43.jpg)
+![Datatable 43](../../_images/pattern-library/datatable43.jpg)
 
-![](../../_images/pattern-library/datatable44.jpg)
+![Datatable 44](../../_images/pattern-library/datatable44.jpg)
 
 Inline editing may require error handling on some fields. This should be done using real-time field validation. Some fields may allow for only a specific set of values. In these instances, a select or multi-select interaction should be used.
 
-![](../../_images/pattern-library/datatable45.jpg)
+![Datatable 45](../../_images/pattern-library/datatable45.jpg)
 
 ## Miscellaneous Features
 
@@ -355,7 +355,7 @@ Some data-tables will allow users to arrange columns in a customized order. A us
 
 When dropped on an area that is not highlighted (or off target of the highlighted area) the column will return to it's original position. If the user wishes to maintain this position for future viewing, they must set a "Saved View", otherwise the default column order will prevail for following sessions.
 
-![](../../_images/pattern-library/datatable46.jpg)
+![Datatable 46](../../_images/pattern-library/datatable46.jpg)
 
 ### Drag and Drop Rows
 
@@ -367,27 +367,27 @@ Inline editing functionality should not be available for tables that require dra
 
 ### Single rows may be arranged via drag and drop
 
-![](../../_images/pattern-library/datatable47.jpg)
+![Datatable 47](../../_images/pattern-library/datatable47.jpg)
 
 ### Multiple rows may also be arranged via drag and drop
 
-![](../../_images/pattern-library/datatable48.jpg)
+![Datatable 48](../../_images/pattern-library/datatable48.jpg)
 
 ### Thumbnails
 
 In cases where an image is associated with the data, as in the case of a product, the data-table will display a thumbnail view of the primary or default image (typically the first image in a series of image). By default the thumbnail image will appear to the far left of the table (after select checkboxes when present). The thumbnail image is a 'clickable target' independent of the typical click behavior of the row.
 
-![](../../_images/pattern-library/datatable49.jpg)
+![Datatable 49](../../_images/pattern-library/datatable49.jpg)
 
 When the thumbnail is clicked a modal is presented over the data-table to provide a larger, more detailed view of the image. This modal should contain a heading that corresponds to the associated product name; a close control for the modal; a hyperlink that redirects the user to the details page.
 
-![](../../_images/pattern-library/datatable50.jpg)
+![Datatable 50](../../_images/pattern-library/datatable50.jpg)
 
 ### Parent-Child relationships
 
 The data-table will support parent-child relationships. Parent and child records will be delineated via style and/or iconography. Parent nodes will be expandable/collapsible.
 
-![](../../_images/pattern-library/datatable51.jpg)
+![Datatable 51](../../_images/pattern-library/datatable51.jpg)
 
 ## Interactions
 
@@ -399,7 +399,7 @@ General interaction should follow standard web conventions. Interaction around d
 *  Horizontal scrollbars will be present whenever the data-table's width expands beyond the browser's viewport.
 *  The data-table controls should not expand with the table , instead the controls will float as the table is scrolled in both the vertical and horizontal direction.
 
-![](../../_images/pattern-library/datatable52.jpg)
+![Datatable 52](../../_images/pattern-library/datatable52.jpg)
 
 ### Column Headers
 
@@ -414,7 +414,7 @@ General interaction should follow standard web conventions. Interaction around d
 
 Cursors will be used to indicate which actions the user can take in any particular situation. While cursors may differ slightly depending on operating system and browser, the below cursors are examples of what should be used per standard web conventions:
 
-![](../../_images/pattern-library/datatable53.jpg)
+![Datatable 53](../../_images/pattern-library/datatable53.jpg)
 
 ## Summary
 

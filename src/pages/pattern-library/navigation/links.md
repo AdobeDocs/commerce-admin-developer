@@ -21,7 +21,7 @@ When initiating an action or a process
 
 ## Style
 
-![](../../_images/pattern-library/links-style.png)
+![Links style](../../_images/pattern-library/links-style.png)
 
 ## Accessibility
 
@@ -50,9 +50,9 @@ Full Guideline Reference for Links: [https://www.w3.org/TR/WCAG10-HTML-TECHS/](h
 
 ### Links in forms/body of text that goes to an external page
 
-![](../../_images/pattern-library/links-example1.png)
+![Links example 1](../../_images/pattern-library/links-example1.png)
 
-![](../../_images/pattern-library/links-example3.png)
+![Links example 3](../../_images/pattern-library/links-example3.png)
 
 ### Breadcrumbs
 
@@ -69,4 +69,4 @@ Full Guideline Reference for Links: [https://www.w3.org/TR/WCAG10-HTML-TECHS/](h
 
 **Example:**
 
-![](../../_images/pattern-library/links-example5.png)
+![Links example 5](../../_images/pattern-library/links-example5.png)

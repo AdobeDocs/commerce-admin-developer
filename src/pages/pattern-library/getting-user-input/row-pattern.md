@@ -48,23 +48,23 @@ The delete control _CAN_ allow the user to remove all rows, even the initial row
 
 The "Add" link however should always be present to allow the user to add a row, even in the event of deleting all rows.
 
-![](../../_images/pattern-library/behavior.png)
+![Behavior](../../_images/pattern-library/behavior.png)
 
 ## Pagination
 
 For better performance, the Row Pattern pagination should be enabled automatically whenever 20 (or more) rows are present. Once pagination is enabled an "Order" column should be appended to allow the user to rearrange the rows.
 
-![](../../_images/pattern-library/pagination.png)
+![Pagination](../../_images/pattern-library/pagination.png)
 
 Once pagination is enabled an "Order" column should be appended to allow the user to rearrange the rows.
 
-![](../../_images/pattern-library/drag.png)
+![Drag](../../_images/pattern-library/drag.png)
 
 ## Examples
 
 Typically the Row Pattern will span either 8 or 12 columns for the page grid, depending on the layout of the page or panel on which it appears. The Row Pattern should accommodate all typical form elements as are necessary, but discretion should be used to insure the elements within the row are easy to read and interact with and do not become to cramped within the space.
 
-![](../../_images/pattern-library/row-examples.png)
+![Row examples](../../_images/pattern-library/row-examples.png)
 
 ## Accessibility
 

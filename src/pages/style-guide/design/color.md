@@ -9,4 +9,4 @@ keywords:
 
 Our color palette reflects our brand personality. It meets accessibility standards and provides clear legibility, hierarchy, navigation, and messaging.
 
-![](../../_images/style-guide/ColorPalette.jpg)
+![Color palette](../../_images/style-guide/ColorPalette.jpg)
