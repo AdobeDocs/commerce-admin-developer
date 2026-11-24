@@ -4,7 +4,7 @@ base_branch: main
 
 # The list of repositories to scan for pull requests
 repos:
-  - AdobeDocs/commerce-services
+  - AdobeDocs/commerce-admin-developer
 
 # Labels also will be used as a 'type' value in the output file
 labels:
